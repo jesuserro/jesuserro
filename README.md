@@ -8,7 +8,7 @@
 
 ### 💻 Web Developer | 📚 book reviewer | 📷 photographer 
 
-- 🚀 I’m currently working at the best Travel Agency online: [Centraldereservas.com] (https://www.centraldereservas.com/)
+- 🚀 I’m currently working at the best Travel Agency online: [Centraldereservas.com](https://www.centraldereservas.com/)
 - 🔭 I’m collaborating on Obsidian apps.
 - 🤓 I’m learning more about: Obsidian, Typescript and Docker.
 
