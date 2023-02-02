@@ -8,8 +8,9 @@
 
 ### 💻 Web Developer | 📚 book reviewer | 📷 photographer 
 
-- 🔭 I’m currently collaborating on Obsidian apps.
-- 🤓 I’m currently learning more about: Obsidian and Typescript.
+- 🔭 I’m currently working at the best online Travel Agency, Centraldereservas.com.
+- 🔭 I’m collaborating on Obsidian apps.
+- 🤓 I’m learning more about: Obsidian, Typescript and Docker.
 
 ---
 
