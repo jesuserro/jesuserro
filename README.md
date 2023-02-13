@@ -9,8 +9,8 @@
 ### 💻 Web Developer | 📚 book reviewer | 📷 photographer 
 
 - 🚀 Working at [Centraldereservas.com](https://www.centraldereservas.com/)
-- 🔭 Collaborating on some Obsidian plugins.
-- 🤓 Learning: Docker, SOLID code, TDD and many other things.
+- 🔭 Creating Obsidian plugins & VSCODE extensions.
+- 🤓 Continously learning.
 
 ---
 
