@@ -6,7 +6,7 @@
 
 ![Jesus' github stats](https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical)
 
-### 💻 Web Developer | 📚 book reviewer | 📷 photographer 
+### 💻 Web Developer | 📚 book reviewer | 📷 amateur photographer 
 
 - 🚀 Working at [Centraldereservas.com](https://www.centraldereservas.com/)
 - 🔭 Creating [Obsidian](https://obsidian.md/) plugins & [VSCODE](https://code.visualstudio.com/) extensions.
