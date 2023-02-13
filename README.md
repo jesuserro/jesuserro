@@ -8,9 +8,9 @@
 
 ### 💻 Web Developer | 📚 book reviewer | 📷 photographer 
 
-- 🚀 I’m currently working at [Centraldereservas.com](https://www.centraldereservas.com/)
-- 🔭 I’m collaborating on Obsidian apps.
-- 🤓 I’m learning more about: Obsidian, Typescript and Docker.
+- 🚀 Working at [Centraldereservas.com](https://www.centraldereservas.com/)
+- 🔭 Collaborating on Obsidian apps.
+- 🤓 Learning about: Obsidian, Typescript and Docker.
 
 ---
 
