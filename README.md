@@ -6,7 +6,7 @@
 
 ![Jesus' github stats](https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical)
 
-### 💻 IT Developer [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] | 📚 Bookworm | 📷 Amateur Photographer 
+### 💻 IT Developer ![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) | 📚 Bookworm ![Goodreads profile](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)] | 📷 Amateur Photographer ![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
 
 - 🚀 Working at [Centraldereservas.com](https://www.centraldereservas.com/)
 - 🔭 Creating [Obsidian](https://obsidian.md/) plugins & [VSCODE](https://code.visualstudio.com/) extensions.
