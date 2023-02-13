@@ -9,7 +9,7 @@
 ### 💻 Web Developer | 📚 book reviewer | 📷 photographer 
 
 - 🚀 Working at [Centraldereservas.com](https://www.centraldereservas.com/)
-- 🔭 Creating Obsidian plugins & VSCODE extensions.
+- 🔭 Creating [Obsidian plugins](https://obsidian.md/) & [VSCODE](https://code.visualstudio.com/) extensions.
 - 🤓 Continously learning.
 
 ---
