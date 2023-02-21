@@ -8,7 +8,7 @@
 
 ### 💻 IT Developer | 📚 Bookworm | 📷 Amateur Photographer 
 
-- 🚀 Using PHP 8+, Docker, Nodejs, Typescript, MySQL. Helped by ChatGPT and Obsidian notes :)
+- 🚀 Using Windows 11 + WSL2 Ubuntu 22.04 LTS subsystem, PHP 8+, Docker, Nodejs, Typescript, MySQL. Helped by ChatGPT and Obsidian notes :)
 - 🔭 Creating [Obsidian](https://obsidian.md/) plugins & [VSCODE](https://code.visualstudio.com/) extensions.
 - 🤓 Continously learning.
 
