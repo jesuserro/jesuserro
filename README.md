@@ -8,7 +8,7 @@
 
 ### 💻 IT Developer | 📚 Bookworm | 📷 Amateur Photographer 
 
-- 🚀 Working at [Centraldereservas.com](https://www.centraldereservas.com/)
+- 🚀 Using PHP 8+, Docker, Nodejs, Typescript, MySQL. Helped by ChatGPT and Obsidian notes :)
 - 🔭 Creating [Obsidian](https://obsidian.md/) plugins & [VSCODE](https://code.visualstudio.com/) extensions.
 - 🤓 Continously learning.
 
