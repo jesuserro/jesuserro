@@ -55,8 +55,7 @@
 ---
 
 ### 🎧 Spotify Playing
-
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="olagato spotify playing" width="350" />]()
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5P1oJ0auFdsPaM7aI5DoIO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <!-- LINKS -->
 [yt]: https://www.youtube.com/channel/UCABS8RZnJzGI_w9oauOvSxg?sub_confirmation=1
