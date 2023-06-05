@@ -6,7 +6,7 @@
 
 ![Jesus' github stats](https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical)
 
-### 💻 IT Developer | 📚 Bookworm | 📷 Amateur Photographer 
+### 💻 IT Developer | 📚 Bookworm | 📷 Amateur Photographer | 👎 Loser in general 
 
 - 🛠️ Using Windows 11 + WSL2 Ubuntu 22.04 LTS subsystem, Docker, PHP 8+, Nodejs, Typescript, MySQL.
 - 👷 Creating [Obsidian](https://obsidian.md/) plugins & [VSCODE](https://code.visualstudio.com/) extensions.
