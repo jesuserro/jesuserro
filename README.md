@@ -3,7 +3,7 @@
 [![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][ig]
 [![Goodreads profile](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)][gr]
 [![Lichess profile](https://img.shields.io/badge/Lichess-393732?style=for-the-badge&logo=lichess&logoColor=white)][lc]
-<img src="https://komarev.com/ghpvc/?jesuserro&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=jesuserro&style=flat-square&color=blue" alt=""/>
 
 
 ### 💻 IT Developer | 📚 Bookworm | 📷 Amateur Photographer | 🤡 Clown | 👎 Loser in general 
