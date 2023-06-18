@@ -6,10 +6,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=jesuserro&style=flat-square&color=blue" alt=""/>
 
-
 ### 💻 IT Developer | 📚 Bookworm | 📷 Amateur Photographer | 🤡 Clown | 👎 Loser in general 
 
-- 🛠️ Using Windows 11 + WSL2 Ubuntu 22.04 LTS subsystem, Docker, PHP 8+, Nodejs, Typescript, MySQL.
+- 🛠️ Using Windows 11 + WSL2 Ubuntu 23.04 LTS subsystem, Docker, PHP 8+, Nodejs, Typescript, React and MySQL.
 - 👷 Creating [Obsidian](https://obsidian.md/) plugins & [VSCODE](https://code.visualstudio.com/) extensions.
 - 🤓 Continously learning.
 - 🚀 Powered by ChatGPT :)
@@ -18,8 +17,6 @@
 ---
 
 ### 🚀 Coding
-
-
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -49,8 +46,6 @@
 
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 ---
-
-
 
 ### 🎥 Last Feeds
 
