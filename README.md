@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=jesuserro&style=flat-square&color=blue" alt=""/>
 
-### 💻 IT Developer | 📚 Bookworm | 📷 Amateur Photographer | 🤡 Clown | 👎 Loser in general 
+### 💻 IT Developer | 📚 Bookworm | 📷 Amateur Photographer
 
 - 🛠️ Using Windows 11 + WSL2 Ubuntu 23.04 LTS subsystem, Docker, PHP 8+, Nodejs, Typescript, React and MySQL.
 - 👷 Creating [Obsidian](https://obsidian.md/) plugins & [VSCODE](https://code.visualstudio.com/) extensions.
