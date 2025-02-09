@@ -15,7 +15,7 @@
 - 🛠️ Using Windows 11 + WSL2 Ubuntu 23.04 LTS subsystem + Docker.
 - 💻 PHP 8+, Nodejs, Typescript, React, Python and MySQL.
 - 👷 Exploring software architecture and implementing full-stack solutions. 
-- - <img src="https://avatars.githubusercontent.com/u/65011218?s=200&v=4"
+- <img src="images/obsidian-icon.png"
        alt="Obsidian Icon"
        width="20px"
        style="vertical-align: middle;" />
