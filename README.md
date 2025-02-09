@@ -3,6 +3,8 @@
 [![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][ig]
 [![Goodreads profile](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)][gr]
 [![Lichess profile](https://img.shields.io/badge/Lichess-393732?style=for-the-badge&logo=lichess&logoColor=white)][lc]
+[![Chess.com profile](https://img.shields.io/badge/Chess.com-2C8D2C?style=for-the-badge&logo=Chess.com&logoColor=white)][chess]
+
 
 <img src="https://komarev.com/ghpvc/?username=jesuserro&style=flat-square&color=blue" alt=""/>
 
@@ -63,4 +65,5 @@
 [tw]: https://twitter.com/jesuserro
 [gr]: https://www.goodreads.com/user/show/40291334-jes-s-erro
 [lc]: https://lichess.org/@/olagato
+[chess]: https://www.chess.com/member/olagato
 [topics]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics
