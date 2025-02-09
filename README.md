@@ -20,8 +20,6 @@
        width="20px"
        style="vertical-align: middle;" />
   Learning and creating [Obsidian](https://obsidian.md/) plugins.
-
- Learning and creating [Obsidian](https://obsidian.md/) plugins.
 - 🚀 Powered by ChatGPT, always learning and experimenting with AI.
 
 ---
