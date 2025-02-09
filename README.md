@@ -1,6 +1,10 @@
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C5616AQGBWz6HaFgq9w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1550672776130?e=1744848000&v=beta&t=zSuxuEz9d7ujpRIeepp8CM0SxzhMx1ycP_xlhrGg6ZM" alt="Header Banner" style="width:100%;"/>
+<div align="center" style="overflow: hidden;">
+  <img src="https://media.licdn.com/dms/image/v2/C5616AQGBWz6HaFgq9w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1550672776130?e=1744848000&v=beta&t=zSuxuEz9d7ujpRIeepp8CM0SxzhMx1ycP_xlhrGg6ZM" 
+       alt="Header Banner" 
+       style="width:100%; border-radius:15px;" />
 </div>
+
+## Jesús Erro
 
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][lk]
 [![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][ig]
