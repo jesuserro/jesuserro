@@ -14,6 +14,7 @@
 
 - 💻 Using Windows 11 + WSL2 Ubuntu 23.04 LTS subsystem + Docker.
 - 👷 Exploring software architecture and implementing full-stack solutions. 
+- 📊 Data Analytics Specialist with expertise in Python, Numpy, Pandas, Tableau, and Scikit-learn.
 - <img src="images/obsidian-icon.png"
        alt="Obsidian Icon"
        width="20px"
