@@ -25,11 +25,12 @@
 ---
 
 ![Jesús' GitHub stats](https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuserro&layout=compact&theme=radical)
 
 ---
 
 ### 💻 Coding
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuserro&layout=compact&theme=radical)
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
