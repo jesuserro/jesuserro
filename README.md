@@ -15,7 +15,8 @@
 - 🛠️ Using Windows 11 + WSL2 Ubuntu 23.04 LTS subsystem + Docker.
 - 💻 PHP 8+, Nodejs, Typescript, React, Python and MySQL.
 - 👷 Exploring software architecture and implementing full-stack solutions. 
-- - <img src="https://obsidian.md/images/logo.png" alt="Obsidian Icon" width="20px" style="vertical-align: middle;"/> Learning and creating [Obsidian](https://obsidian.md/) plugins.
+- [![Obsidian Badge](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)][obsidian]
+ Learning and creating [Obsidian](https://obsidian.md/) plugins.
 - 🚀 Powered by ChatGPT, always learning and experimenting with AI.
 
 ---
@@ -59,3 +60,4 @@
 [lc]: https://lichess.org/@/olagato
 [chess]: https://www.chess.com/member/olagato
 [topics]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics
+[obsidian]: https://obsidian.md
