@@ -40,7 +40,6 @@
 
 ---
 
-
 ### 🎧 Spotify Playing
 [Public playlist](https://open.spotify.com/playlist/6cZlnbJNn6P8Ad2GZ4YLis?si=515ff69023744a6c)
 
