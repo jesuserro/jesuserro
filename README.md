@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=jesuserro&style=flat-square&color=blue" alt=""/>
 
-### 💻 Software Engineer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Enthusiast | <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" alt="OpenAI Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast | 📚 Bookworm | 📷 Amateur Photographer
+### 💻 Software Engineer | <img src="https://static-00.iconduck.com/assets.00/python-icon-512x507-sim5l0pf.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Enthusiast | <img src="https://static-00.iconduck.com/assets.00/chatgpt-icon-512x505-lsw9n1n5.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast | 📚 Bookworm | 📷 Amateur Photographer
 
 - 🛠️ Using Windows 11 + WSL2 Ubuntu 23.04 LTS subsystem, Docker, PHP 8+, Nodejs, Typescript, React and MySQL.
 - 👷 Creating [Obsidian](https://obsidian.md/) plugins.
@@ -35,13 +35,13 @@
 <img align="left" alt="Flutter" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />
 <img align="left" alt="Dart" width="40px" src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" />
 
+<br/>
 
 ---
 
 ### 🎥 Last Feeds
 
 ---
-
 
 ### 🎧 Spotify Playing
 [Public playlist](https://open.spotify.com/playlist/6cZlnbJNn6P8Ad2GZ4YLis?si=515ff69023744a6c)
