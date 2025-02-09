@@ -13,7 +13,7 @@
 ### 💻 IT Developer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Specialist | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast | 📚 Bookworm | 📷 Amateur Photographer
 
 - 🛠️ Using Windows 11 + WSL2 Ubuntu 23.04 LTS subsystem + Docker.
-- 💻 Exploring software architecture and implementing full-stack solutions. 
+- 💻 Exploring software architecture | Implementing full-stack solutions. 
 - 📊 Data Analytics Specialist: [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Tableau](https://www.tableau.com/), and [Scikit-learn](https://scikit-learn.org/).
 - <img src="images/obsidian-icon.png"
        alt="Obsidian Icon"
