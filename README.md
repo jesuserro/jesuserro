@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=jesuserro&style=flat-square&color=blue" alt=""/>
 
-### 💻 Software Engineer | <img src="https://static-00.iconduck.com/assets.00/python-icon-512x507-sim5l0pf.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Enthusiast | <img src="https://static-00.iconduck.com/assets.00/chatgpt-icon-512x505-lsw9n1n5.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast | 📚 Bookworm | 📷 Amateur Photographer
+### 💻 Software Engineer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Enthusiast | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast | 📚 Bookworm | 📷 Amateur Photographer
 
 - 🛠️ Using Windows 11 + WSL2 Ubuntu 23.04 LTS subsystem, Docker, PHP 8+, Nodejs, Typescript, React and MySQL.
 - 👷 Creating [Obsidian](https://obsidian.md/) plugins.
