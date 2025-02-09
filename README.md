@@ -19,7 +19,7 @@
        alt="Obsidian Icon"
        width="20px"
        style="vertical-align: middle;" />
-  Learning and creating [Obsidian](https://obsidian.md/) plugins.
+  Learning with [Obsidian](https://obsidian.md/) and creating plugins.
 - 🚀 Powered by ChatGPT, always learning and experimenting with AI.
 
 ---
