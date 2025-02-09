@@ -5,9 +5,10 @@
 [![Chess.com profile](https://img.shields.io/badge/Chess.com-2C8D2C?style=for-the-badge&logo=Chess.com&logoColor=white)][chess]
 [![Lichess profile](https://img.shields.io/badge/Lichess-393732?style=for-the-badge&logo=lichess&logoColor=white)][lc]
 
+
 <img src="https://komarev.com/ghpvc/?username=jesuserro&style=flat-square&color=blue" alt=""/>
 
-### 💻 IT Developer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Developer | 📚 Bookworm | 📷 Amateur Photographer
+### 💻 Software Engineer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Enthusiast | <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" alt="OpenAI Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast | 📚 Bookworm | 📷 Amateur Photographer
 
 - 🛠️ Using Windows 11 + WSL2 Ubuntu 23.04 LTS subsystem, Docker, PHP 8+, Nodejs, Typescript, React and MySQL.
 - 👷 Creating [Obsidian](https://obsidian.md/) plugins.
@@ -34,11 +35,13 @@
 <img align="left" alt="Flutter" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />
 <img align="left" alt="Dart" width="40px" src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" />
 
+
 ---
 
 ### 🎥 Last Feeds
 
 ---
+
 
 ### 🎧 Spotify Playing
 [Public playlist](https://open.spotify.com/playlist/6cZlnbJNn6P8Ad2GZ4YLis?si=515ff69023744a6c)
