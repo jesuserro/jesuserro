@@ -10,7 +10,6 @@
 
 - 🛠️ Using Windows 11 + WSL2 Ubuntu 23.04 LTS subsystem, Docker, PHP 8+, Nodejs, Typescript, React and MySQL.
 - 👷 Creating [Obsidian](https://obsidian.md/) plugins.
-- 🤓 Continously learning.
 - 🚀 Powered by ChatGPT :)
 
 ![Jesus' github stats](https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical)
