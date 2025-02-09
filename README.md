@@ -20,7 +20,7 @@
        width="20px"
        style="vertical-align: middle;" />
   Learning with [Obsidian](https://obsidian.md/) | Creating plugins.
-- 🚀 Powered by ChatGPT, always learning and experimenting with AI.
+- 🚀 Powered by ChatGPT | Learning and experimenting with AI.
 
 ---
 
