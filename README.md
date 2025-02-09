@@ -15,7 +15,12 @@
 - 🛠️ Using Windows 11 + WSL2 Ubuntu 23.04 LTS subsystem + Docker.
 - 💻 PHP 8+, Nodejs, Typescript, React, Python and MySQL.
 - 👷 Exploring software architecture and implementing full-stack solutions. 
-- [![Obsidian Badge](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)][obsidian]
+- - <img src="https://avatars.githubusercontent.com/u/65011218?s=200&v=4"
+       alt="Obsidian Icon"
+       width="20px"
+       style="vertical-align: middle;" />
+  Learning and creating [Obsidian](https://obsidian.md/) plugins.
+
  Learning and creating [Obsidian](https://obsidian.md/) plugins.
 - 🚀 Powered by ChatGPT, always learning and experimenting with AI.
 
