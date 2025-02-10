@@ -18,7 +18,7 @@
        alt="Obsidian Icon"
        width="20px"
        style="vertical-align: middle;" />
-  Creating [Obsidian](https://obsidian.md/) plugins.
+  [Obsidian](https://obsidian.md/) fan.
 - 🛠️ Using Windows 11 + Linux subsystem WSL2 Ubuntu 23.04 LTS + Docker.
 - 🚀 Powered by ChatGPT | Learning and experimenting with AI.
 
