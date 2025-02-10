@@ -19,8 +19,8 @@
        width="20px"
        style="vertical-align: middle;" />
   Learning with [Obsidian](https://obsidian.md/) | Creating plugins.
-- 🚀 Powered by ChatGPT | Learning and experimenting with AI.
 - 🛠️ Using Windows 11 + WSL2 Ubuntu 23.04 LTS subsystem + Docker.
+- 🚀 Powered by ChatGPT | Learning and experimenting with AI.
 
 ---
 
