@@ -19,7 +19,7 @@
        width="20px"
        style="vertical-align: middle;" />
   Learning with [Obsidian](https://obsidian.md/) | Creating plugins.
-- 🛠️ Using Windows 11 + WSL2 Ubuntu 23.04 LTS subsystem + Docker.
+- 🛠️ Using Windows 11 + Linux subsystem WSL2 Ubuntu 23.04 LTS + Docker.
 - 🚀 Powered by ChatGPT | Learning and experimenting with AI.
 
 ---
