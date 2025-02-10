@@ -14,13 +14,13 @@
 
 - 💻 Exploring software architecture | Implementing full-stack solutions. 
 - 📊 Data Analytics Specialist: [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Tableau](https://www.tableau.com/), and [Scikit-learn](https://scikit-learn.org/).
+- 🛠️ Using Windows 11 + Linux subsystem WSL2 Ubuntu 23.04 LTS + Docker.
+- 🚀 Powered by ChatGPT | Learning and experimenting with AI.
 - <img src="images/obsidian-icon.png"
        alt="Obsidian Icon"
        width="20px"
        style="vertical-align: middle;" />
   [Obsidian](https://obsidian.md/) fan.
-- 🛠️ Using Windows 11 + Linux subsystem WSL2 Ubuntu 23.04 LTS + Docker.
-- 🚀 Powered by ChatGPT | Learning and experimenting with AI.
 
 ---
 
