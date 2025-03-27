@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://komarev.com/ghpvc/?username=jesuserro&style=flat-square&color=blue" alt=""/>
 
 </div>
 
@@ -43,7 +44,7 @@
   [![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][ig]
   [![Goodreads profile](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)][gr]
   [![Chess.com profile](https://img.shields.io/badge/Chess.com-2C8D2C?style=for-the-badge&logo=Chess.com&logoColor=white)][chess]
-  [![Lichess profile](https://img.shields.io/badge/Lichess-393732?style=for-the-badge&logo=lichess&logoColor=white)][lc] <img src="https://komarev.com/ghpvc/?username=jesuserro&style=flat-square&color=blue" alt=""/>
+  [![Lichess profile](https://img.shields.io/badge/Lichess-393732?style=for-the-badge&logo=lichess&logoColor=white)][lc] 
 
 ---
 
