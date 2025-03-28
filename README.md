@@ -39,7 +39,7 @@
 ### 💻 IT Developer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Specialist | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast | 📚 Bookworm | 📷 Amateur Photographer
 
 - 💻 Exploring software architecture | Implementing full-stack solutions. 
-- 📊 Data Analytics Specialist: [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Tableau](https://www.tableau.com/), and [Scikit-learn](https://scikit-learn.org/).
+- 📊 Data Analytics Specialist: Experienced in conducting A/B testing, model analysis (e.g., Random Forest, NLP), and delivering actionable insights through data-driven methodologies.
 - 🛠️ Using Windows 11 + Linux subsystem WSL2 Ubuntu 23.04 LTS + Docker.
 - 🚀 Powered by ChatGPT | Learning and experimenting with AI.
 - <img src="images/obsidian-icon.png"
