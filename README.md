@@ -116,6 +116,8 @@
   </table>
 </div>
 
+---
+
 ### 💻 IT Developer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Specialist | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast | 📚 Bookworm | 📷 Amateur Photographer
 
 - 💻 **[Software Architecture](https://en.wikipedia.org/wiki/Software_architecture)**: Exploring and implementing full-stack solutions with a focus on scalability and performance.  
@@ -125,6 +127,29 @@
   - 🎯 Delivering actionable insights through data-driven methodologies.  
 - 🤖 **[AI Enthusiast](https://en.wikipedia.org/wiki/Artificial_intelligence)**: Leveraging tools like [ChatGPT](https://openai.com/chatgpt) to learn, experiment, and innovate in artificial intelligence.  
 - 📝 **[Obsidian](https://obsidian.md/)** Fan: Organizing knowledge and ideas efficiently with Obsidian <img src="images/obsidian-icon.png" alt="Obsidian Icon" width="20px" style="vertical-align: middle;" />
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jesuserro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow" />
+  </a>
+  <a href="https://www.instagram.com/jesuserro/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
+  </a>
+  <a href="https://www.goodreads.com/user/show/40291334-jes-s-erro" target="_blank">
+    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads Profile" />
+  </a>
+  <a href="https://www.chess.com/member/olagato" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-2C8D2C?style=for-the-badge&logo=Chess.com&logoColor=white" alt="Chess.com Profile" />
+  </a>
+  <a href="https://lichess.org/@/olagato" target="_blank">
+    <img src="https://img.shields.io/badge/Lichess-393732?style=for-the-badge&logo=lichess&logoColor=white" alt="Lichess Profile" />
+  </a>
+  <a href="https://open.spotify.com/playlist/6cZlnbJNn6P8Ad2GZ4YLis?si=515ff69023744a6c" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  </a>
+</div>
 
 ---
 
