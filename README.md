@@ -121,13 +121,13 @@
 
 ---
 
-- 💻 **[Software Architecture](https://en.wikipedia.org/wiki/Software_architecture)**: Exploring and implementing full-stack solutions with a focus on scalability and performance.  
+- 💻 **Software Architecture**: Exploring and implementing full-stack solutions with a focus on scalability and performance.  
 - 📊 **Data Analytics**:  
   - ✅ [A/B Testing](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard): Designing and analyzing experiments to optimize performance.  
-  - 📈 Model Analysis: Specialist in techniques like [Random Forest](https://en.wikipedia.org/wiki/Random_forest) and [NLP](https://en.wikipedia.org/wiki/Natural_language_processing).  
+  - 📈 Model Analysis: Specialist in techniques like [Random Forest](https://github.com/jesuserro/weather-prediction-machine-learning) and [NLP](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search).  
   - 🎯 Delivering actionable insights through data-driven methodologies.  
-- 🤖 **[AI Enthusiast](https://en.wikipedia.org/wiki/Artificial_intelligence)**: Leveraging tools like [ChatGPT](https://openai.com/chatgpt) to learn, experiment, and innovate in artificial intelligence.  
-- 📝 **[Obsidian](https://obsidian.md/)** Fan: Organizing knowledge and ideas efficiently with Obsidian <img src="images/obsidian-icon.png" alt="Obsidian Icon" width="20px" style="vertical-align: middle;" />
+- 🤖 **AI Enthusiast**: Leveraging tools like ChatGPT to learn, experiment, and innovate in artificial intelligence.  
+- 📝 **Obsidian** Fan: Organizing knowledge and ideas efficiently with Obsidian <img src="images/obsidian-icon.png" alt="Obsidian Icon" width="20px" style="vertical-align: middle;" />
 
 ---
 
