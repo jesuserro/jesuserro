@@ -100,7 +100,7 @@
       </td>
     </tr>
     <tr>
-      <td>🏗️ <b>Step 0</b>: Operating Systems and Tools.</td>
+      <td>🏗️ <b>Step 0</b>: Operating Systems & Tools.</td>
       <td>
         <a href="https://www.microsoft.com/en-us/windows">
           <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
