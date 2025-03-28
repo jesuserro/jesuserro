@@ -130,8 +130,6 @@
 - 🤖 **[AI Enthusiast](https://en.wikipedia.org/wiki/Artificial_intelligence)**: Leveraging tools like [ChatGPT](https://openai.com/chatgpt) to learn, experiment, and innovate in artificial intelligence.  
 - 📝 **[Obsidian](https://obsidian.md/)** Fan: Organizing knowledge and ideas efficiently with Obsidian <img src="images/obsidian-icon.png" alt="Obsidian Icon" width="20px" style="vertical-align: middle;" />
 
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/jesuserro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow" />
@@ -157,10 +155,10 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuserro&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; max-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuserro&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; max-width: 350px;" />
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical" alt="Jesús' GitHub stats" style="width: 48%; max-width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical" alt="Jesús' GitHub stats" style="width: 48%; max-width: 350px;" />
 </div>
 
 ---
