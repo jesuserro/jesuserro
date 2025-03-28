@@ -119,7 +119,7 @@
   </table>
 </div>
 
-***
+<hr style="border: 1px solid #ccc;" />
 
 - 💻 **Software Architecture**: Exploring and implementing full-stack solutions with a focus on scalability and performance.  
 - 📊 **Data Analytics**:  
