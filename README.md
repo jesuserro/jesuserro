@@ -123,7 +123,7 @@
 
 - 💻 **[Software Architecture](https://en.wikipedia.org/wiki/Software_architecture)**: Exploring and implementing full-stack solutions with a focus on scalability and performance.  
 - 📊 **Data Analytics**:  
-  - ✅ [A/B Testing](https://en.wikipedia.org/wiki/A/B_testing): Designing and analyzing experiments to optimize performance.  
+  - ✅ [A/B Testing](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard): Designing and analyzing experiments to optimize performance.  
   - 📈 Model Analysis: Specialist in techniques like [Random Forest](https://en.wikipedia.org/wiki/Random_forest) and [NLP](https://en.wikipedia.org/wiki/Natural_language_processing).  
   - 🎯 Delivering actionable insights through data-driven methodologies.  
 - 🤖 **[AI Enthusiast](https://en.wikipedia.org/wiki/Artificial_intelligence)**: Leveraging tools like [ChatGPT](https://openai.com/chatgpt) to learn, experiment, and innovate in artificial intelligence.  
