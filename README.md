@@ -45,8 +45,7 @@
   - 📈 Model analysis (e.g., Random Forest, NLP).  
   - 🎯 Delivering actionable insights through data-driven methodologies.    
 - 🤖 **AI Enthusiast**: Leveraging tools like ChatGPT to learn, experiment, and innovate in artificial intelligence.  
-- 📝 **Obsidian Fan**: Organizing knowledge and ideas efficiently with [Obsidian](https://obsidian.md/).  
-  <img src="images/obsidian-icon.png" alt="Obsidian Icon" width="20px" style="vertical-align: middle;" />
+- 📝 **Obsidian Fan**: Organizing knowledge and ideas efficiently with [Obsidian](https://obsidian.md/) <img src="images/obsidian-icon.png" alt="Obsidian Icon" width="20px" style="vertical-align: middle;" />
 
 ---
 
