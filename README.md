@@ -6,7 +6,7 @@
 <div align="center">
   <table>
     <tr style="background-color: #f9f9f9;">
-      <td>🚀 <b>Step 5</b>: Advanced Machine Learning<br /><small>Mastering AI frameworks like TensorFlow and PyTorch.</small></td>
+      <td>🚀 <b>Step 5</b>: Advanced Machine Learning.</td>
       <td>
         <a href="https://scikit-learn.org/">
           <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
@@ -23,7 +23,7 @@
       </td>
     </tr>
     <tr>
-      <td>🔧 <b>Step 4</b>: Data Engineering & Visualization<br /><small>Building pipelines and visualizing data effectively.</small></td>
+      <td>🔧 <b>Step 4</b>: Data Engineering & Visualization.</td>
       <td>
         <a href="https://airflow.apache.org/">
           <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
@@ -37,7 +37,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>📊 <b>Step 3</b>: Data Science Foundations<br /><small>Analyzing and processing data with Python and tools.</small></td>
+      <td>📊 <b>Step 3</b>: Data Science Foundations.</td>
       <td>
         <a href="https://www.python.org/">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -57,7 +57,7 @@
       </td>
     </tr>
     <tr>
-      <td>🌐 <b>Step 2</b>: Web & Cloud<br /><small>Creating web apps and deploying to the cloud.</small></td>
+      <td>🌐 <b>Step 2</b>: Web & Cloud.</td>
       <td>
         <a href="https://nodejs.org/">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -74,7 +74,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>💻 <b>Step 1</b>: Core Tech.<br /><small>Learning the building blocks of software development.</small></td>
+      <td>💻 <b>Step 1</b>: Core Tech.</td>
       <td>
         <a href="https://www.php.net/">
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
