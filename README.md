@@ -114,7 +114,35 @@
       </td>
     </tr>
   </table>
-  <img src="https://komarev.com/ghpvc/?username=jesuserro&style=flat-square&color=blue" alt="Profile Views" />
+  <div align="center">
+    <!-- 1. GitHub Followers -->
+    <a href="https://github.com/jesuserro?tab=followers">
+      <img src="https://img.shields.io/github/followers/jesuserro?style=social" alt="GitHub Followers" />
+    </a>
+    <!-- 2. GitHub Stars -->
+    <a href="https://github.com/jesuserro">
+      <img src="https://img.shields.io/github/stars/jesuserro?style=social" alt="GitHub Stars" />
+    </a>
+    <!-- 4. GitHub Contributions -->
+    <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Contributions&query=totalContributions&url=https://github-contributions-api.jogruber.de/v4/jesuserro" alt="GitHub Contributions" />
+    <!-- 5. Repo Count -->
+    <img src="https://img.shields.io/badge/Public%20Repos-XX-blue?style=flat-square&logo=github" alt="Public Repos" />
+    <!-- 7. GitHub Sponsors -->
+    <a href="https://github.com/sponsors/jesuserro">
+      <img src="https://img.shields.io/badge/Sponsors-0-brightgreen?style=flat-square&logo=github-sponsors" alt="GitHub Sponsors" />
+    </a>
+    <!-- 8. Stack Overflow Reputation -->
+    <a href="https://stackoverflow.com/users/20415910/olagato">
+      <img src="https://img.shields.io/stackexchange/stackoverflow/r/1234567?style=flat-square" alt="Stack Overflow Reputation" />
+    </a>
+    <!-- 10. GitHub Gists -->
+    <a href="https://gist.github.com/jesuserro">
+      <img src="https://img.shields.io/badge/Gists-XX-orange?style=flat-square&logo=github" alt="GitHub Gists" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=jesuserro&style=flat-square&color=blue" alt="Profile Views" />
+    <!-- 6. Profile Last Updated -->
+    <img src="https://img.shields.io/github/last-commit/jesuserro/jesuserro?label=Last%20Updated&style=flat-square" alt="Last Updated" />
+  </div>
 </div>
 
 ---
@@ -165,48 +193,4 @@
 
 ---
 
-<div align="center">
-  <!-- 1. GitHub Followers -->
-  <a href="https://github.com/jesuserro?tab=followers">
-    <img src="https://img.shields.io/github/followers/jesuserro?style=social" alt="GitHub Followers" />
-  </a>
-  
-  <!-- 2. GitHub Stars -->
-  <a href="https://github.com/jesuserro">
-    <img src="https://img.shields.io/github/stars/jesuserro?style=social" alt="GitHub Stars" />
-  </a>
-  
-  <!-- 3. Twitter Follow -->
-  <a href="https://twitter.com/jesuserro">
-    <img src="https://img.shields.io/twitter/follow/jesuserro?style=social" alt="Twitter Follow" />
-  </a>
-  
-  <!-- 4. GitHub Contributions -->
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Contributions&query=totalContributions&url=https://github-contributions-api.jogruber.de/v4/jesuserro" alt="GitHub Contributions" />
-  
-  <!-- 5. Repo Count -->
-  <img src="https://img.shields.io/badge/Public%20Repos-XX-blue?style=flat-square&logo=github" alt="Public Repos" />
-  
-  <!-- 6. Profile Last Updated -->
-  <img src="https://img.shields.io/github/last-commit/jesuserro/jesuserro?label=Last%20Updated&style=flat-square" alt="Last Updated" />
-  
-  <!-- 7. GitHub Sponsors -->
-  <a href="https://github.com/sponsors/jesuserro">
-    <img src="https://img.shields.io/badge/Sponsors-0-brightgreen?style=flat-square&logo=github-sponsors" alt="GitHub Sponsors" />
-  </a>
-  
-  <!-- 8. Stack Overflow Reputation -->
-  <a href="https://stackoverflow.com/users/20415910/olagato">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/1234567?style=flat-square" alt="Stack Overflow Reputation" />
-  </a>
-  
-  <!-- 9. Dev.to Profile Views -->
-  <a href="https://dev.to/jesuserro">
-    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Dev.to%20Views&query=page_views&url=https://dev.to/api/users/123456" alt="Dev.to Views" />
-  </a>
-  
-  <!-- 10. GitHub Gists -->
-  <a href="https://gist.github.com/jesuserro">
-    <img src="https://img.shields.io/badge/Gists-XX-orange?style=flat-square&logo=github" alt="GitHub Gists" />
-  </a>
-</div>
+
