@@ -11,7 +11,7 @@
 <div align="center">
   <table>
     <tr>
-      <td>🌟 <b>Step 8 (2025-Present)</b><br /><small>Machine Learning</small></td>
+      <td>🌟 <b>Step 9 (2025-Present)</b><br /><small>Machine Learning</small></td>
       <td>
         <a href="https://scikit-learn.org/">
           <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
@@ -28,7 +28,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>🚀 <b>Step 7 (2025-Present)</b><br /><small>Data Eng., Pipelines & Viz</small></td>
+      <td>🚀 <b>Step 8 (2025-Present)</b><br /><small>Data Eng., Pipelines & Viz</small></td>
       <td>
         <a href="https://airflow.apache.org/">
           <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
@@ -42,7 +42,7 @@
       </td>
     </tr>
     <tr>
-      <td>📊 <b>Step 6 (2025-Present)</b><br /><small>Data Science Foundations</small></td>
+      <td>📊 <b>Step 7 (2025-Present)</b><br /><small>Data Science Foundations</small></td>
       <td>
         <a href="https://www.python.org/">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -62,7 +62,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>🤖 <b>Step 5 (2022-2024)</b><br /><small>GPT Revolution</small></td>
+      <td>🤖 <b>Step 6 (2022-2024)</b><br /><small>GPT Revolution</small></td>
       <td>
         <a href="https://www.docker.com/">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -76,7 +76,27 @@
       </td>
     </tr>
     <tr>
-      <td>🌐 <b>Step 4 (2020-2022)</b><br /><small>Modern Web & Cloud</small></td>
+      <td>🌐 <b>Step 5 (2021-2022)</b><br /><small>Modern Web & Cloud</small></td>
+      <td>
+        <a href="https://obsidian.md/">
+          <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+        </a>
+        <a href="https://flutter.dev/">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        </a>
+        <a href="https://nodejs.org/">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        </a>
+        <a href="https://reactjs.org/">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+        </a>
+        <a href="https://www.typescriptlang.org/">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>🌐 <b>Step 4 (2020-2021)</b><br /><small>Modern Web & Cloud</small></td>
       <td>
         <a href="https://nodejs.org/">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
