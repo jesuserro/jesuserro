@@ -10,7 +10,7 @@
 
 <div align="center">
   <table>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td>🌟 <b>Step 9 (2025-Present)</b><br /><small>Machine Learning</small></td>
       <td>
         <a href="https://scikit-learn.org/">
@@ -27,7 +27,7 @@
         </a>
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
+    <tr>
       <td>🚀 <b>Step 8 (2025-Present)</b><br /><small>Data Eng., Pipelines & Viz</small></td>
       <td>
         <a href="https://airflow.apache.org/">
@@ -41,7 +41,7 @@
         </a>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td>📊 <b>Step 7 (2025-Present)</b><br /><small>Data Science Foundations</small></td>
       <td>
         <a href="https://www.python.org/">
@@ -61,7 +61,7 @@
         </a>
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
+    <tr>
       <td>🤖 <b>Step 6 (2022-2024)</b><br /><small>GPT Revolution</small></td>
       <td>
         <a href="https://www.docker.com/">
@@ -75,7 +75,7 @@
         </a>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td>🌐 <b>Step 5 (2021-2022)</b><br /><small>Modern Web & Cloud</small></td>
       <td>
         <a href="https://obsidian.md/">
@@ -96,7 +96,7 @@
       </td>
     </tr>
     <tr>
-      <td>🌐 <b>Step 4 (2020-2021)</b><br /><small>E-Commerce</small></td>
+      <td>🛍️ <b>Step 4 (2020-2021)</b><br /><small>E-Commerce</small></td>
       <td>
         <a href="https://aws.amazon.com/">
           <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
