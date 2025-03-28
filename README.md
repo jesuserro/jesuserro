@@ -112,6 +112,9 @@
         <a href="https://www.sencha.com/products/extjs/">
           <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white" alt="Ext JS (Sencha)" />
         </a>
+        <a href="https://sass-lang.com/">
+          <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+        </a>
         <a href="https://developer.android.com/">
           <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
         </a>
