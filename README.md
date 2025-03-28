@@ -60,7 +60,7 @@
       </td>
     </tr>
     <tr>
-      <td>📱 <b>Step 4 (2022-2024)</b><br /><small>GPT Revolution</small></td>
+      <td>🤖 <b>Step 4 (2022-2024)</b><br /><small>GPT Revolution</small></td>
       <td>
         <a href="https://www.docker.com/">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -97,7 +97,7 @@
       </td>
     </tr>
     <tr>
-      <td>🖥️ <b>Step 2 (2006-2020)</b><br /><small>Desktop Applications</small></td>
+      <td>⚙️ <b>Step 2 (2006-2020)</b><br /><small>Desktop Applications</small></td>
       <td>
         <a href="https://ubuntu.com/">
           <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -137,7 +137,7 @@
       </td>
     </tr>
     <tr>
-      <td>🏗️ <b>Step 0 (1994-2002)</b><br /><small>Operating Systems and Tools</small></td>
+      <td>🖥️ <b>Step 0 (1994-2002)</b><br /><small>Operating Systems and Tools</small></td>
       <td>
         <a href="https://www.microsoft.com/en-us/windows">
           <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
