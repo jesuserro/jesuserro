@@ -96,7 +96,7 @@
       </td>
     </tr>
     <tr>
-      <td>🌐 <b>Step 4 (2020-2021)</b><br /><small>Modern Web & Cloud</small></td>
+      <td>🌐 <b>Step 4 (2020-2021)</b><br /><small>E-Commerce</small></td>
       <td>
         <a href="https://aws.amazon.com/">
           <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
