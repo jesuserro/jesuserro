@@ -153,15 +153,6 @@
 
 ---
 
-  [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][lk]
-  [![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][ig]
-  [![Goodreads profile](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)][gr]
-  [![Chess.com profile](https://img.shields.io/badge/Chess.com-2C8D2C?style=for-the-badge&logo=Chess.com&logoColor=white)][chess]
-  [![Lichess profile](https://img.shields.io/badge/Lichess-393732?style=for-the-badge&logo=lichess&logoColor=white)][lc] 
-  [![Spotify Playlist](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)][sp]
-
----
-
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical" alt="Jesús' GitHub stats" style="width: 48%; max-width: 400px;" />
