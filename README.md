@@ -107,6 +107,9 @@
         <a href="https://developer.apple.com/ios/">
           <img src="https://img.shields.io/badge/Mobile%20Development-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mobile Development" />
         </a>
+        <a href="https://www.jetbrains.com/phpstorm/">
+          <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=white" alt="PhpStorm" />
+        </a>
       </td>
     </tr>
     <tr>
@@ -123,9 +126,6 @@
         </a>
         <a href="https://wordpress.org/">
           <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-        </a>
-        <a href="https://www.jetbrains.com/phpstorm/">
-          <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=white" alt="PhpStorm" />
         </a>
       </td>
     </tr>
