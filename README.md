@@ -93,6 +93,9 @@
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
           <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+          <a href="https://wordpress.org/" target="_blank">
+            <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+          </a>
         </a>
       </td>
     </tr>
