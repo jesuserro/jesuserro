@@ -107,6 +107,9 @@
         <a href="https://developer.apple.com/ios/">
           <img src="https://img.shields.io/badge/Mobile%20Development-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mobile Development" />
         </a>
+        <a href="https://git-scm.com/">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        </a>
       </td>
     </tr>
     <tr>
@@ -126,6 +129,9 @@
         </a>
         <a href="https://www.jetbrains.com/phpstorm/">
           <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=white" alt="PhpStorm" />
+        </a>
+        <a href="https://subversion.apache.org/">
+          <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" alt="SVN" />
         </a>
       </td>
     </tr>
