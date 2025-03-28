@@ -3,6 +3,11 @@
        alt="Header Banner" 
        style="width:100%; border-radius:15px;" />
 </div>
+
+---
+
+# 💻 IT Developer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Specialist | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast | 📚 Bookworm | 📷 Amateur Photographer
+
 <div align="center">
   <table>
     <tr style="background-color: #f9f9f9;">
@@ -117,8 +122,6 @@
 </div>
 
 ---
-
-# 💻 IT Developer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Specialist | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast | 📚 Bookworm | 📷 Amateur Photographer
 
 - 💻 **[Software Architecture](https://en.wikipedia.org/wiki/Software_architecture)**: Exploring and implementing full-stack solutions with a focus on scalability and performance.  
 - 📊 **Data Analytics**:  
