@@ -196,7 +196,7 @@
   </a>
   
   <!-- 8. Stack Overflow Reputation -->
-  <a href="https://stackoverflow.com/users/1234567/jesuserro">
+  <a href="https://stackoverflow.com/users/20415910/olagato">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/1234567?style=flat-square" alt="Stack Overflow Reputation" />
   </a>
   
