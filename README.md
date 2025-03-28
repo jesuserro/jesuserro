@@ -45,7 +45,7 @@
   - 📈 Model Analysis: Specialist in techniques like [Random Forest](https://en.wikipedia.org/wiki/Random_forest) and [NLP](https://en.wikipedia.org/wiki/Natural_language_processing).  
   - 🎯 Delivering actionable insights through data-driven methodologies.  
 - 🤖 **[AI Enthusiast](https://en.wikipedia.org/wiki/Artificial_intelligence)**: Leveraging tools like [ChatGPT](https://openai.com/chatgpt) to learn, experiment, and innovate in artificial intelligence.  
-- 📝 **[Obsidian Fan](https://obsidian.md/)**: Organizing knowledge and ideas efficiently with Obsidian <img src="images/obsidian-icon.png" alt="Obsidian Icon" width="20px" style="vertical-align: middle;" />
+- 📝 **[Obsidian](https://obsidian.md/)** Fan: Organizing knowledge and ideas efficiently with Obsidian <img src="images/obsidian-icon.png" alt="Obsidian Icon" width="20px" style="vertical-align: middle;" />
 
 ---
 
