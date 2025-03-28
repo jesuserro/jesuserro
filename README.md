@@ -28,7 +28,8 @@
   <br />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell/Bash" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell/Bash" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <br />
   <img src="https://komarev.com/ghpvc/?username=jesuserro&style=flat-square&color=blue" alt=""/>
@@ -38,15 +39,11 @@
 
 ### 💻 IT Developer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Specialist | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast | 📚 Bookworm | 📷 Amateur Photographer
 
-- 💻 Exploring software architecture | Implementing full-stack solutions. 
-- 📊 Data Analytics Specialist: Experienced in conducting A/B testing, model analysis (e.g., Random Forest, NLP), and delivering actionable insights through data-driven methodologies.
-- 🛠️ Using Windows 11 + Linux subsystem WSL2 Ubuntu 23.04 LTS + Docker.
-- 🚀 Powered by ChatGPT | Learning and experimenting with AI.
-- <img src="images/obsidian-icon.png"
-       alt="Obsidian Icon"
-       width="20px"
-       style="vertical-align: middle;" />
-  [Obsidian](https://obsidian.md/) fan.
+- 💻 **Software Architecture**: Exploring and implementing full-stack solutions with a focus on scalability and performance.  
+- 📊 **Data Analytics**: Skilled in A/B testing, model analysis (e.g., Random Forest, NLP), and delivering actionable insights through data-driven methodologies.  
+- 🤖 **AI Enthusiast**: Leveraging tools like ChatGPT to learn, experiment, and innovate in artificial intelligence.  
+- 📝 **Obsidian Fan**: Organizing knowledge and ideas efficiently with [Obsidian](https://obsidian.md/).  
+  <img src="images/obsidian-icon.png" alt="Obsidian Icon" width="20px" style="vertical-align: middle;" />
 
 ---
 
