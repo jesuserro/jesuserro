@@ -119,7 +119,7 @@
   </table>
 </div>
 
----
+***
 
 - 💻 **Software Architecture**: Exploring and implementing full-stack solutions with a focus on scalability and performance.  
 - 📊 **Data Analytics**:  
@@ -129,7 +129,7 @@
 - 🤖 **AI Enthusiast**: Leveraging tools like ChatGPT to learn, experiment, and innovate in artificial intelligence.  
 - 📝 **Obsidian** Fan: Organizing knowledge and ideas efficiently with Obsidian.
 
----
+***
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jesuserro/" target="_blank">
@@ -152,7 +152,7 @@
   </a>
 </div>
 
----
+***
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
   <!-- Top Languages -->
@@ -162,7 +162,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical" alt="Jesús' GitHub stats" style="width: 48%; max-width: 350px;" />
 </div>
 
----
+***
 
 <div align="center">
     <!-- 1. GitHub Followers -->
