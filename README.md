@@ -124,6 +124,12 @@
         <a href="https://git-scm.com/">
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         </a>
+        <a href="https://www.jenkins.io/">
+          <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+        </a>
+        <a href="https://phpunit.de/">
+          <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
+        </a>
       </td>
     </tr>
     <tr>
