@@ -149,6 +149,22 @@
 
 ---
 
+### 🎧 Spotify Playing
+[Public playlist](https://open.spotify.com/playlist/6cZlnbJNn6P8Ad2GZ4YLis?si=515ff69023744a6c)
+
+<!-- LINKS -->
+[yt]: https://www.youtube.com/channel/UCABS8RZnJzGI_w9oauOvSxg?sub_confirmation=1
+[ig]: https://www.instagram.com/jesuserro/
+[lk]: https://www.linkedin.com/in/jesuserro/
+[tw]: https://twitter.com/jesuserro
+[gr]: https://www.goodreads.com/user/show/40291334-jes-s-erro
+[lc]: https://lichess.org/@/olagato
+[chess]: https://www.chess.com/member/olagato
+[topics]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics
+[obsidian]: https://obsidian.md
+
+---
+
 <div align="center">
   <!-- 1. GitHub Followers -->
   <a href="https://github.com/jesuserro?tab=followers">
@@ -194,19 +210,3 @@
     <img src="https://img.shields.io/badge/Gists-XX-orange?style=flat-square&logo=github" alt="GitHub Gists" />
   </a>
 </div>
-
----
-
-### 🎧 Spotify Playing
-[Public playlist](https://open.spotify.com/playlist/6cZlnbJNn6P8Ad2GZ4YLis?si=515ff69023744a6c)
-
-<!-- LINKS -->
-[yt]: https://www.youtube.com/channel/UCABS8RZnJzGI_w9oauOvSxg?sub_confirmation=1
-[ig]: https://www.instagram.com/jesuserro/
-[lk]: https://www.linkedin.com/in/jesuserro/
-[tw]: https://twitter.com/jesuserro
-[gr]: https://www.goodreads.com/user/show/40291334-jes-s-erro
-[lc]: https://lichess.org/@/olagato
-[chess]: https://www.chess.com/member/olagato
-[topics]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics
-[obsidian]: https://obsidian.md
