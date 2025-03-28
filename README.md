@@ -125,15 +125,15 @@
     </a>
     <!-- 4. GitHub Contributions -->
     <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Contributions&query=totalContributions&url=https://github-contributions-api.jogruber.de/v4/jesuserro" alt="GitHub Contributions" />
+    <!-- 8. Stack Overflow Reputation -->
+    <a href="https://stackoverflow.com/users/20415910/olagato">
+      <img src="https://img.shields.io/stackexchange/stackoverflow/r/1234567?style=flat-square" alt="Stack Overflow Reputation" />
+    </a>
     <!-- 5. Repo Count -->
     <img src="https://img.shields.io/badge/Public%20Repos-XX-blue?style=flat-square&logo=github" alt="Public Repos" />
     <!-- 7. GitHub Sponsors -->
     <a href="https://github.com/sponsors/jesuserro">
       <img src="https://img.shields.io/badge/Sponsors-0-brightgreen?style=flat-square&logo=github-sponsors" alt="GitHub Sponsors" />
-    </a>
-    <!-- 8. Stack Overflow Reputation -->
-    <a href="https://stackoverflow.com/users/20415910/olagato">
-      <img src="https://img.shields.io/stackexchange/stackoverflow/r/1234567?style=flat-square" alt="Stack Overflow Reputation" />
     </a>
     <!-- 10. GitHub Gists -->
     <a href="https://gist.github.com/jesuserro">
