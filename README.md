@@ -167,16 +167,12 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
   <!-- GitHub Stats -->
-  <div style="flex: 1; max-width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical" alt="Jesús' GitHub stats" style="width: 100%; max-width: 400px;" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical" alt="Jesús' GitHub stats" style="width: 48%; max-width: 400px;" />
   
   <!-- Top Languages -->
-  <div style="flex: 1; max-width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuserro&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 300px;" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuserro&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; max-width: 300px;" />
 </div>
 
 ---
