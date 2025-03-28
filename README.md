@@ -9,7 +9,7 @@
 <div align="center">
   <table>
     <tr style="background-color: #f9f9f9;">
-      <td>🌟 <b>Step 5</b><br /><small>Advanced Machine Learning</small></td>
+      <td>🌟 <b>Step 7 (2025-Present)</b><br /><small>Machine Learning</small></td>
       <td>
         <a href="https://scikit-learn.org/">
           <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
@@ -26,7 +26,7 @@
       </td>
     </tr>
     <tr>
-      <td>🚀 <b>Step 4</b><br /><small>Data Eng., Pipelines & Viz</small></td>
+      <td>🚀 <b>Step 6 (2025-Present)</b><br /><small>Data Eng., Pipelines & Viz</small></td>
       <td>
         <a href="https://airflow.apache.org/">
           <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
@@ -40,7 +40,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>📊 <b>Step 3</b><br /><small>Data Science Foundations</small></td>
+      <td>📊 <b>Step 5 (2025-Present)</b><br /><small>Data Science Foundations</small></td>
       <td>
         <a href="https://www.python.org/">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -60,7 +60,21 @@
       </td>
     </tr>
     <tr>
-      <td>🌐 <b>Step 2</b><br /><small>Web & Cloud</small></td>
+      <td>📱 <b>Step 4 (2022-2024)</b><br /><small>GPT Revolution</small></td>
+      <td>
+        <a href="https://www.docker.com/">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        </a>
+        <a href="https://openai.com/">
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+        </a>
+        <a href="https://code.visualstudio.com/">
+          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+        </a>
+      </td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td>🌐 <b>Step 3 (2020-2022)</b><br /><small>Web & Cloud</small></td>
       <td>
         <a href="https://nodejs.org/">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -77,16 +91,53 @@
         <a href="https://www.amazon.com/">
           <img src="https://img.shields.io/badge/Ecommerce-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Ecommerce" />
         </a>
+        <a href="https://developer.android.com/">
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>🖥️ <b>Step 2 (2006-2020)</b><br /><small>Desktop Applications</small></td>
+      <td>
+        <a href="https://ubuntu.com/">
+          <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+        </a>
+        <a href="https://www.gnu.org/software/bash/">
+          <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell/Bash" />
+        </a>
+        <a href="https://framework.zend.com/">
+          <img src="https://img.shields.io/badge/Zend%20Framework-68B604?style=for-the-badge&logo=zend&logoColor=white" alt="Zend Framework" />
+        </a>
+        <a href="https://www.sencha.com/products/extjs/">
+          <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white" alt="Ext JS (Sencha)" />
+        </a>
+        <a href="https://wordpress.org/">
+          <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+        </a>
+        <a href="https://www.jetbrains.com/phpstorm/">
+          <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=white" alt="PhpStorm" />
+        </a>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>💻 <b>Step 1</b><br /><small>Core Tech</small></td>
+      <td>💻 <b>Step 1 (2002-2006)</b><br /><small>Core Tech</small></td>
       <td>
         <a href="https://www.php.net/">
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
         </a>
         <a href="https://www.postgresql.org/">
           <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+        </a>
+        <a href="https://www.adobe.com/products/dreamweaver.html">
+          <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" alt="Dreamweaver" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>🏗️ <b>Step 0 (1994-2002)</b><br /><small>Operating Systems and Tools</small></td>
+      <td>
+        <a href="https://www.microsoft.com/en-us/windows">
+          <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -96,29 +147,6 @@
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
           <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-        </a>
-        <a href="https://wordpress.org/">
-          <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>🏗️ <b>Step 0</b><br /><small>Operating Systems and Tools</small></td>
-      <td>
-        <a href="https://www.microsoft.com/en-us/windows">
-          <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-        </a>
-        <a href="https://ubuntu.com/">
-          <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-        </a>
-        <a href="https://www.docker.com/">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        </a>
-        <a href="https://www.gnu.org/software/bash/">
-          <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell/Bash" />
-        </a>
-        <a href="https://openai.com/">
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
         </a>
       </td>
     </tr>
