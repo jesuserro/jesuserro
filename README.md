@@ -74,7 +74,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>🌐 <b>Step 3 (2020-2022)</b><br /><small>Web & Cloud</small></td>
+      <td>🌐 <b>Step 3 (2020-2022)</b><br /><small>Modern Web & Cloud</small></td>
       <td>
         <a href="https://nodejs.org/">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -97,7 +97,7 @@
       </td>
     </tr>
     <tr>
-      <td>⚙️ <b>Step 2 (2006-2020)</b><br /><small>Desktop Applications</small></td>
+      <td>⚙️ <b>Step 2 (2006-2020)</b><br /><small>Frameworks Era</small></td>
       <td>
         <a href="https://ubuntu.com/">
           <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -120,7 +120,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>💻 <b>Step 1 (2002-2006)</b><br /><small>Core Tech</small></td>
+      <td>💻 <b>Step 1 (2002-2006)</b><br /><small>PHP5 Era</small></td>
       <td>
         <a href="https://www.php.net/">
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
