@@ -148,6 +148,12 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
           <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
         </a>
+        <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+          <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
+        </a>
+        <a href="https://visualstudio.microsoft.com/">
+          <img src="https://img.shields.io/badge/Visual%20Studio%206.0-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio 6.0" />
+        </a>
       </td>
     </tr>
   </table>
