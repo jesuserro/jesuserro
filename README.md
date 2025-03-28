@@ -8,8 +8,8 @@
 
 <div align="center">
   <table>
-    <tr style="background-color: #f9f9f9;">
-      <td>🌟 <b>Step 7 (2025-Present)</b><br /><small>Machine Learning</small></td>
+    <tr>
+      <td>🌟 <b>Step 8 (2025-Present)</b><br /><small>Machine Learning</small></td>
       <td>
         <a href="https://scikit-learn.org/">
           <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
@@ -25,8 +25,8 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <td>🚀 <b>Step 6 (2025-Present)</b><br /><small>Data Eng., Pipelines & Viz</small></td>
+    <tr style="background-color: #f9f9f9;">
+      <td>🚀 <b>Step 7 (2025-Present)</b><br /><small>Data Eng., Pipelines & Viz</small></td>
       <td>
         <a href="https://airflow.apache.org/">
           <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
@@ -39,8 +39,8 @@
         </a>
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
-      <td>📊 <b>Step 5 (2025-Present)</b><br /><small>Data Science Foundations</small></td>
+    <tr>
+      <td>📊 <b>Step 6 (2025-Present)</b><br /><small>Data Science Foundations</small></td>
       <td>
         <a href="https://www.python.org/">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -59,8 +59,8 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <td>🤖 <b>Step 4 (2022-2024)</b><br /><small>GPT Revolution</small></td>
+    <tr style="background-color: #f9f9f9;">
+      <td>🤖 <b>Step 5 (2022-2024)</b><br /><small>GPT Revolution</small></td>
       <td>
         <a href="https://www.docker.com/">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -73,8 +73,8 @@
         </a>
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
-      <td>🌐 <b>Step 3 (2020-2022)</b><br /><small>Modern Web & Cloud</small></td>
+    <tr>
+      <td>🌐 <b>Step 4 (2020-2022)</b><br /><small>Modern Web & Cloud</small></td>
       <td>
         <a href="https://nodejs.org/">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -91,13 +91,24 @@
         <a href="https://www.amazon.com/">
           <img src="https://img.shields.io/badge/Ecommerce-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Ecommerce" />
         </a>
+      </td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td>⚙️ <b>Step 3 (2010-2020)</b><br /><small>Mobile Era</small></td>
+      <td>
+        <a href="https://www.sencha.com/products/extjs/">
+          <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white" alt="Ext JS (Sencha)" />
+        </a>
         <a href="https://developer.android.com/">
           <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+        </a>
+        <a href="https://developer.apple.com/ios/">
+          <img src="https://img.shields.io/badge/Mobile%20Development-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mobile Development" />
         </a>
       </td>
     </tr>
     <tr>
-      <td>⚙️ <b>Step 2 (2006-2020)</b><br /><small>Frameworks Era</small></td>
+      <td>⚙️ <b>Step 2 (2006-2010)</b><br /><small>Frameworks Era</small></td>
       <td>
         <a href="https://ubuntu.com/">
           <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -107,9 +118,6 @@
         </a>
         <a href="https://framework.zend.com/">
           <img src="https://img.shields.io/badge/Zend%20Framework-68B604?style=for-the-badge&logo=zend&logoColor=white" alt="Zend Framework" />
-        </a>
-        <a href="https://www.sencha.com/products/extjs/">
-          <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white" alt="Ext JS (Sencha)" />
         </a>
         <a href="https://wordpress.org/">
           <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
