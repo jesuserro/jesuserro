@@ -128,6 +128,9 @@
         <a href="https://www.postgresql.org/">
           <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
         </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        </a>
         <a href="https://www.adobe.com/products/dreamweaver.html">
           <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" alt="Dreamweaver" />
         </a>
@@ -141,9 +144,6 @@
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
           <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
