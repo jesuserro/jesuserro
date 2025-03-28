@@ -9,7 +9,7 @@
 <div align="center">
   <table>
     <tr style="background-color: #f9f9f9;">
-      <td>🌟 <b>Step 5</b>: Advanced Machine Learning.</td>
+      <td>🌟 <b>Step 5</b><br><small>Advanced Machine Learning</small></td>
       <td>
         <a href="https://scikit-learn.org/">
           <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
@@ -26,7 +26,7 @@
       </td>
     </tr>
     <tr>
-      <td>🚀 <b>Step 4</b>: Data Eng., Pipelines & Viz.</td>
+      <td>🚀 <b>Step 4</b><br><small>Data Eng., Pipelines & Viz</small></td>
       <td>
         <a href="https://airflow.apache.org/">
           <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
@@ -40,11 +40,8 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>📊 <b>Step 3</b>: Data Science Foundations.</td>
+      <td>📊 <b>Step 3</b><br><small>Data Science Foundations</small></td>
       <td>
-        <a href="https://www.python.org/">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        </a>
         <a href="https://numpy.org/">
           <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
         </a>
@@ -60,7 +57,7 @@
       </td>
     </tr>
     <tr>
-      <td>🌐 <b>Step 2</b>: Web & Cloud.</td>
+      <td>🌐 <b>Step 2</b><br><small>Web & Cloud</small></td>
       <td>
         <a href="https://nodejs.org/">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -77,7 +74,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>💻 <b>Step 1</b>: Core Tech.</td>
+      <td>💻 <b>Step 1</b><br><small>Core Tech</small></td>
       <td>
         <a href="https://www.php.net/">
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -91,16 +88,10 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-          <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-          <a href="https://wordpress.org/" target="_blank">
-            <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-          </a>
-        </a>
       </td>
     </tr>
     <tr>
-      <td>🏗️ <b>Step 0</b>: Operating Systems & Tools.</td>
+      <td>🏗️ <b>Step 0</b><br><small>Operating Systems & Tools</small></td>
       <td>
         <a href="https://www.microsoft.com/en-us/windows">
           <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
