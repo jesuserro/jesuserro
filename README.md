@@ -154,11 +154,12 @@
 ---
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuserro&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; max-width: 300px;" />
+  
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical" alt="Jesús' GitHub stats" style="width: 48%; max-width: 400px;" />
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuserro&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; max-width: 300px;" />
 </div>
 
 ---
