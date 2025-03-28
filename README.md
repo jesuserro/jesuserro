@@ -23,7 +23,7 @@
       </td>
     </tr>
     <tr>
-      <td>🚀 <b>Step 4</b>: Data Eng., Pipelines & Viz</td>
+      <td>🚀 <b>Step 4</b>: Data Eng., Pipelines & Viz.</td>
       <td>
         <a href="https://airflow.apache.org/">
           <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
