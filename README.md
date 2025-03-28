@@ -121,7 +121,6 @@
 
 <hr style="height: 1px; border: none; background-color: #ccc;" />
 
-
 - 💻 **Software Architecture**: Exploring and implementing full-stack solutions with a focus on scalability and performance.  
 - 📊 **Data Analytics**:  
   - ✅ [A/B Testing](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard): Designing and analyzing experiments to optimize performance.  
