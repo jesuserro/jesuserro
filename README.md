@@ -6,7 +6,7 @@
 <div align="center">
   <table>
     <tr style="background-color: #f9f9f9;">
-      <td>🚀 <b>Step 5</b>: Advanced Machine Learning.</td>
+      <td>🌟 <b>Step 5</b>: Advanced Machine Learning.</td>
       <td>
         <a href="https://scikit-learn.org/">
           <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
@@ -23,7 +23,7 @@
       </td>
     </tr>
     <tr>
-      <td>🔧 <b>Step 4</b>: Data Engineering & Visualization.</td>
+      <td>🚀 <b>Step 4</b>: Data Engineering & Visualization.</td>
       <td>
         <a href="https://airflow.apache.org/">
           <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
