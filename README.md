@@ -137,6 +137,9 @@
         <a href="https://www.amazon.com/">
           <img src="https://img.shields.io/badge/Ecommerce-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Ecommerce" />
         </a>
+        <a href="https://www.zsh.org/">
+          <img src="https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Zsh" />
+        </a>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
