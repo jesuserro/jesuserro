@@ -207,6 +207,9 @@
         <a href="https://subversion.apache.org/">
           <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" alt="SVN" />
         </a>
+        <a href="https://www.google.com/chrome/">
+          <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
+        </a>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
@@ -226,6 +229,9 @@
         </a>
         <a href="https://www.adobe.com/products/dreamweaver.html">
           <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" alt="Dreamweaver" />
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Internet_Explorer">
+          <img src="https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Internet Explorer" />
         </a>
       </td>
     </tr>
