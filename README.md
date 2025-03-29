@@ -207,6 +207,9 @@
         <a href="https://bitbucket.org/">
           <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
         </a>
+        <a href="https://www.jetbrains.com/phpstorm/">
+          <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=white" alt="PhpStorm" />
+        </a>
       </td>
     </tr>
     <tr>
@@ -220,6 +223,9 @@
         </a>
         <a href="https://phpunit.de/">
           <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
+        </a>
+        <a href="https://www.zend.com/products/zend-studio">
+          <img src="https://img.shields.io/badge/Zend%20Studio-0680CD?style=for-the-badge&logo=zend&logoColor=white" alt="Zend Studio" />
         </a>
         <a href="https://jquery.com/">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
@@ -239,8 +245,8 @@
         <a href="https://wordpress.org/">
           <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
         </a>
-        <a href="https://www.jetbrains.com/phpstorm/">
-          <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=white" alt="PhpStorm" />
+        <a href="https://www.eclipse.org/">
+          <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
         </a>
         <a href="https://subversion.apache.org/">
           <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" alt="SVN" />
