@@ -61,7 +61,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>🚀 <b>Feb. 2025</b><br /><small>Data Eng., Pipelines & Viz</small></td>
+      <td>🚀 <b>Feb. 2025</b><br /><small>Data Engineering, Pipelines & Viz</small></td>
       <td>
         <a href="https://airflow.apache.org/">
           <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
@@ -75,7 +75,7 @@
       </td>
     </tr>
     <tr>
-      <td>📊 <b>2024</b><br /><small>Data Science Foundations</small></td>
+      <td>📊 <b>2024</b><br /><small>Foundations of Data Science</small></td>
       <td>
         <a href="https://www.python.org/">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -95,7 +95,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>🤖 <b>2022-2024</b><br /><small>AI Revolution</small></td>
+      <td>🤖 <b>2022-2024</b><br /><small>The AI Wave</small></td>
       <td>
         <a href="https://www.php.net/releases/8.0/">
           <img src="https://img.shields.io/badge/PHP%208-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8" />
@@ -112,7 +112,7 @@
       </td>
     </tr>
     <tr>
-      <td>🌐 <b>2021-2022</b><br /><small>Modern Web</small></td>
+      <td>🌐 <b>2021-2022</b><br /><small>Modern Web Stack</small></td>
       <td>
         <a href="https://obsidian.md/">
           <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
@@ -129,7 +129,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>🛍️ <b>2020-2021</b><br /><small>E-Commerce & Cloud</small></td>
+      <td>🛍️ <b>2020-2021</b><br /><small>E-Commerce & Cloud Days</small></td>
       <td>
         <a href="https://www.amazon.com/">
           <img src="https://img.shields.io/badge/Ecommerce-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Ecommerce" />
@@ -146,7 +146,7 @@
       </td>
     </tr>
     <tr>
-      <td>🧩 <b>2015-2020</b><br /><small>Design Patterns Era</small></td>
+      <td>🧩 <b>2015-2020</b><br /><small>Design Patterns Phase</small></td>
       <td>
         <a href="https://www.php.net/releases/7_0/">
           <img src="https://img.shields.io/badge/PHP%207-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 7" />
@@ -216,7 +216,7 @@
       </td>
     </tr>
     <tr>
-      <td>⚙️ <b>2006-2010</b><br /><small>The First Job</small></td>
+      <td>⚙️ <b>2006-2010</b><br /><small>First Job Vibes</small></td>
       <td>
         <a href="https://www.php.net/releases/5_0/">
           <img src="https://img.shields.io/badge/PHP%205-8892BF?style=for-the-badge&logo=php&logoColor=white" alt="PHP 5" />
@@ -260,7 +260,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>🏗️ <b>2002-2006</b><br /><small>Intern</small></td>
+      <td>🏗️ <b>2002-2006</b><br /><small>Internship Life</small></td>
       <td>
         <a href="https://www.php.net/releases/4_0/">
           <img src="https://img.shields.io/badge/PHP%204-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt="PHP 4" />
@@ -289,7 +289,7 @@
       </td>
     </tr>
     <tr>
-      <td>🖥️ <b>1994-2002</b><br /><small>University</small></td>
+      <td>🖥️ <b>1994-2002</b><br /><small>University Years</small></td>
       <td>
         <a href="https://www.microsoft.com/en-us/windows">
           <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
