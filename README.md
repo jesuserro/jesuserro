@@ -169,7 +169,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>📱 <b>2010-2015</b><br /><small>Frontend Strike</small></td>
+      <td>📱 <b>2010-2015</b><br /><small>Frontend Boom</small></td>
       <td>
         <a href="https://www.sencha.com/products/extjs/">
           <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white" alt="Ext JS (Sencha)" />
