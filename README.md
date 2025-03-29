@@ -123,9 +123,6 @@
         <a href="https://reactjs.org/">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
         </a>
-        <a href="https://www.typescriptlang.org/">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        </a>
       </td>
     </tr>
     <tr>
@@ -165,6 +162,9 @@
         </a>
         <a href="https://phpunit.de/">
           <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
+        </a>
+        <a href="https://www.typescriptlang.org/">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
         </a>
       </td>
     </tr>
