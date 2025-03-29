@@ -44,7 +44,7 @@
 <div align="center">
   <table>
     <tr style="background-color: #f9f9f9;">
-      <td>🌟 <b>Step 9 (2025-Present)</b><br /><small>Machine Learning</small></td>
+      <td>🌟 <b>March 2025</b><br /><small>Machine Learning</small></td>
       <td>
         <a href="https://scikit-learn.org/">
           <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
@@ -61,7 +61,7 @@
       </td>
     </tr>
     <tr>
-      <td>🚀 <b>Step 8 (2025-Present)</b><br /><small>Data Eng., Pipelines & Viz</small></td>
+      <td>🚀 <b>Feb. 2025</b><br /><small>Data Eng., Pipelines & Viz</small></td>
       <td>
         <a href="https://airflow.apache.org/">
           <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
@@ -75,7 +75,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>📊 <b>Step 7 (2025-Present)</b><br /><small>Data Science Foundations</small></td>
+      <td>📊 <b>2024</b><br /><small>Data Science Foundations</small></td>
       <td>
         <a href="https://www.python.org/">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -95,7 +95,7 @@
       </td>
     </tr>
     <tr>
-      <td>🤖 <b>Step 6 (2022-2024)</b><br /><small>GPT Revolution</small></td>
+      <td>🤖 <b>2022-2024</b><br /><small>GPT Revolution</small></td>
       <td>
         <a href="https://www.docker.com/">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -109,7 +109,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>🌐 <b>Step 5 (2021-2022)</b><br /><small>Modern Web & Cloud</small></td>
+      <td>🌐 <b>2021-2022</b><br /><small>Modern Web & Cloud</small></td>
       <td>
         <a href="https://obsidian.md/">
           <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
@@ -129,7 +129,7 @@
       </td>
     </tr>
     <tr>
-      <td>🛍️ <b>Step 4 (2020-2021)</b><br /><small>E-Commerce</small></td>
+      <td>🛍️ <b>2020-2021</b><br /><small>E-Commerce</small></td>
       <td>
         <a href="https://aws.amazon.com/">
           <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -140,7 +140,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>📱 <b>Step 3 (2010-2020)</b><br /><small>Mobile Era</small></td>
+      <td>📱 <b>2010-2020</b><br /><small>Mobile Era</small></td>
       <td>
         <a href="https://www.sencha.com/products/extjs/">
           <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white" alt="Ext JS (Sencha)" />
@@ -166,7 +166,7 @@
       </td>
     </tr>
     <tr>
-      <td>⚙️ <b>Step 2 (2006-2010)</b><br /><small>Frameworks Era</small></td>
+      <td>⚙️ <b>2006-2010</b><br /><small>Frameworks Era</small></td>
       <td>
         <a href="https://ubuntu.com/">
           <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -189,7 +189,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>💻 <b>Step 1 (2002-2006)</b><br /><small>PHP5 Era</small></td>
+      <td>💻 <b>2002-2006</b><br /><small>PHP5 Era</small></td>
       <td>
         <a href="https://www.php.net/">
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -206,7 +206,7 @@
       </td>
     </tr>
     <tr>
-      <td>🖥️ <b>Step 0 (1994-2002)</b><br /><small>Operating Systems and Tools</small></td>
+      <td>🖥️ <b>1994-2002</b><br /><small>Operating Systems and Tools</small></td>
       <td>
         <a href="https://www.microsoft.com/en-us/windows">
           <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
