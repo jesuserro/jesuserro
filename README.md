@@ -177,6 +177,9 @@
         <a href="https://phpspreadsheet.readthedocs.io/">
           <img src="https://img.shields.io/badge/PhpSpreadsheet-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="PhpSpreadsheet" />
         </a>
+        <a href="https://developer.apple.com/ios/">
+          <img src="https://img.shields.io/badge/Mobile%20Development-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mobile Development" />
+        </a>
         <a href="https://getbootstrap.com/">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
         </a>
@@ -185,9 +188,6 @@
         </a>
         <a href="https://www.zend.com/products/zend-studio">
           <img src="https://img.shields.io/badge/Zend%20Studio-0680CD?style=for-the-badge&logo=zend&logoColor=white" alt="Zend Studio" />
-        </a>
-        <a href="https://developer.apple.com/ios/">
-          <img src="https://img.shields.io/badge/Mobile%20Development-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mobile Development" />
         </a>
         <a href="https://www.selenium.dev/">
           <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
