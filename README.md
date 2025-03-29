@@ -151,6 +151,9 @@
         <a href="https://www.php.net/releases/7_0/">
           <img src="https://img.shields.io/badge/PHP%207-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 7" />
         </a>
+        <a href="https://phpspreadsheet.readthedocs.io/">
+          <img src="https://img.shields.io/badge/PhpSpreadsheet-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="PhpSpreadsheet" />
+        </a>
         <a href="https://www.sencha.com/products/extjs/">
           <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white" alt="Ext JS (Sencha)" />
         </a>
