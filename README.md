@@ -43,7 +43,7 @@
 
 <div align="center">
   <table>
-    <tr style="background-color: #f9f9f9;">
+    <tr>
       <td>🌟 <b>March 2025</b><br /><small>Machine Learning</small></td>
       <td>
         <a href="https://scikit-learn.org/">
@@ -60,7 +60,7 @@
         </a>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td>🚀 <b>Feb. 2025</b><br /><small>Data Eng., Pipelines & Viz</small></td>
       <td>
         <a href="https://airflow.apache.org/">
@@ -74,7 +74,7 @@
         </a>
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
+    <tr>
       <td>📊 <b>2024</b><br /><small>Data Science Foundations</small></td>
       <td>
         <a href="https://www.python.org/">
@@ -94,7 +94,7 @@
         </a>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td>🤖 <b>2022-2024</b><br /><small>GPT Revolution</small></td>
       <td>
         <a href="https://www.php.net/releases/8.0/">
@@ -111,7 +111,7 @@
         </a>
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
+    <tr>
       <td>🌐 <b>2021-2022</b><br /><small>Modern Web & Cloud</small></td>
       <td>
         <a href="https://obsidian.md/">
@@ -128,7 +128,7 @@
         </a>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #f9f9f9;">
       <td>🛍️ <b>2020-2021</b><br /><small>E-Commerce</small></td>
       <td>
         <a href="https://www.amazon.com/">
@@ -145,7 +145,7 @@
         </a>
       </td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
+    <tr>
       <td>🧩 <b>2015-2020</b><br /><small>Patterns Era</small></td>
       <td>
         <a href="https://www.php.net/releases/7_0/">
