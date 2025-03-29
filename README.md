@@ -221,9 +221,6 @@
         <a href="https://phpunit.de/">
           <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
         </a>
-        <a href="https://www.mysql.com/">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        </a>
         <a href="https://jquery.com/">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
         </a>
@@ -262,8 +259,8 @@
         <a href="https://httpd.apache.org/">
           <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
         </a>
-        <a href="https://www.postgresql.org/">
-          <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+        <a href="https://www.mysql.com/">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -290,6 +287,9 @@
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
           <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+        </a>
+        <a href="https://www.postgresql.org/">
+          <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
         </a>
         <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
           <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
