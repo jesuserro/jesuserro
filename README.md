@@ -43,382 +43,385 @@
 
 <!-- Tabla optimizada para un README de GitHub con estilos inline -->
 <div align="center">
-  <table style="border: 1px solid #ddd; border-collapse: collapse; width: 100%; margin: 1em 0; font-family: Arial, sans-serif;">
-    <tbody>
-      <!-- 1) March 2025 -->
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🌟 <b>March 2025</b><br>Machine Learning
-        </td>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://scikit-learn.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
-                alt="Scikit-learn" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://pytorch.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
-                alt="PyTorch" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://keras.io/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"
-                alt="Keras" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.tensorflow.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
-                alt="TensorFlow" style="max-height: 24px; vertical-align: middle;">
-          </a>
-        </td>
-      </tr>
-      <!-- 2) Feb. 2025 -->
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🚀 <b>Feb. 2025</b><br>Data Engineering, Pipelines &amp; Viz
-        </td>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://airflow.apache.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"
-                alt="Airflow" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://streamlit.io/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
-                alt="Streamlit" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://powerbi.microsoft.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
-                alt="PowerBI" style="max-height: 24px; vertical-align: middle;">
-          </a>
-        </td>
-      </tr>
-      <!-- 3) 2024 -->
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          📊 <b>2024</b><br>Foundations of Data Science
-        </td>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://www.python.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-                alt="Python" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://numpy.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"
-                alt="Numpy" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://pandas.pydata.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
-                alt="Pandas" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.sqlalchemy.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/SQLAlchemy-CE2C2E?style=for-the-badge&logo=sqlalchemy&logoColor=white"
-                alt="SQLAlchemy" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.tableau.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
-                alt="Tableau" style="max-height: 24px; vertical-align: middle;">
-          </a>
-        </td>
-      </tr>
-      <!-- 4) 2022-2024 -->
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🤖 <b>2022-2024</b><br>The AI Wave
-        </td>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://www.php.net/releases/8.0/" rel="nofollow">
-            <img src="https://img.shields.io/badge/PHP%208-777BB4?style=for-the-badge&logo=php&logoColor=white"
-                alt="PHP 8" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.docker.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
-                alt="Docker" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://code.visualstudio.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-                alt="Visual Studio Code" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://openai.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"
-                alt="OpenAI" style="max-height: 24px; vertical-align: middle;">
-          </a>
-        </td>
-      </tr>
-      <!-- 5) 2021-2022 -->
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🌐 <b>2021-2022</b><br>Modern Web Stack
-        </td>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://obsidian.md/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"
-                alt="Obsidian" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://flutter.dev/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
-                alt="Flutter" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://nodejs.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
-                alt="Node.js" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://reactjs.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"
-                alt="React" style="max-height: 24px; vertical-align: middle;">
-          </a>
-        </td>
-      </tr>
-      <!-- 6) 2020-2021 -->
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🛍️ <b>2020-2021</b><br>E-Commerce &amp; Cloud Days
-        </td>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://www.amazon.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Ecommerce-FF9900?style=for-the-badge&logo=amazon&logoColor=white"
-                alt="Ecommerce" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://aws.amazon.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
-                alt="AWS" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.zsh.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white"
-                alt="Zsh" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://github.com/">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-                alt="GitHub" style="max-height: 24px; vertical-align: middle;">
-          </a>
-        </td>
-      </tr>
-      <!-- 7) 2015-2020 -->
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🧩 <b>2015-2020</b><br>Design Patterns Phase
-        </td>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://www.php.net/releases/7_0/" rel="nofollow">
-            <img src="https://img.shields.io/badge/PHP%207-777BB4?style=for-the-badge&logo=php&logoColor=white"
-                alt="PHP 7" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://getcomposer.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"
-                alt="Composer" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.jetbrains.com/phpstorm/" rel="nofollow">
-            <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=white"
-                alt="PhpStorm" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://en.wikipedia.org/wiki/Clean_Code" rel="nofollow">
-            <img src="https://img.shields.io/badge/Clean%20Code-3CB371?style=for-the-badge&logo=code&logoColor=white"
-                alt="Clean Code" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.typescriptlang.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
-                alt="TypeScript" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.google.com/chrome/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"
-                alt="Google Chrome" style="max-height: 24px; vertical-align: middle;">
-          </a>
-        </td>
-      </tr>
-      <!-- 8) 2010-2015 -->
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          📱 <b>2010-2015</b><br>Frontend Boom
-        </td>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://www.sencha.com/products/extjs/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white"
-                alt="Ext JS (Sencha)" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://phpspreadsheet.readthedocs.io/" rel="nofollow">
-            <img src="https://img.shields.io/badge/PhpSpreadsheet-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-                alt="PhpSpreadsheet" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://developer.apple.com/ios/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Mobile%20Development-000000?style=for-the-badge&logo=apple&logoColor=white"
-                alt="Mobile Development" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://getbootstrap.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
-                alt="Bootstrap" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://sass-lang.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
-                alt="Sass" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.zend.com/products/zend-studio" rel="nofollow">
-            <img src="https://img.shields.io/badge/Zend%20Studio-0680CD?style=for-the-badge&logo=zend&logoColor=white"
-                alt="Zend Studio" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.selenium.dev/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"
-                alt="Selenium" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.jenkins.io/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"
-                alt="Jenkins" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://en.wikipedia.org/wiki/Agile_software_development" rel="nofollow">
-            <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white"
-                alt="Agile" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.atlassian.com/software/jira" rel="nofollow">
-            <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"
-                alt="JIRA" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://git-scm.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-                alt="Git" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://bitbucket.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"
-                alt="Bitbucket" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://angular.io/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
-                alt="Angular" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://developer.android.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
-                alt="Android" style="max-height: 24px; vertical-align: middle;">
-          </a>
-        </td>
-      </tr>
-      <!-- 9) 2006-2010 -->
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          ⚙️ <b>2006-2010</b><br>First Job Vibes
-        </td>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://www.php.net/releases/5_0/" rel="nofollow">
-            <img src="https://img.shields.io/badge/PHP%205-8892BF?style=for-the-badge&logo=php&logoColor=white"
-                alt="PHP 5" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://framework.zend.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Zend%20Framework-68B604?style=for-the-badge&logo=zend&logoColor=white"
-                alt="Zend Framework" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://phpunit.de/" rel="nofollow">
-            <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white"
-                alt="PHPUnit" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://jquery.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
-                alt="jQuery" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://ubuntu.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
-                alt="Ubuntu" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.nginx.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"
-                alt="Nginx" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.gnu.org/software/bash/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
-                alt="Shell/Bash" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://maps.google.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white"
-                alt="Google Maps" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://wordpress.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"
-                alt="WordPress" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://netbeans.apache.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"
-                alt="NetBeans" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.eclipse.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"
-                alt="Eclipse" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://subversion.apache.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white"
-                alt="SVN" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.mozilla.org/firefox/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"
-                alt="Firefox" style="max-height: 24px; vertical-align: middle;">
-          </a>
-        </td>
-      </tr>
-      <!-- 10) 2002-2006 -->
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🏗️ <b>2002-2006</b><br>Internship Life
-        </td>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://www.php.net/releases/4_0/" rel="nofollow">
-            <img src="https://img.shields.io/badge/PHP%204-4F5B93?style=for-the-badge&logo=php&logoColor=white"
-                alt="PHP 4" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://httpd.apache.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"
-                alt="Apache" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.mysql.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-                alt="MySQL" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-                alt="JavaScript" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" rel="nofollow">
-            <img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=javascript&logoColor=white"
-                alt="AJAX" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.adobe.com/products/dreamweaver.html" rel="nofollow">
-            <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white"
-                alt="Dreamweaver" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://en.wikipedia.org/wiki/Internet_Explorer" rel="nofollow">
-            <img src="https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=internet-explorer&logoColor=white"
-                alt="Internet Explorer" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Visual%20Basic%20.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"
-                alt="Visual Basic .NET" style="max-height: 24px; vertical-align: middle;">
-          </a>
-        </td>
-      </tr>
-      <!-- 11) 1994-2002 -->
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🖥️ <b>1994-2002</b><br>University Years
-        </td>
-        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://www.microsoft.com/en-us/windows" rel="nofollow">
-            <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-                alt="Windows" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow">
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-                alt="HTML" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow">
-            <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-                alt="CSS" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.postgresql.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"
-                alt="SQL" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.microsoft.com/en-us/microsoft-365/excel" rel="nofollow">
-            <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-                alt="Microsoft Excel" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://visualstudio.microsoft.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Visual%20Studio%206.0-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"
-                alt="Visual Studio 6.0" style="max-height: 24px; vertical-align: middle;">
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <!-- Tabla optimizada para un README de GitHub, sin subrayado y con separaciones de badges -->
+
+<table style="border: 1px solid #ddd; border-collapse: collapse; width: 100%; margin: 1em 0; font-family: Arial, sans-serif;">
+  <tbody>
+    <!-- 1) March 2025 -->
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+        🌟 <b>March 2025</b><br>Machine Learning
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+        <a href="https://scikit-learn.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
+               alt="Scikit-learn" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://pytorch.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
+               alt="PyTorch" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://keras.io/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"
+               alt="Keras" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.tensorflow.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
+               alt="TensorFlow" style="max-height: 24px; vertical-align: middle;">
+        </a>
+      </td>
+    </tr>
+    <!-- 2) Feb. 2025 -->
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+        🚀 <b>Feb. 2025</b><br>Data Engineering, Pipelines &amp; Viz
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+        <a href="https://airflow.apache.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"
+               alt="Airflow" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://streamlit.io/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
+               alt="Streamlit" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://powerbi.microsoft.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+               alt="PowerBI" style="max-height: 24px; vertical-align: middle;">
+        </a>
+      </td>
+    </tr>
+    <!-- 3) 2024 -->
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+        📊 <b>2024</b><br>Foundations of Data Science
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+        <a href="https://www.python.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+               alt="Python" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://numpy.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+               alt="Numpy" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://pandas.pydata.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+               alt="Pandas" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.sqlalchemy.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/SQLAlchemy-CE2C2E?style=for-the-badge&logo=sqlalchemy&logoColor=white"
+               alt="SQLAlchemy" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.tableau.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
+               alt="Tableau" style="max-height: 24px; vertical-align: middle;">
+        </a>
+      </td>
+    </tr>
+    <!-- 4) 2022-2024 -->
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+        🤖 <b>2022-2024</b><br>The AI Wave
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+        <a href="https://www.php.net/releases/8.0/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/PHP%208-777BB4?style=for-the-badge&logo=php&logoColor=white"
+               alt="PHP 8" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.docker.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+               alt="Docker" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://code.visualstudio.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+               alt="Visual Studio Code" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://openai.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"
+               alt="OpenAI" style="max-height: 24px; vertical-align: middle;">
+        </a>
+      </td>
+    </tr>
+    <!-- 5) 2021-2022 -->
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+        🌐 <b>2021-2022</b><br>Modern Web Stack
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+        <a href="https://obsidian.md/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"
+               alt="Obsidian" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://flutter.dev/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+               alt="Flutter" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://nodejs.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
+               alt="Node.js" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://reactjs.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"
+               alt="React" style="max-height: 24px; vertical-align: middle;">
+        </a>
+      </td>
+    </tr>
+    <!-- 6) 2020-2021 -->
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+        🛍️ <b>2020-2021</b><br>E-Commerce &amp; Cloud Days
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+        <a href="https://www.amazon.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Ecommerce-FF9900?style=for-the-badge&logo=amazon&logoColor=white"
+               alt="Ecommerce" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://aws.amazon.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
+               alt="AWS" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.zsh.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white"
+               alt="Zsh" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://github.com/" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+               alt="GitHub" style="max-height: 24px; vertical-align: middle;">
+        </a>
+      </td>
+    </tr>
+    <!-- 7) 2015-2020 -->
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+        🧩 <b>2015-2020</b><br>Design Patterns Phase
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+        <a href="https://www.php.net/releases/7_0/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/PHP%207-777BB4?style=for-the-badge&logo=php&logoColor=white"
+               alt="PHP 7" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://getcomposer.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"
+               alt="Composer" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.jetbrains.com/phpstorm/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=white"
+               alt="PhpStorm" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Clean_Code" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Clean%20Code-3CB371?style=for-the-badge&logo=code&logoColor=white"
+               alt="Clean Code" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.typescriptlang.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+               alt="TypeScript" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.google.com/chrome/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"
+               alt="Google Chrome" style="max-height: 24px; vertical-align: middle;">
+        </a>
+      </td>
+    </tr>
+    <!-- 8) 2010-2015 -->
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+        📱 <b>2010-2015</b><br>Frontend Boom
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+        <a href="https://www.sencha.com/products/extjs/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white"
+               alt="Ext JS (Sencha)" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://phpspreadsheet.readthedocs.io/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/PhpSpreadsheet-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
+               alt="PhpSpreadsheet" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://developer.apple.com/ios/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Mobile%20Development-000000?style=for-the-badge&logo=apple&logoColor=white"
+               alt="Mobile Development" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://getbootstrap.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
+               alt="Bootstrap" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://sass-lang.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+               alt="Sass" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.zend.com/products/zend-studio" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Zend%20Studio-0680CD?style=for-the-badge&logo=zend&logoColor=white"
+               alt="Zend Studio" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.selenium.dev/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"
+               alt="Selenium" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.jenkins.io/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"
+               alt="Jenkins" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Agile_software_development" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white"
+               alt="Agile" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.atlassian.com/software/jira" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"
+               alt="JIRA" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://git-scm.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+               alt="Git" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://bitbucket.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"
+               alt="Bitbucket" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://angular.io/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
+               alt="Angular" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://developer.android.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
+               alt="Android" style="max-height: 24px; vertical-align: middle;">
+        </a>
+      </td>
+    </tr>
+    <!-- 9) 2006-2010 -->
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+        ⚙️ <b>2006-2010</b><br>First Job Vibes
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+        <a href="https://www.php.net/releases/5_0/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/PHP%205-8892BF?style=for-the-badge&logo=php&logoColor=white"
+               alt="PHP 5" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://framework.zend.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Zend%20Framework-68B604?style=for-the-badge&logo=zend&logoColor=white"
+               alt="Zend Framework" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://phpunit.de/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white"
+               alt="PHPUnit" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://jquery.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
+               alt="jQuery" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://ubuntu.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+               alt="Ubuntu" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.nginx.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"
+               alt="Nginx" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.gnu.org/software/bash/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
+               alt="Shell/Bash" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://maps.google.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white"
+               alt="Google Maps" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://wordpress.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"
+               alt="WordPress" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://netbeans.apache.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"
+               alt="NetBeans" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.eclipse.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"
+               alt="Eclipse" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://subversion.apache.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white"
+               alt="SVN" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.mozilla.org/firefox/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"
+               alt="Firefox" style="max-height: 24px; vertical-align: middle;">
+        </a>
+      </td>
+    </tr>
+    <!-- 10) 2002-2006 -->
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+        🏗️ <b>2002-2006</b><br>Internship Life
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+        <a href="https://www.php.net/releases/4_0/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/PHP%204-4F5B93?style=for-the-badge&logo=php&logoColor=white"
+               alt="PHP 4" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://httpd.apache.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"
+               alt="Apache" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.mysql.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+               alt="MySQL" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+               alt="JavaScript" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=javascript&logoColor=white"
+               alt="AJAX" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.adobe.com/products/dreamweaver.html" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white"
+               alt="Dreamweaver" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Internet_Explorer" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=internet-explorer&logoColor=white"
+               alt="Internet Explorer" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Visual%20Basic%20.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"
+               alt="Visual Basic .NET" style="max-height: 24px; vertical-align: middle;">
+        </a>
+      </td>
+    </tr>
+    <!-- 11) 1994-2002 -->
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+        🖥️ <b>1994-2002</b><br>University Years
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+        <a href="https://www.microsoft.com/en-us/windows" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+               alt="Windows" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+               alt="HTML" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+               alt="CSS" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.postgresql.org/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"
+               alt="SQL" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://www.microsoft.com/en-us/microsoft-365/excel" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
+               alt="Microsoft Excel" style="max-height: 24px; vertical-align: middle;">
+        </a>
+        <a href="https://visualstudio.microsoft.com/" rel="nofollow" style="text-decoration: none; margin: 2px; display: inline-block; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Visual%20Studio%206.0-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"
+               alt="Visual Studio 6.0" style="max-height: 24px; vertical-align: middle;">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
 
 ## Languages
