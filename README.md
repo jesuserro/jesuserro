@@ -97,14 +97,14 @@
     <tr>
       <td>🤖 <b>2022-2024</b><br /><small>GPT Revolution</small></td>
       <td>
+        <a href="https://openai.com/">
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+        </a>
         <a href="https://www.php.net/releases/8.0/">
           <img src="https://img.shields.io/badge/PHP%208-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8" />
         </a>
         <a href="https://www.docker.com/">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        </a>
-        <a href="https://openai.com/">
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
         </a>
         <a href="https://code.visualstudio.com/">
           <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
