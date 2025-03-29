@@ -128,14 +128,17 @@
     <tr>
       <td>🛍️ <b>2020-2021</b><br /><small>E-Commerce</small></td>
       <td>
-        <a href="https://aws.amazon.com/">
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-        </a>
         <a href="https://www.amazon.com/">
           <img src="https://img.shields.io/badge/Ecommerce-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Ecommerce" />
         </a>
+        <a href="https://aws.amazon.com/">
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+        </a>
         <a href="https://www.zsh.org/">
           <img src="https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Zsh" />
+        </a>
+        <a href="https://github.com/">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </td>
     </tr>
