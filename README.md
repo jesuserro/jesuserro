@@ -95,7 +95,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>🤖 <b>2022-2024</b><br /><small>GPT Revolution</small></td>
+      <td>🤖 <b>2022-2024</b><br /><small>AI Revolution</small></td>
       <td>
         <a href="https://www.php.net/releases/8.0/">
           <img src="https://img.shields.io/badge/PHP%208-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8" />
