@@ -171,6 +171,9 @@
     <tr style="background-color: #f9f9f9;">
       <td>📱 <b>2010-2015</b><br /><small>Mobile Era</small></td>
       <td>
+        <a href="https://www.zend.com/products/zend-studio">
+          <img src="https://img.shields.io/badge/Zend%20Studio-0680CD?style=for-the-badge&logo=zend&logoColor=white" alt="Zend Studio" />
+        </a>
         <a href="https://www.sencha.com/products/extjs/">
           <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white" alt="Ext JS (Sencha)" />
         </a>
@@ -223,9 +226,6 @@
         </a>
         <a href="https://phpunit.de/">
           <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
-        </a>
-        <a href="https://www.zend.com/products/zend-studio">
-          <img src="https://img.shields.io/badge/Zend%20Studio-0680CD?style=for-the-badge&logo=zend&logoColor=white" alt="Zend Studio" />
         </a>
         <a href="https://jquery.com/">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
