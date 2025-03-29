@@ -192,6 +192,15 @@
     <tr>
       <td>⚙️ <b>2006-2010</b><br /><small>Frameworks Era</small></td>
       <td>
+        <a href="https://www.php.net/releases/5_0/">
+          <img src="https://img.shields.io/badge/PHP%205-8892BF?style=for-the-badge&logo=php&logoColor=white" alt="PHP 5" />
+        </a>
+        <a href="https://framework.zend.com/">
+          <img src="https://img.shields.io/badge/Zend%20Framework-68B604?style=for-the-badge&logo=zend&logoColor=white" alt="Zend Framework" />
+        </a>
+        <a href="https://phpunit.de/">
+          <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
+        </a>
         <a href="https://ubuntu.com/">
           <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
         </a>
@@ -200,12 +209,6 @@
         </a>
         <a href="https://www.gnu.org/software/bash/">
           <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell/Bash" />
-        </a>
-        <a href="https://framework.zend.com/">
-          <img src="https://img.shields.io/badge/Zend%20Framework-68B604?style=for-the-badge&logo=zend&logoColor=white" alt="Zend Framework" />
-        </a>
-        <a href="https://phpunit.de/">
-          <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
         </a>
         <a href="https://maps.google.com/">
           <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps" />
@@ -225,10 +228,10 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>🏗️ <b>2002-2006</b><br /><small>PHP 4-5 Era</small></td>
+      <td>🏗️ <b>2002-2006</b><br /><small>Building the Core</small></td>
       <td>
-        <a href="https://www.php.net/">
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+        <a href="https://www.php.net/releases/4_0/">
+          <img src="https://img.shields.io/badge/PHP%204-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt="PHP 4" />
         </a>
         <a href="https://httpd.apache.org/">
           <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
