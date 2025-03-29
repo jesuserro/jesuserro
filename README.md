@@ -195,6 +195,9 @@
         <a href="https://phpunit.de/">
           <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
         </a>
+        <a href="https://maps.google.com/">
+          <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps" />
+        </a>
         <a href="https://wordpress.org/">
           <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
         </a>
