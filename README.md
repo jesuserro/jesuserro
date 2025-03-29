@@ -245,6 +245,9 @@
         <a href="https://wordpress.org/">
           <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
         </a>
+        <a href="https://netbeans.apache.org/">
+          <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />
+        </a>
         <a href="https://www.eclipse.org/">
           <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
         </a>
