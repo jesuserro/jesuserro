@@ -16,7 +16,7 @@
 - 🤖 **AI Enthusiast**: Leveraging tools like ChatGPT to learn, experiment, and innovate in artificial intelligence.  
 - 📝 **Obsidian** Fan: Organizing knowledge and ideas efficiently with Obsidian.
 
-## Interests
+## Hobbies
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jesuserro/" target="_blank">
@@ -321,7 +321,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical" alt="Jesús' GitHub stats" style="width: 48%; max-width: 350px;" />
 </div>
 
-## Footer
+## Metrics
 
 <div align="center">
     <!-- 1. GitHub Followers -->
