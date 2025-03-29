@@ -112,7 +112,7 @@
       </td>
     </tr>
     <tr>
-      <td>🌐 <b>2021-2022</b><br /><small>Modern Web & Cloud</small></td>
+      <td>🌐 <b>2021-2022</b><br /><small>Modern Web</small></td>
       <td>
         <a href="https://obsidian.md/">
           <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
@@ -129,7 +129,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>🛍️ <b>2020-2021</b><br /><small>E-Commerce</small></td>
+      <td>🛍️ <b>2020-2021</b><br /><small>E-Commerce & Cloud</small></td>
       <td>
         <a href="https://www.amazon.com/">
           <img src="https://img.shields.io/badge/Ecommerce-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Ecommerce" />
@@ -169,7 +169,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>📱 <b>2010-2015</b><br /><small>Mobile Era</small></td>
+      <td>📱 <b>2010-2015</b><br /><small>Frontend Strike</small></td>
       <td>
         <a href="https://www.sencha.com/products/extjs/">
           <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white" alt="Ext JS (Sencha)" />
