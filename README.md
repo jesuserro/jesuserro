@@ -174,6 +174,9 @@
         <a href="https://phpspreadsheet.readthedocs.io/">
           <img src="https://img.shields.io/badge/PhpSpreadsheet-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="PhpSpreadsheet" />
         </a>
+        <a href="https://getbootstrap.com/">
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        </a>
         <a href="https://sass-lang.com/">
           <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
         </a>
@@ -217,6 +220,9 @@
         </a>
         <a href="https://phpunit.de/">
           <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
+        </a>
+        <a href="https://www.mysql.com/">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
         </a>
         <a href="https://jquery.com/">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
