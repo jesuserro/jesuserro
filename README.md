@@ -146,11 +146,28 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>📱 <b>2010-2020</b><br /><small>Mobile Era</small></td>
+      <td>🧩 <b>2015-2020</b><br /><small>Patterns Era</small></td>
       <td>
         <a href="https://www.php.net/releases/7_0/">
           <img src="https://img.shields.io/badge/PHP%207-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 7" />
         </a>
+        <a href="https://getcomposer.org/">
+          <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Clean_Code">
+          <img src="https://img.shields.io/badge/Clean%20Code-3CB371?style=for-the-badge&logo=code&logoColor=white" alt="Clean Code" />
+        </a>
+        <a href="https://www.typescriptlang.org/">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        </a>
+        <a href="https://www.google.com/chrome/">
+          <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
+        </a>
+      </td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td>📱 <b>2010-2015</b><br /><small>Mobile Era</small></td>
+      <td>
         <a href="https://www.sencha.com/products/extjs/">
           <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white" alt="Ext JS (Sencha)" />
         </a>
@@ -175,9 +192,6 @@
         <a href="https://www.jenkins.io/">
           <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
         </a>
-        <a href="https://www.typescriptlang.org/">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        </a>
         <a href="https://angular.io/">
           <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
         </a>
@@ -189,9 +203,6 @@
         </a>
         <a href="https://bitbucket.org/">
           <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-        </a>
-        <a href="https://www.google.com/chrome/">
-          <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
         </a>
       </td>
     </tr>
