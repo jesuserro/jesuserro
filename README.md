@@ -6,6 +6,39 @@
 
 # 💻 IT Developer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Specialist | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast | 📚 Bookworm | 📷 Amateur Photographer
 
+## Summary
+
+- 💻 **Software Architecture**: Exploring and implementing full-stack solutions with a focus on scalability and performance.  
+- 📊 **Data Analytics**:  
+  - ✅ [A/B Testing](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard): Designing and analyzing experiments to optimize performance.  
+  - 📈 Model Analysis: Specialist in techniques like [Random Forest](https://github.com/jesuserro/weather-prediction-machine-learning) and [NLP](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search).  
+  - 🎯 Delivering actionable insights through data-driven methodologies.  
+- 🤖 **AI Enthusiast**: Leveraging tools like ChatGPT to learn, experiment, and innovate in artificial intelligence.  
+- 📝 **Obsidian** Fan: Organizing knowledge and ideas efficiently with Obsidian.
+
+## Interests
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jesuserro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow" />
+  </a>
+  <a href="https://www.instagram.com/jesuserro/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
+  </a>
+  <a href="https://www.goodreads.com/user/show/40291334-jes-s-erro" target="_blank">
+    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads Profile" />
+  </a>
+  <a href="https://www.chess.com/member/olagato" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-2C8D2C?style=for-the-badge&logo=Chess.com&logoColor=white" alt="Chess.com Profile" />
+  </a>
+  <a href="https://lichess.org/@/olagato" target="_blank">
+    <img src="https://img.shields.io/badge/Lichess-393732?style=for-the-badge&logo=lichess&logoColor=white" alt="Lichess Profile" />
+  </a>
+  <a href="https://open.spotify.com/playlist/6cZlnbJNn6P8Ad2GZ4YLis?si=515ff69023744a6c" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  </a>
+</div>
+
 ## Chronology
 
 <div align="center">
@@ -195,40 +228,7 @@
   </table>
 </div>
 
-## Intro
-
-- 💻 **Software Architecture**: Exploring and implementing full-stack solutions with a focus on scalability and performance.  
-- 📊 **Data Analytics**:  
-  - ✅ [A/B Testing](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard): Designing and analyzing experiments to optimize performance.  
-  - 📈 Model Analysis: Specialist in techniques like [Random Forest](https://github.com/jesuserro/weather-prediction-machine-learning) and [NLP](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search).  
-  - 🎯 Delivering actionable insights through data-driven methodologies.  
-- 🤖 **AI Enthusiast**: Leveraging tools like ChatGPT to learn, experiment, and innovate in artificial intelligence.  
-- 📝 **Obsidian** Fan: Organizing knowledge and ideas efficiently with Obsidian.
-
-***
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jesuserro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow" />
-  </a>
-  <a href="https://www.instagram.com/jesuserro/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
-  </a>
-  <a href="https://www.goodreads.com/user/show/40291334-jes-s-erro" target="_blank">
-    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads Profile" />
-  </a>
-  <a href="https://www.chess.com/member/olagato" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-2C8D2C?style=for-the-badge&logo=Chess.com&logoColor=white" alt="Chess.com Profile" />
-  </a>
-  <a href="https://lichess.org/@/olagato" target="_blank">
-    <img src="https://img.shields.io/badge/Lichess-393732?style=for-the-badge&logo=lichess&logoColor=white" alt="Lichess Profile" />
-  </a>
-  <a href="https://open.spotify.com/playlist/6cZlnbJNn6P8Ad2GZ4YLis?si=515ff69023744a6c" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
-  </a>
-</div>
-
-***
+## Languages
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
   <!-- Top Languages -->
@@ -237,8 +237,6 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical" alt="Jesús' GitHub stats" style="width: 48%; max-width: 350px;" />
 </div>
-
-***
 
 <div align="center">
     <!-- 1. GitHub Followers -->
