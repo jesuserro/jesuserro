@@ -216,7 +216,7 @@
       </td>
     </tr>
     <tr>
-      <td>⚙️ <b>2006-2010</b><br /><small>The first Job</small></td>
+      <td>⚙️ <b>2006-2010</b><br /><small>The First Job</small></td>
       <td>
         <a href="https://www.php.net/releases/5_0/">
           <img src="https://img.shields.io/badge/PHP%205-8892BF?style=for-the-badge&logo=php&logoColor=white" alt="PHP 5" />
@@ -289,7 +289,7 @@
       </td>
     </tr>
     <tr>
-      <td>🖥️ <b>1994-2002</b><br /><small>Final year project for Technical degree</small></td>
+      <td>🖥️ <b>1994-2002</b><br /><small>University</small></td>
       <td>
         <a href="https://www.microsoft.com/en-us/windows">
           <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
