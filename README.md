@@ -109,9 +109,6 @@
         <a href="https://code.visualstudio.com/">
           <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
         </a>
-        <a href="https://bitbucket.org/">
-          <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-        </a>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
@@ -180,6 +177,9 @@
         </a>
         <a href="https://www.atlassian.com/software/jira">
           <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
+        </a>
+        <a href="https://bitbucket.org/">
+          <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
         </a>
         <a href="https://www.google.com/chrome/">
           <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
