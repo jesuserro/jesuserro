@@ -39,7 +39,7 @@
   </a>
 </div>
 
-## Chronology
+## Tech Chronology
 
 <div align="center">
   <table>
