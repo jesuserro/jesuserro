@@ -283,6 +283,9 @@
         <a href="https://en.wikipedia.org/wiki/Internet_Explorer">
           <img src="https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Internet Explorer" />
         </a>
+        <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/">
+          <img src="https://img.shields.io/badge/Visual%20Basic%20.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Visual Basic .NET" />
+        </a>
       </td>
     </tr>
     <tr>
