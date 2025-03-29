@@ -146,7 +146,7 @@
       </td>
     </tr>
     <tr>
-      <td>🧩 <b>2015-2020</b><br /><small>Patterns Era</small></td>
+      <td>🧩 <b>2015-2020</b><br /><small>Design Patterns Era</small></td>
       <td>
         <a href="https://www.php.net/releases/7_0/">
           <img src="https://img.shields.io/badge/PHP%207-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 7" />
