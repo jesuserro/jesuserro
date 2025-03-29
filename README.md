@@ -154,6 +154,9 @@
         <a href="https://getcomposer.org/">
           <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
         </a>
+        <a href="https://www.jetbrains.com/phpstorm/">
+          <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=white" alt="PhpStorm" />
+        </a>
         <a href="https://en.wikipedia.org/wiki/Clean_Code">
           <img src="https://img.shields.io/badge/Clean%20Code-3CB371?style=for-the-badge&logo=code&logoColor=white" alt="Clean Code" />
         </a>
@@ -206,9 +209,6 @@
         </a>
         <a href="https://bitbucket.org/">
           <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-        </a>
-        <a href="https://www.jetbrains.com/phpstorm/">
-          <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=white" alt="PhpStorm" />
         </a>
       </td>
     </tr>
