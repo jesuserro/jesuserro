@@ -183,6 +183,9 @@
         <a href="https://ubuntu.com/">
           <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
         </a>
+        <a href="https://www.nginx.com/">
+          <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+        </a>
         <a href="https://www.gnu.org/software/bash/">
           <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell/Bash" />
         </a>
@@ -208,6 +211,9 @@
       <td>
         <a href="https://www.php.net/">
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+        </a>
+        <a href="https://httpd.apache.org/">
+          <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
         </a>
         <a href="https://www.postgresql.org/">
           <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
