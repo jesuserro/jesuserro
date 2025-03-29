@@ -175,6 +175,9 @@
         <a href="https://angular.io/">
           <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
         </a>
+        <a href="https://en.wikipedia.org/wiki/Agile_software_development">
+          <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
+        </a>
         <a href="https://www.atlassian.com/software/jira">
           <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
         </a>
