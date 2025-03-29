@@ -171,9 +171,6 @@
     <tr style="background-color: #f9f9f9;">
       <td>📱 <b>2010-2015</b><br /><small>Mobile Era</small></td>
       <td>
-        <a href="https://www.zend.com/products/zend-studio">
-          <img src="https://img.shields.io/badge/Zend%20Studio-0680CD?style=for-the-badge&logo=zend&logoColor=white" alt="Zend Studio" />
-        </a>
         <a href="https://www.sencha.com/products/extjs/">
           <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white" alt="Ext JS (Sencha)" />
         </a>
@@ -186,14 +183,11 @@
         <a href="https://sass-lang.com/">
           <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
         </a>
-        <a href="https://developer.android.com/">
-          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+        <a href="https://www.zend.com/products/zend-studio">
+          <img src="https://img.shields.io/badge/Zend%20Studio-0680CD?style=for-the-badge&logo=zend&logoColor=white" alt="Zend Studio" />
         </a>
         <a href="https://developer.apple.com/ios/">
           <img src="https://img.shields.io/badge/Mobile%20Development-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mobile Development" />
-        </a>
-        <a href="https://git-scm.com/">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         </a>
         <a href="https://www.selenium.dev/">
           <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
@@ -201,17 +195,23 @@
         <a href="https://www.jenkins.io/">
           <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
         </a>
-        <a href="https://angular.io/">
-          <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-        </a>
         <a href="https://en.wikipedia.org/wiki/Agile_software_development">
           <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
         </a>
         <a href="https://www.atlassian.com/software/jira">
           <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
         </a>
+        <a href="https://git-scm.com/">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        </a>
         <a href="https://bitbucket.org/">
           <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+        </a>
+        <a href="https://angular.io/">
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+        </a>
+        <a href="https://developer.android.com/">
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
         </a>
       </td>
     </tr>
