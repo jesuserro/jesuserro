@@ -175,6 +175,9 @@
         <a href="https://www.atlassian.com/software/jira">
           <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
         </a>
+        <a href="https://www.google.com/chrome/">
+          <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
+        </a>
       </td>
     </tr>
     <tr>
@@ -207,8 +210,8 @@
         <a href="https://subversion.apache.org/">
           <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" alt="SVN" />
         </a>
-        <a href="https://www.google.com/chrome/">
-          <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
+        <a href="https://www.mozilla.org/firefox/">
+          <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Firefox" />
         </a>
       </td>
     </tr>
