@@ -189,7 +189,7 @@
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td>💻 <b>2002-2006</b><br /><small>PHP5 Era</small></td>
+      <td>🏗️ <b>2002-2006</b><br /><small>PHP 4-5 Era</small></td>
       <td>
         <a href="https://www.php.net/">
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
