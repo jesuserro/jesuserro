@@ -87,6 +87,9 @@
             <img src="https://img.shields.io/badge/Pinecone-0094F5?style=for-the-badge&logo=pinecone&logoColor=white"
                 alt="Pinecone" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://spacy.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://pytorch.org/" rel="nofollow">
             <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
                 alt="PyTorch" style="max-height: 24px; vertical-align: middle;">
