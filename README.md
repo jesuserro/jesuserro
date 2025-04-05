@@ -63,6 +63,10 @@
             <img src="https://img.shields.io/badge/Transformers-Hugging%20Face-orange?style=for-the-badge&logo=huggingface&logoColor=white"
                 alt="Transformers" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://www.pinecone.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Pinecone-0094F5?style=for-the-badge&logo=pinecone&logoColor=white"
+                alt="Pinecone" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://pytorch.org/" rel="nofollow">
             <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
                 alt="PyTorch" style="max-height: 24px; vertical-align: middle;">
