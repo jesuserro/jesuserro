@@ -74,9 +74,14 @@
             <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
                 alt="Scikit-learn" style="max-height: 24px; vertical-align: middle;">
           </a>
-          <a href="https://www.nltk.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-green?style=for-the-badge&logo=nltk&logoColor=white"
-                alt="NLP" style="max-height: 24px; vertical-align: middle;">
+          <a href="https://en.wikipedia.org/wiki/Natural_language_processing" rel="nofollow">
+            <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge&logo=nltk&logoColor=white" alt="NLP" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Sentiment_analysis" rel="nofollow">
+            <img src="https://img.shields.io/badge/Sentiment%20Analysis-green?style=for-the-badge&logo=nltk&logoColor=white" alt="Sentiment Analysis" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/K-means_clustering" rel="nofollow">
+            <img src="https://img.shields.io/badge/K--Means-Clustering-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="K-Means" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://huggingface.co/" rel="nofollow">
             <img src="https://img.shields.io/badge/Transformers-Hugging%20Face-orange?style=for-the-badge&logo=huggingface&logoColor=white"
