@@ -107,6 +107,9 @@
           📊 <b>2024</b><br>Foundations of Data Science
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+          <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" rel="nofollow">
+            <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-4B8BBE?style=for-the-badge&logo=pandas&logoColor=white" alt="EDA" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://www.python.org/" rel="nofollow">
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
                 alt="Python" style="max-height: 24px; vertical-align: middle;">
