@@ -58,6 +58,10 @@
           <a href="https://grafana.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://powerbi.microsoft.com/" rel="nofollow">
+            <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+                alt="PowerBI" style="max-height: 24px; vertical-align: middle;">
+          </a>
         </td>
       </tr>
       <!-- 1) March 2025 -->
@@ -106,12 +110,20 @@
             <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
                 alt="Streamlit" style="max-height: 24px; vertical-align: middle;">
           </a>
-          <a href="https://en.wikipedia.org/wiki/A/B_testing" rel="nofollow">
-            <img src="https://img.shields.io/badge/A%2FB%20Testing-0078D4?style=for-the-badge&logo=splitgate&logoColor=white" alt="A/B Testing" style="max-height: 24px; vertical-align: middle;">
+          <a href="https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm" rel="nofollow">
+            <img src="https://img.shields.io/badge/KNN-K--Nearest%20Neighbors-0078D4?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="KNN" style="max-height: 24px; vertical-align: middle;">
           </a>
-          <a href="https://powerbi.microsoft.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
-                alt="PowerBI" style="max-height: 24px; vertical-align: middle;">
+          <a href="https://en.wikipedia.org/wiki/Linear_regression" rel="nofollow">
+            <img src="https://img.shields.io/badge/Linear%20Regression-0072C6?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Linear Regression" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Logistic_regression" rel="nofollow">
+            <img src="https://img.shields.io/badge/Logistic%20Regression-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Logistic Regression" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Decision_tree" rel="nofollow">
+            <img src="https://img.shields.io/badge/Decision%20Trees-228B22?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Decision Trees" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Ensemble_learning" rel="nofollow">
+            <img src="https://img.shields.io/badge/Ensemble%20Methods-8A2BE2?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Ensemble Methods" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://en.wikipedia.org/wiki/Random_forest" rel="nofollow">
             <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Random Forest" style="max-height: 24px; vertical-align: middle;">
@@ -140,12 +152,15 @@
             <img src="https://img.shields.io/badge/SQLAlchemy-CE2C2E?style=for-the-badge&logo=sqlalchemy&logoColor=white"
                 alt="SQLAlchemy" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" rel="nofollow">
+            <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-4B8BBE?style=for-the-badge&logo=pandas&logoColor=white" alt="EDA" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/A/B_testing" rel="nofollow">
+            <img src="https://img.shields.io/badge/A%2FB%20Testing-0078D4?style=for-the-badge&logo=splitgate&logoColor=white" alt="A/B Testing" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://www.tableau.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
                 alt="Tableau" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" rel="nofollow">
-            <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-4B8BBE?style=for-the-badge&logo=pandas&logoColor=white" alt="EDA" style="max-height: 24px; vertical-align: middle;">
           </a>
         </td>
       </tr>
