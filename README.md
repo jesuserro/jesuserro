@@ -73,22 +73,21 @@
           <a href="https://en.wikipedia.org/wiki/Natural_language_processing" rel="nofollow">
             <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge&logo=nltk&logoColor=white" alt="NLP" style="max-height: 24px; vertical-align: middle;">
           </a>
-          <a href="https://en.wikipedia.org/wiki/Sentiment_analysis" rel="nofollow">
-            <img src="https://img.shields.io/badge/Sentiment%20Analysis-green?style=for-the-badge&logo=nltk&logoColor=white" alt="Sentiment Analysis" style="max-height: 24px; vertical-align: middle;">
+          <a href="https://spacy.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://en.wikipedia.org/wiki/K-means_clustering" rel="nofollow">
             <img src="https://img.shields.io/badge/K--Means-Clustering-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="K-Means" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://en.wikipedia.org/wiki/Sentiment_analysis" rel="nofollow">
+            <img src="https://img.shields.io/badge/Sentiment%20Analysis-green?style=for-the-badge&logo=nltk&logoColor=white" alt="Sentiment Analysis" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://huggingface.co/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Transformers-Hugging%20Face-orange?style=for-the-badge&logo=huggingface&logoColor=white"
-                alt="Transformers" style="max-height: 24px; vertical-align: middle;">
+            <img src="https://img.shields.io/badge/Hugging%20Face-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://www.pinecone.io/" rel="nofollow">
             <img src="https://img.shields.io/badge/Pinecone-0094F5?style=for-the-badge&logo=pinecone&logoColor=white"
                 alt="Pinecone" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://spacy.io/" rel="nofollow">
-            <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://pytorch.org/" rel="nofollow">
             <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
