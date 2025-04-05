@@ -67,7 +67,7 @@
       <!-- 1) March 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🌟 <b>March 2025</b><br>NPL
+          🌟 <b>March 2025</b><br>NLP (Natural Language Processing)
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://en.wikipedia.org/wiki/Natural_language_processing" rel="nofollow">
