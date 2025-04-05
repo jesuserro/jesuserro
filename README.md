@@ -48,7 +48,7 @@
       <!-- 1) April 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🌟 <b>April 2025</b><br>Pipelines
+          🌟 <b>April 2025</b><br>Data Engineering, Pipelines &amp; Viz
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://airflow.apache.org/" rel="nofollow">
@@ -67,7 +67,7 @@
       <!-- 1) March 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🌟 <b>March 2025</b><br>Machine Learning
+          🌟 <b>March 2025</b><br>NPL
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://en.wikipedia.org/wiki/Natural_language_processing" rel="nofollow">
@@ -104,7 +104,7 @@
       <!-- 2) Feb. 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🚀 <b>Feb. 2025</b><br>Data Engineering, Pipelines &amp; Viz
+          🚀 <b>Feb. 2025</b><br>Machine Learning
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://streamlit.io/" rel="nofollow">
