@@ -70,10 +70,6 @@
           🌟 <b>March 2025</b><br>Machine Learning
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://scikit-learn.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
-                alt="Scikit-learn" style="max-height: 24px; vertical-align: middle;">
-          </a>
           <a href="https://en.wikipedia.org/wiki/Natural_language_processing" rel="nofollow">
             <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge&logo=nltk&logoColor=white" alt="NLP" style="max-height: 24px; vertical-align: middle;">
           </a>
@@ -114,6 +110,10 @@
           <a href="https://streamlit.io/" rel="nofollow">
             <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
                 alt="Streamlit" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://scikit-learn.org/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
+                alt="Scikit-learn" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm" rel="nofollow">
             <img src="https://img.shields.io/badge/KNN-K--Nearest%20Neighbors-0078D4?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="KNN" style="max-height: 24px; vertical-align: middle;">
