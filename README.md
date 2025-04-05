@@ -73,6 +73,9 @@
           <a href="https://en.wikipedia.org/wiki/Natural_language_processing" rel="nofollow">
             <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge&logo=nltk&logoColor=white" alt="NLP" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://en.wikipedia.org/wiki/Lemmatisation" rel="nofollow">
+            <img src="https://img.shields.io/badge/Lemmatization-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Lemmatization" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://spacy.io/" rel="nofollow">
             <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" style="max-height: 24px; vertical-align: middle;">
           </a>
