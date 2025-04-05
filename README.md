@@ -128,6 +128,9 @@
           <a href="https://en.wikipedia.org/wiki/Random_forest" rel="nofollow">
             <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Random Forest" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://xgboost.readthedocs.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" style="max-height: 24px; vertical-align: middle;">
+          </a>
         </td>
       </tr>
       <!-- 3) 2024 -->
