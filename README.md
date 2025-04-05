@@ -45,6 +45,21 @@
 <div align="center">
   <table style="border: 1px solid #ddd; border-collapse: collapse; width: 100%; margin: 1em 0; font-family: Arial, sans-serif;">
     <tbody>
+      <!-- 1) April 2025 -->
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+          🌟 <b>April 2025</b><br>Pipelines
+        </td>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+          <a href="https://airflow.apache.org/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"
+                alt="Airflow" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://grafana.com/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" style="max-height: 24px; vertical-align: middle;">
+          </a>
+        </td>
+      </tr>
       <!-- 1) March 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
@@ -87,17 +102,19 @@
           🚀 <b>Feb. 2025</b><br>Data Engineering, Pipelines &amp; Viz
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://airflow.apache.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"
-                alt="Airflow" style="max-height: 24px; vertical-align: middle;">
-          </a>
           <a href="https://streamlit.io/" rel="nofollow">
             <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
                 alt="Streamlit" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://en.wikipedia.org/wiki/A/B_testing" rel="nofollow">
+            <img src="https://img.shields.io/badge/A%2FB%20Testing-0078D4?style=for-the-badge&logo=splitgate&logoColor=white" alt="A/B Testing" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://powerbi.microsoft.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
                 alt="PowerBI" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Random_forest" rel="nofollow">
+            <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Random Forest" style="max-height: 24px; vertical-align: middle;">
           </a>
         </td>
       </tr>
