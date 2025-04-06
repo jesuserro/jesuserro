@@ -6,15 +6,22 @@
 
 # 💻 IT Developer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analytics Specialist | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast | 📚 Bookworm | 📷 Amateur Photographer
 
-## Summary
+## Featured Projects
 
-- 💻 **Software Architecture**: Exploring and implementing full-stack solutions with a focus on scalability and performance.  
+- 💻 **Software Architecture**:  
+  Exploring and implementing full-stack solutions with a focus on scalability and performance.
+
 - 📊 **Data Analytics**:  
-  - ✅ [A/B Testing](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard): Designing and analyzing experiments to optimize performance.  
-  - 📈 Model Analysis: Specialist in techniques like [Random Forest](https://github.com/jesuserro/weather-prediction-machine-learning) and [NLP](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search).  
-  - 🎯 Delivering actionable insights through data-driven methodologies.  
-- 🤖 **AI Enthusiast**: Leveraging tools like ChatGPT to learn, experiment, and innovate in artificial intelligence.  
-- 📝 **Obsidian** Contributor.
+  - ✅ **A/B Testing Redesign**: [Optimizing User Interfaces](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard) through data-driven experiments.  
+  - 📈 **Weather Predictor**: [Random Forest Model](https://github.com/jesuserro/weather-prediction-machine-learning) for accurate weather forecasting.  
+  - 🧠 **Semantic Book Search**: [NLP-Powered Tagging](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search) for enhanced book discovery.  
+  - 🎯 Delivering actionable insights through advanced analytics.
+
+- 🤖 **AI Enthusiast**:  
+  Leveraging tools like ChatGPT to innovate and experiment in artificial intelligence.
+
+- 📝 **Obsidian Contributor**:  
+  Sharing knowledge and workflows with the Obsidian community.
 
 ## Hobbies
 
