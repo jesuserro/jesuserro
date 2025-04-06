@@ -14,7 +14,7 @@
   - 📈 Model Analysis: Specialist in techniques like [Random Forest](https://github.com/jesuserro/weather-prediction-machine-learning) and [NLP](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search).  
   - 🎯 Delivering actionable insights through data-driven methodologies.  
 - 🤖 **AI Enthusiast**: Leveraging tools like ChatGPT to learn, experiment, and innovate in artificial intelligence.  
-- 📝 **Obsidian** Fan: Organizing knowledge and ideas efficiently with Obsidian.
+- 📝 **Obsidian** Contributor.
 
 ## Hobbies
 
