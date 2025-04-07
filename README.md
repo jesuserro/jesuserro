@@ -45,7 +45,6 @@
     </td>
     <td style="vertical-align: top; width: 50%; padding-left: 10px;">
 <strong>📈 Weather Predictor</strong>: Supervised learning for accurate weather forecasting using historical data — <a href="https://github.com/jesuserro/weather-prediction-machine-learning">check it out</a>.
-
 <div style="display: flex; gap: 4px; margin-top: 6px;">
   <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-heatmap.png" width="100" height="67" style="object-fit: cover;">
   <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-adapyted-roc.png" width="100" height="67" style="object-fit: cover;">
@@ -55,9 +54,7 @@
   </tr>
   <tr>
     <td colspan="2" style="vertical-align: top; padding-top: 20px;">
-
 <strong>🛒 Retail Sales Predictor</strong>: Pipeline for training, evaluating, and reporting a machine learning model to forecast store sales — <a href="https://github.com/jesuserro/ml-retail-sales-predictor">view repository</a>.
-
 <div style="display: flex; gap: 4px; margin-top: 6px; margin-left: 6px;">
   <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/scatter_real_vs_pred.jpg" width="100" height="67" style="object-fit: cover;">
   <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/histogram_error.jpg" width="100" height="67" style="object-fit: cover;">
