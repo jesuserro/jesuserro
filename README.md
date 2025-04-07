@@ -15,7 +15,8 @@
   - ✅ **A/B Testing Redesign**: [Optimizing User Interfaces](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard) through data-driven experiments.  
   - 📈 **Weather Predictor**: [Random Forest Model](https://github.com/jesuserro/weather-prediction-machine-learning) for accurate weather forecasting.  
   - 🧠 **Semantic Book Search**: [NLP-Powered Tagging](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search) for enhanced book discovery.  
-  - 🎯 Delivering actionable insights through advanced analytics.
+  - 🛒📈 **Retail Sales Prediction Report**: [Retail Sales Predictor](https://github.com/jesuserro/ml-retail-sales-predictor) a complete workflow for training, evaluating, and reporting a machine learning model that predicts store sales.
+  
 
 - 🤖 **AI Enthusiast**:  
   Leveraging tools like ChatGPT to innovate and experiment in artificial intelligence.
