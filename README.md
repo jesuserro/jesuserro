@@ -31,16 +31,10 @@
 
 ### 📊 **Machine Learning & Predictive Modeling**
 
-<!-- Proyecto 1 -->
-<div style="display: table; width: 100%; margin-bottom: 20px;">
+- 🏷️ **Semantic Book Search**: Uses NLP to enhance book discovery through semantic understanding and automatic tag generation — [explore the code](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search).
+
+<div style="display: table; width: 100%; margin-bottom: 20px; margin-left: 6%">
   <div style="display: table-row;">
-    <div style="display: table-cell; width: 60%; vertical-align: top; padding-right: 20px;">
-      <p>
-        🏷️ <strong>Semantic Book Search Engine</strong><br>
-        Uses NLP to enhance book discovery through semantic understanding and automatic tag generation — 
-        <a href="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search">explore the code</a>.
-      </p>
-    </div>
     <div style="display: table-cell; vertical-align: top;">
       <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
       <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
@@ -49,34 +43,23 @@
   </div>
 </div>
 
-<!-- Proyecto 2 -->
-<div style="display: table; width: 100%; margin-bottom: 20px;">
+- 🛒 **Retail Sales Predictor**: Pipeline for training, evaluating, and reporting a machine learning model to forecast store sales — [view repository](https://github.com/jesuserro/ml-retail-sales-predictor).
+
+<div style="display: table; width: 100%; margin-bottom: 20px; margin-left: 6%">
   <div style="display: table-row;">
-    <div style="display: table-cell; width: 60%; vertical-align: top; padding-right: 20px;">
-      <p>
-        🛒 <strong>Retail Sales Predictor</strong><br>
-        Pipeline for training, evaluating, and reporting a machine learning model to forecast store sales — 
-        <a href="https://github.com/jesuserro/ml-retail-sales-predictor">view repository</a>.
-      </p>
-    </div>
-    <div style="display: table-cell; vertical-align: top;">
-      <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/scatter_real_vs_pred.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
-      <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/histogram_error.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
-      <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/feature_importance.jpg" width="100" height="67" style="object-fit: cover;">
+    <div style="display: table-cell; vertical-align: top; margin-left: 6%">
+          <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/scatter_real_vs_pred.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+          <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/histogram_error.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+          <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/feature_importance.jpg" width="100" height="67" style="object-fit: cover;">
     </div>
   </div>
 </div>
 
+- 📈 **Weather Predictor**: Supervised learning for accurate weather forecasting using historical data — [check it out](https://github.com/jesuserro/weather-prediction-machine-learning).
+
 <!-- Proyecto 3 -->
-<div style="display: table; width: 100%;">
+<div style="display: table; width: 100%; margin-left: 6%">
   <div style="display: table-row;">
-    <div style="display: table-cell; width: 60%; vertical-align: top; padding-right: 20px;">
-      <p>
-        📈 <strong>Weather Predictor</strong><br>
-        Supervised learning for accurate weather forecasting using historical data — 
-        <a href="https://github.com/jesuserro/weather-prediction-machine-learning">check it out</a>.
-      </p>
-    </div>
     <div style="display: table-cell; vertical-align: top;">
       <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-heatmap.png" width="100" height="67" style="margin-right:5px; object-fit: cover;">
       <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-adapyted-roc.png" width="100" height="67" style="margin-right:5px; object-fit: cover;">
