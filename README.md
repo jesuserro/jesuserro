@@ -59,45 +59,45 @@
 
 - ✅ **A/B Testing for UI/UX Redesign**: Data-driven experiments focused on improving usability and user experience through interface redesign — [optimizing user interfaces](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard).
 
-<div style="display: flex; gap: 8px; margin-left: 6%; margin-bottom: 30px;">
-  <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/cr_drop-off_funnel.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/ttc_by_step.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/4_activity_by_day.jpg" width="100" height="67" style="object-fit: cover;">
-</div>
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/cr_drop-off_funnel.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/ttc_by_step.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/4_activity_by_day.jpg" width="100" height="67" style="object-fit: cover;">
+  </div>
 
 - 🦈 **Shark Attack Analysis**: Uncovering global patterns and insights from shark attack data — [exploratory data analysis](https://github.com/jesuserro/shark-attack-exploratory-data-analysis).
 
-<div style="display: flex; gap: 8px; margin-left: 6%; margin-bottom: 30px;">
-  <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/historical_attacks.png" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/attacks_usa_map.png" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/months.png" width="100" height="67" style="object-fit: cover;">
-</div>
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/historical_attacks.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/attacks_usa_map.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/months.png" width="100" height="67" style="object-fit: cover;">
+  </div>
 
 - 🏆 **Oscars Data Insights**: Historical analysis of trends, winners, and cultural shifts in Academy Awards history — [96 years of film awards](https://github.com/jesuserro/oscars-data-insights-96-years).
 
-<div style="display: flex; gap: 8px; margin-left: 6%; margin-bottom: 30px;">
-  <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/top10_actores.png" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/taquilla_presupuesto.png" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/distribucion_edades_actores.png" width="100" height="67" style="object-fit: cover;">
-</div>
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/top10_actores.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/taquilla_presupuesto.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/distribucion_edades_actores.png" width="100" height="67" style="object-fit: cover;">
+  </div>
 
 - 📚 **Goodreads Author Talent Analysis**: Using Goodreads data to explore trends in author popularity, genre distribution, and reader engagement — [data storytelling project](https://github.com/jesuserro/goodreads-author-talent-analysis).
 
-<div style="display: flex; gap: 8px; margin-left: 6%; margin-bottom: 30px;">
-  <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/world_map.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/reviews_vs_rating.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/world_map.jpg" width="100" height="67" style="object-fit: cover;">
-</div>
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/world_map.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/reviews_vs_rating.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/world_map.jpg" width="100" height="67" style="object-fit: cover;">
+  </div>
 
 ### 🎮 **Creative Coding & Games**
 
 - 🧩 **Escape Room Game**: A text-based puzzle game showcasing Python logic, control flow, and user interaction — [Python project](https://github.com/jesuserro/escape-room-game-python).
 
-<div style="display: flex; gap: 8px; margin-left: 6%; margin-bottom: 30px;">
-  <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/map.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/living_room.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/outside.jpg" width="100" height="67" style="object-fit: cover;">
-</div>
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/map.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/living_room.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/outside.jpg" width="100" height="67" style="object-fit: cover;">
+  </div>
 
 ## 📆 Tech Chronology
 
