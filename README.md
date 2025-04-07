@@ -41,7 +41,7 @@
         <a href="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search">explore the code</a>.
       </p>
     </div>
-    <div style="display: table-cell; vertical-align: top;">
+    <div style="display: table-cell; vertical-align: top; align: right">
       <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
       <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
       <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/accuracy_per_sample_hist.jpg" width="100" height="67" style="object-fit: cover;">
