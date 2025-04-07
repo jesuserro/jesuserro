@@ -10,13 +10,12 @@
 
 ### 📊 **Data & Machine Learning Projects**
 
-#### 🤖 Machine Learning & Predictive Modeling
 - ✅ **A/B Testing for UI/UX Redesign**: [Optimizing User Interfaces](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard) — data-driven experiments focused on improving usability and user experience through interface redesign.  
 - 📈 **Weather Predictor**: [Random Forest Model](https://github.com/jesuserro/weather-prediction-machine-learning) — supervised learning for accurate weather forecasting based on historical data.  
 - 🛒 **Retail Sales Predictor**: [XGBRegressor Model](https://github.com/jesuserro/ml-retail-sales-predictor) — complete pipeline for training, evaluating, and reporting a machine learning model to forecast store sales.  
 - 🏷️ **Semantic Book Search Engine**: [NLP-Powered Tagging](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search) — uses Natural Language Processing to enhance book discovery through semantic understanding and automatic tag generation.
 
-#### 📈 Data Exploration & Analytics
+### 📈 Data Exploration & Analytics
 - 🦈 **Shark Attack Analysis**: [Exploratory Data Analysis](https://github.com/jesuserro/shark-attack-exploratory-data-analysis) — uncovering global patterns and insights from shark attack data.  
 - 🏆 **Oscars Data Insights**: [96 Years of Film Awards](https://github.com/jesuserro/oscars-data-insights-96-years) — historical analysis of trends, winners, and cultural shifts in Academy Awards history.  
 - 📚 **Goodreads Author Talent Analysis**: [Data Storytelling Project](https://github.com/jesuserro/goodreads-author-talent-analysis) — using Goodreads data to explore trends in author popularity, genre distribution, and reader engagement.  
