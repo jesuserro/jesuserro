@@ -14,7 +14,7 @@
 - 📊 **Data Analytics**:  
   - ✅ **A/B Testing Redesign**: [Optimizing User Interfaces](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard) through data-driven experiments.  
   - 📈 **Weather Predictor**: [Random Forest Model](https://github.com/jesuserro/weather-prediction-machine-learning) for accurate weather forecasting.  
-  - 🧠 **Semantic Book Search**: [NLP-Powered Tagging](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search) for enhanced book discovery.  
+  - 🏷️ Semantic Book Search Engine: [NLP-Powered Tagging](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search)— leverages Natural Language Processing to enhance book discovery through semantic understanding and automatic tag generation.  
   - 🛒 **Retail Sales Predictor**: [XGBRegressor Model](https://github.com/jesuserro/ml-retail-sales-predictor)— a complete workflow for training, evaluating, and reporting a machine learning model that predicts store sales.
   
 
