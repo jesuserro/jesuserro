@@ -31,7 +31,7 @@
 
 ### 📊 **Machine Learning & Predictive Modeling**
 
-- 🧠 **[AI Keyword Extraction](https://github.com/jesuserro/ai-keyword-extraction)**: Automates keyword extraction from text using advanced AI techniques powered by OpenAI.
+- 🧠 **[AI Keyword Extraction](https://github.com/jesuserro/ai-keyword-extraction)**: Automates keyword extraction from book blurb using OpenAI API.
 
   <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
     <img src="https://github.com/jesuserro/ai-keyword-extraction/raw/main/img/tag_cloud.jpg" width="100" height="67" style="object-fit: cover;">
