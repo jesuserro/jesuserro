@@ -8,9 +8,6 @@
 
 ## Featured Projects
 
-- 💻 **Software Architecture**:  
-  Exploring and implementing full-stack solutions with a focus on scalability and performance.
-
 ### 📊 **Data & Machine Learning Projects**
 
 #### 🤖 Machine Learning & Predictive Modeling
@@ -24,12 +21,6 @@
 - 🏆 **Oscars Data Insights**: [96 Years of Film Awards](https://github.com/jesuserro/oscars-data-insights-96-years) — historical analysis of trends, winners, and cultural shifts in Academy Awards history.  
 - 📚 **Goodreads Author Talent Analysis**: [Data Storytelling Project](https://github.com/jesuserro/goodreads-author-talent-analysis) — using Goodreads data to explore trends in author popularity, genre distribution, and reader engagement.  
 - 🧩 **Escape Room Game**: [Python Project](https://github.com/jesuserro/escape-room-game-python) — a text-based puzzle game showcasing Python logic, control flow, and user interaction.
-
-- 🤖 **AI Enthusiast**:  
-  Leveraging tools like ChatGPT to innovate and experiment in artificial intelligence.
-
-- 📝 **Obsidian Contributor**:  
-  Sharing knowledge and workflows with the Obsidian community.
 
 ## Hobbies
 
