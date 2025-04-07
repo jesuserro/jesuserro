@@ -31,17 +31,13 @@
 
 ### 📊 **Machine Learning & Predictive Modeling**
 
-<p style="margin-bottom: 8px;">
-  - 🏷️ <strong>Semantic Book Search</strong>: Uses NLP to enhance book discovery through semantic understanding and automatic tag generation —
-  <a href="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search">explore the code</a>.
-</p>
+- 🏷️ **Semantic Book Search**: Uses NLP to enhance book discovery through semantic understanding and automatic tag generation — [explore the code](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search).
 
 <div style="display: flex; gap: 8px; margin-left: 6%; margin-bottom: 30px;">
   <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" height="67" style="object-fit: cover;">
   <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100" height="67" style="object-fit: cover;">
   <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/accuracy_per_sample_hist.jpg" width="100" height="67" style="object-fit: cover;">
 </div>
-
 
 - 🛒 **Retail Sales Predictor**: Pipeline for training, evaluating, and reporting a machine learning model to forecast store sales — [view repository](https://github.com/jesuserro/ml-retail-sales-predictor).
 
