@@ -31,9 +31,7 @@
 
 ### 📊 **Machine Learning & Predictive Modeling**
 
-#### 🏷️ **Semantic Book Search**
-
-  Uses NLP to enhance book discovery through semantic understanding and automatic tag generation — [explore the code](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search).
+- 🏷️ **Semantic Book Search**: Uses NLP to enhance book discovery through semantic understanding and automatic tag generation — [explore the code](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search).
 
   <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
     <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" height="67" style="object-fit: cover;">
