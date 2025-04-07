@@ -9,10 +9,10 @@
 ## 🌟 Featured Projects
 
 ### 📊 **Machine Learning & Predictive Modeling**
-- 📈 **Weather Predictor**: [Random Forest Model](https://github.com/jesuserro/weather-prediction-machine-learning) — supervised learning for accurate weather forecasting based on historical data.  
-- 🛒 **Retail Sales Predictor**: [XGBRegressor Model](https://github.com/jesuserro/ml-retail-sales-predictor) — complete pipeline for training, evaluating, and reporting a machine learning model to forecast store sales.  
 - 🏷️ **Semantic Book Search Engine**: [NLP-Powered Tagging](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search) — uses Natural Language Processing to enhance book discovery through semantic understanding and automatic tag generation.
-
+- 🛒 **Retail Sales Predictor**: [XGBRegressor Model](https://github.com/jesuserro/ml-retail-sales-predictor) — complete pipeline for training, evaluating, and reporting a machine learning model to forecast store sales. 
+- 📈 **Weather Predictor**: [Random Forest Model](https://github.com/jesuserro/weather-prediction-machine-learning) — supervised learning for accurate weather forecasting based on historical data.  
+ 
 ### 📈 **Data Exploration & Analytics**
 - ✅ **A/B Testing for UI/UX Redesign**: [Optimizing User Interfaces](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard) — data-driven experiments focused on improving usability and user experience through interface redesign.
 - 🦈 **Shark Attack Analysis**: [Exploratory Data Analysis](https://github.com/jesuserro/shark-attack-exploratory-data-analysis) — uncovering global patterns and insights from shark attack data.  
