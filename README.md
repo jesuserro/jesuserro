@@ -34,9 +34,7 @@
 <table>
   <tr>
     <td style="vertical-align: top; width: 50%; padding-right: 10px;">
-
 <strong>🏷️ Semantic Book Search</strong>: Uses NLP to enhance book discovery through semantic understanding and automatic tag generation — <a href="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search">explore the code</a>.
-
 <div style="display: flex; gap: 4px; margin-top: 6px;">
   <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" height="67" style="object-fit: cover;">
   <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100" height="67" style="object-fit: cover;">
