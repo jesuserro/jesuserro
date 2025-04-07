@@ -33,14 +33,10 @@
 
 - 🏷️ **Semantic Book Search**: Uses NLP to enhance book discovery through semantic understanding and automatic tag generation — [explore the code](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search).
 
-<div style="display: table; width: 100%; margin-bottom: 20px; margin-left: 6%">
-  <div style="display: table-row;">
-    <div style="display: table-cell; vertical-align: top;">
-      <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
-      <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
-      <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/accuracy_per_sample_hist.jpg" width="100" height="67" style="object-fit: cover;">
-    </div>
-  </div>
+<div style="display: flex; gap: 8px; margin-left: 6%; margin-bottom: 30px;">
+  <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" height="67" style="object-fit: cover;">
+  <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100" height="67" style="object-fit: cover;">
+  <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/accuracy_per_sample_hist.jpg" width="100" height="67" style="object-fit: cover;">
 </div>
 
 - 🛒 **Retail Sales Predictor**: Pipeline for training, evaluating, and reporting a machine learning model to forecast store sales — [view repository](https://github.com/jesuserro/ml-retail-sales-predictor).
