@@ -31,17 +31,15 @@
 
 ### 📊 **Machine Learning & Predictive Modeling**
 
-#### 🏷️ **Semantic Book Search Engine**  
-Uses NLP to enhance book discovery through semantic understanding and automatic tag generation — [explore the code](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search).
+- 🏷️ **Semantic Book Search Engine**: Uses NLP to enhance book discovery through semantic understanding and automatic tag generation — [explore the code](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search).
 
-<p>
+<p align="left">
   <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" style="display:inline-block; margin-right:5px;">
   <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100" style="display:inline-block; margin-right:5px;">
   <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/accuracy_per_sample_hist.jpg" width="100" style="display:inline-block;">
 </p>
 
-#### 🛒 **Retail Sales Predictor**  
-Pipeline for training, evaluating, and reporting a machine learning model to forecast store sales — [view repository](https://github.com/jesuserro/ml-retail-sales-predictor).
+- 🛒 **Retail Sales Predictor**: Pipeline for training, evaluating, and reporting a machine learning model to forecast store sales — [view repository](https://github.com/jesuserro/ml-retail-sales-predictor).
 
 <p>
   <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/scatter_real_vs_pred.jpg" width="100" style="display:inline-block; margin-right:5px;">
@@ -49,8 +47,7 @@ Pipeline for training, evaluating, and reporting a machine learning model to for
   <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/feature_importance.jpg" width="100" style="display:inline-block;">
 </p>
 
-#### 📈 **Weather Predictor**  
-Supervised learning for accurate weather forecasting using historical data — [check it out](https://github.com/jesuserro/weather-prediction-machine-learning).
+- 📈 **Weather Predictor**: Supervised learning for accurate weather forecasting using historical data — [check it out](https://github.com/jesuserro/weather-prediction-machine-learning).
 
 <p>
   <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-heatmap.png" width="100" style="display:inline-block; margin-right:5px;">
