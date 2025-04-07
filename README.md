@@ -31,26 +31,32 @@
 
 ### 📊 **Machine Learning & Predictive Modeling**
 
-#### 🏷️ [Semantic Book Search Engine](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search)  
+- 🏷️ **Semantic Book Search Engine**: [View on GitHub](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search)  
 Uses NLP to enhance book discovery through semantic understanding and automatic tag generation.
 
-<img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100">  
-<img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100">  
-<img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/accuracy_per_sample_hist.jpg" width="100">
+<p>
+  <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" style="display:inline-block; margin-right:5px;">
+  <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100" style="display:inline-block; margin-right:5px;">
+  <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/accuracy_per_sample_hist.jpg" width="100" style="display:inline-block;">
+</p>
 
-#### 🛒 [Retail Sales Predictor](https://github.com/jesuserro/ml-retail-sales-predictor)  
+- 🛒 **Retail Sales Predictor**: [View on GitHub](https://github.com/jesuserro/ml-retail-sales-predictor)  
 Pipeline for training, evaluating, and reporting an ML model to forecast store sales.
 
-<img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/scatter_real_vs_pred.jpg" width="100">  
-<img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/histogram_error.jpg" width="100">  
-<img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/feature_importance.jpg" width="100">
+<p>
+  <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/scatter_real_vs_pred.jpg" width="100" style="display:inline-block; margin-right:5px;">
+  <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/histogram_error.jpg" width="100" style="display:inline-block; margin-right:5px;">
+  <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/feature_importance.jpg" width="100" style="display:inline-block;">
+</p>
 
-#### 📈 [Weather Predictor](https://github.com/jesuserro/weather-prediction-machine-learning)  
+- 📈 **Weather Predictor**: [View on GitHub](https://github.com/jesuserro/weather-prediction-machine-learning)  
 Supervised learning for weather forecasting using historical data.
 
-<img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-heatmap.png" width="100">  
-<img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-adapyted-roc.png" width="100">  
-<img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-importancia.png" width="100">
+<p>
+  <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-heatmap.png" width="100" style="display:inline-block; margin-right:5px;">
+  <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-adapyted-roc.png" width="100" style="display:inline-block; margin-right:5px;">
+  <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-importancia.png" width="100" style="display:inline-block;">
+</p>
 
 ### 📈 **Data Exploration & Analytics**
 - ✅ **A/B Testing for UI/UX Redesign**: [Optimizing User Interfaces](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard) — data-driven experiments focused on improving usability and user experience through interface redesign.
