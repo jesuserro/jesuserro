@@ -85,27 +85,6 @@
   </div>
 </div>
 
----
-
-✅ Todas las miniaturas ahora tienen proporción 6:4 (150x100 px), un estilo uniforme y centrado visualmente con `object-fit: cover` para recortes elegantes. ¿Quieres que te aplique el mismo formato al resto de secciones?
-+++
-
-- 🛒 **Retail Sales Predictor**: Pipeline for training, evaluating, and reporting a machine learning model to forecast store sales — [view repository](https://github.com/jesuserro/ml-retail-sales-predictor).
-
-<p>
-  <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/scatter_real_vs_pred.jpg" width="100" style="display:inline-block; margin-right:5px;">
-  <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/histogram_error.jpg" width="100" style="display:inline-block; margin-right:5px;">
-  <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/feature_importance.jpg" width="100" style="display:inline-block;">
-</p>
-
-- 📈 **Weather Predictor**: Supervised learning for accurate weather forecasting using historical data — [check it out](https://github.com/jesuserro/weather-prediction-machine-learning).
-
-<p>
-  <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-heatmap.png" width="100" style="display:inline-block; margin-right:5px;">
-  <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-adapyted-roc.png" width="100" style="display:inline-block; margin-right:5px;">
-  <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-importancia.png" width="100" style="display:inline-block;">
-</p>
-
 ### 📈 **Data Exploration & Analytics**
 - ✅ **A/B Testing for UI/UX Redesign**: [Optimizing User Interfaces](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard) — data-driven experiments focused on improving usability and user experience through interface redesign.
 - 🦈 **Shark Attack Analysis**: [Exploratory Data Analysis](https://github.com/jesuserro/shark-attack-exploratory-data-analysis) — uncovering global patterns and insights from shark attack data.  
