@@ -31,91 +31,65 @@
 
 ### 📊 **Machine Learning & Predictive Modeling**
 
-<table>
-  <tr>
-    <td style="vertical-align: top; width: 50%; padding-right: 10px;">
+- 🏷️ **[Semantic Book Search](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search)**: Uses NLP to enhance book discovery through semantic understanding and automatic tag generation.
 
-<strong>🏷️ <a href="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search">Semantic Book Search</a></strong>: Uses NLP to enhance book discovery through semantic understanding and automatic tag generation.
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/accuracy_per_sample_hist.jpg" width="100" height="67" style="object-fit: cover;">
+  </div>
 
-<div style="display: flex; gap: 4px; margin-top: 6px;">
-  <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/accuracy_per_sample_hist.jpg" width="100" height="67" style="object-fit: cover;">
-</div>
-    </td>
-    <td style="vertical-align: top; width: 50%; padding-left: 10px;">
+- 🛒 **[Retail Sales Predictor](https://github.com/jesuserro/ml-retail-sales-predictor)**: Pipeline for training, evaluating, and reporting a machine learning model to forecast store sales.
 
-<strong>📈 <a href="https://github.com/jesuserro/weather-prediction-machine-learning">Weather Predictor</a></strong>: Supervised learning for accurate weather forecasting using historical data.
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/scatter_real_vs_pred.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/histogram_error.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/feature_importance.jpg" width="100" height="67" style="object-fit: cover;">
+  </div>
 
-<div style="display: flex; gap: 4px; margin-top: 6px;">
-  <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-heatmap.png" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-adapyted-roc.png" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-importancia.png" width="100" height="67" style="object-fit: cover;">
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="vertical-align: top; padding-top: 20px;">
+- 📈 **[Weather Predictor](https://github.com/jesuserro/weather-prediction-machine-learning)**: Supervised learning for accurate weather forecasting using historical data.
 
-<strong>🛒 <a href="https://github.com/jesuserro/ml-retail-sales-predictor">Retail Sales Predictor</a></strong>: Pipeline for training, evaluating, and reporting a machine learning model to forecast store sales.
-
-<div style="display: flex; gap: 4px; margin-top: 6px; margin-left: 6px;">
-  <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/scatter_real_vs_pred.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/histogram_error.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/ml-retail-sales-predictor/raw/main/img/feature_importance.jpg" width="100" height="67" style="object-fit: cover;">
-</div>
-    </td>
-  </tr>
-</table>
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-heatmap.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-adapyted-roc.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/weather-prediction-machine-learning/raw/main/img/regression-importancia.png" width="100" height="67" style="object-fit: cover;">
+  </div>
 
 ### 📈 **Data Exploration & Analytics**
 
-<table>
-  <tr>
-    <td style="vertical-align: top; width: 50%; padding-right: 10px;">
+- ✅ **[A/B Testing for UI/UX Redesign](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard)**: Data-driven experiments focused on improving usability and user experience through interface redesign.
 
-<strong>✅ <a href="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard">A/B Testing for UI/UX Redesign</a></strong>: Data-driven experiments focused on improving usability and user experience through interface redesign.
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/cr_drop-off_funnel.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/ttc_by_step.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/4_activity_by_day.jpg" width="100" height="67" style="object-fit: cover;">
+  </div>
 
-<div style="display: flex; gap: 4px; margin-top: 6px;">
-  <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/cr_drop-off_funnel.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/ttc_by_step.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/4_activity_by_day.jpg" width="100" height="67" style="object-fit: cover;">
-</div>
-    </td>
-    <td style="vertical-align: top; width: 50%; padding-left: 10px;">
+- 🦈 **[Shark Attack Analysis](https://github.com/jesuserro/shark-attack-exploratory-data-analysis)**: Uncovering global patterns and insights from shark attack data.
 
-<strong>🦈 <a href="https://github.com/jesuserro/shark-attack-exploratory-data-analysis">Shark Attack Analysis</a></strong>: Uncovering global patterns and insights from shark attack data.
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/historical_attacks.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/attacks_usa_map.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/months.png" width="100" height="67" style="object-fit: cover;">
+  </div>
 
-<div style="display: flex; gap: 4px; margin-top: 6px;">
-  <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/historical_attacks.png" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/attacks_usa_map.png" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/months.png" width="100" height="67" style="object-fit: cover;">
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="vertical-align: top; padding-top: 20px;">
+- 🏆 **[Oscars Data Insights](https://github.com/jesuserro/oscars-data-insights-96-years)**: Historical analysis of trends, winners, and cultural shifts in Academy Awards history.
 
-<strong>🏆 <a href="https://github.com/jesuserro/oscars-data-insights-96-years">Oscars Data Insights</a></strong>: Historical analysis of trends, winners, and cultural shifts in Academy Awards history.
-
-<div style="display: flex; gap: 4px; margin-top: 6px;">
-  <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/top10_actores.png" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/taquilla_presupuesto.png" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/distribucion_edades_actores.png" width="100" height="67" style="object-fit: cover;">
-</div>
-    </td>
-  </tr>
-</table>
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/top10_actores.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/taquilla_presupuesto.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/distribucion_edades_actores.png" width="100" height="67" style="object-fit: cover;">
+  </div>
 
 ### 🎮 **Creative Coding & Games**
 
-<strong>🧩 <a href="https://github.com/jesuserro/escape-room-game-python">Escape Room Game</a></strong>: A text-based puzzle game showcasing Python logic, control flow, and user interaction.
+- 🧩 **[Escape Room Game](https://github.com/jesuserro/escape-room-game-python)**: A text-based puzzle game showcasing Python logic, control flow, and user interaction.
 
-<div style="display: flex; gap: 4px; margin-left: 6%; margin-bottom: 30px;">
-  <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/map.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/living_room.jpg" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/outside.jpg" width="100" height="67" style="object-fit: cover;">
-</div>
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/map.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/living_room.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/outside.jpg" width="100" height="67" style="object-fit: cover;">
+  </div>
 
 ## 📆 Tech Chronology
 
