@@ -86,13 +86,100 @@
 </div>
 
 ### 📈 **Data Exploration & Analytics**
-- ✅ **A/B Testing for UI/UX Redesign**: [Optimizing User Interfaces](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard) — data-driven experiments focused on improving usability and user experience through interface redesign.
-- 🦈 **Shark Attack Analysis**: [Exploratory Data Analysis](https://github.com/jesuserro/shark-attack-exploratory-data-analysis) — uncovering global patterns and insights from shark attack data.  
-- 🏆 **Oscars Data Insights**: [96 Years of Film Awards](https://github.com/jesuserro/oscars-data-insights-96-years) — historical analysis of trends, winners, and cultural shifts in Academy Awards history.  
-- 📚 **Goodreads Author Talent Analysis**: [Data Storytelling Project](https://github.com/jesuserro/goodreads-author-talent-analysis) — using Goodreads data to explore trends in author popularity, genre distribution, and reader engagement.
+
+<!-- Proyecto A/B Testing -->
+<div style="display: table; width: 100%; margin-bottom: 20px;">
+  <div style="display: table-row;">
+    <div style="display: table-cell; width: 60%; vertical-align: top; padding-right: 20px;">
+      <p>
+        ✅ <strong>A/B Testing for UI/UX Redesign</strong><br>
+        Data-driven experiments focused on improving usability and user experience through interface redesign — 
+        <a href="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard">optimizing user interfaces</a>.
+      </p>
+    </div>
+    <div style="display: table-cell; vertical-align: top;">
+      <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/cr_drop-off_funnel.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+      <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/ttc_by_step.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+      <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/4_activity_by_day.jpg" width="100" height="67" style="object-fit: cover;">
+    </div>
+  </div>
+</div>
+
+<!-- Proyecto Shark Attack -->
+<div style="display: table; width: 100%; margin-bottom: 20px;">
+  <div style="display: table-row;">
+    <div style="display: table-cell; width: 60%; vertical-align: top; padding-right: 20px;">
+      <p>
+        🦈 <strong>Shark Attack Analysis</strong><br>
+        Uncovering global patterns and insights from shark attack data — 
+        <a href="https://github.com/jesuserro/shark-attack-exploratory-data-analysis">exploratory data analysis</a>.
+      </p>
+    </div>
+    <div style="display: table-cell; vertical-align: top;">
+      <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/historical_attacks.png" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+      <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/attacks_usa_map.png" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+      <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/months.png" width="100" height="67" style="object-fit: cover;">
+    </div>
+  </div>
+</div>
+
+<!-- Proyecto Oscars -->
+<div style="display: table; width: 100%; margin-bottom: 20px;">
+  <div style="display: table-row;">
+    <div style="display: table-cell; width: 60%; vertical-align: top; padding-right: 20px;">
+      <p>
+        🏆 <strong>Oscars Data Insights</strong><br>
+        Historical analysis of trends, winners, and cultural shifts in Academy Awards history — 
+        <a href="https://github.com/jesuserro/oscars-data-insights-96-years">96 years of film awards</a>.
+      </p>
+    </div>
+    <div style="display: table-cell; vertical-align: top;">
+      <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/top10_actores.png" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+      <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/taquilla_presupuesto.png" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+      <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/distribucion_edades_actores.png" width="100" height="67" style="object-fit: cover;">
+    </div>
+  </div>
+</div>
+
+<!-- Proyecto Goodreads -->
+<div style="display: table; width: 100%;">
+  <div style="display: table-row;">
+    <div style="display: table-cell; width: 60%; vertical-align: top; padding-right: 20px;">
+      <p>
+        📚 <strong>Goodreads Author Talent Analysis</strong><br>
+        Using Goodreads data to explore trends in author popularity, genre distribution, and reader engagement — 
+        <a href="https://github.com/jesuserro/goodreads-author-talent-analysis">data storytelling project</a>.
+      </p>
+    </div>
+    <div style="display: table-cell; vertical-align: top;">
+      <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/world_map.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+      <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/reviews_vs_rating.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+      <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/world_map.jpg" width="100" height="67" style="object-fit: cover;">
+    </div>
+  </div>
+</div>
+
+---
 
 ### 🎮 **Creative Coding & Games**
-- 🧩 **Escape Room Game**: [Python Project](https://github.com/jesuserro/escape-room-game-python) — a text-based puzzle game showcasing Python logic, control flow, and user interaction.
+
+<!-- Proyecto Escape Room -->
+<div style="display: table; width: 100%;">
+  <div style="display: table-row;">
+    <div style="display: table-cell; width: 60%; vertical-align: top; padding-right: 20px;">
+      <p>
+        🧩 <strong>Escape Room Game</strong><br>
+        A text-based puzzle game showcasing Python logic, control flow, and user interaction — 
+        <a href="https://github.com/jesuserro/escape-room-game-python">Python project</a>.
+      </p>
+    </div>
+    <div style="display: table-cell; vertical-align: top;">
+      <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/map.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+      <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/living_room.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+      <img src="https://github.com/jesuserro/escape-room-game-python/raw/main/images/outside.jpg" width="100" height="67" style="object-fit: cover;">
+    </div>
+  </div>
+</div>
 
 ## 📆 Tech Chronology
 
