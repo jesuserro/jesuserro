@@ -24,7 +24,7 @@
 ### 🎮 **Creative Coding & Games**
 - 🧩 **Escape Room Game**: [Python Project](https://github.com/jesuserro/escape-room-game-python) — a text-based puzzle game showcasing Python logic, control flow, and user interaction.
 
-## Hobbies
+## 🎨 Hobbies
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jesuserro/" target="_blank">
@@ -47,7 +47,7 @@
   </a>
 </div>
 
-## Tech Chronology
+## 📆 Tech Chronology
 
 <!-- Tabla optimizada para un README de GitHub con estilos inline -->
 <div align="center">
@@ -489,7 +489,7 @@
   </table>
 </div>
 
-## Languages
+## 🧑‍💻 Languages
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
   <!-- Top Languages -->
@@ -499,7 +499,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jesuserro&show_icons=true&theme=radical" alt="Jesús' GitHub stats" style="width: 48%; max-width: 350px;" />
 </div>
 
-## Metrics
+## 📊 Metrics
 
 <div align="center">
     <!-- 1. GitHub Followers -->
