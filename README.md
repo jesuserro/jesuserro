@@ -154,12 +154,10 @@
     <div style="display: table-cell; vertical-align: top;">
       <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/world_map.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
       <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/reviews_vs_rating.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
-      <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/world_map.jpg" width="100" height="67" style="object-fit: cover;">
+      <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/top20_authors_fans.jpg" width="100" height="67" style="object-fit: cover;">
     </div>
   </div>
 </div>
-
----
 
 ### 🎮 **Creative Coding & Games**
 
