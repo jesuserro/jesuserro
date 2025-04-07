@@ -42,15 +42,12 @@
       </p>
     </div>
     <div style="display: table-cell; vertical-align: top;">
-      <div style="text-align: right;">
-        <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
-        <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
-        <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/accuracy_per_sample_hist.jpg" width="100" height="67" style="object-fit: cover;">
-      </div>
+      <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+      <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
+      <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/accuracy_per_sample_hist.jpg" width="100" height="67" style="object-fit: cover;">
     </div>
   </div>
 </div>
-
 
 <!-- Proyecto 2 -->
 <div style="display: table; width: 100%; margin-bottom: 20px;">
@@ -157,7 +154,7 @@
     <div style="display: table-cell; vertical-align: top;">
       <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/world_map.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
       <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/reviews_vs_rating.jpg" width="100" height="67" style="margin-right:5px; object-fit: cover;">
-      <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/top20_authors_fans.jpg" width="100" height="67" style="object-fit: cover;">
+      <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/world_map.jpg" width="100" height="67" style="object-fit: cover;">
     </div>
   </div>
 </div>
