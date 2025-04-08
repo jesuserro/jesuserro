@@ -123,7 +123,7 @@
 <div align="center">
   <table style="border: 1px solid #ddd; border-collapse: collapse; width: 100%; margin: 1em 0; font-family: Arial, sans-serif;">
     <tbody>
-      <!-- 1) April 2025 -->
+      <!-- 1) May 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
           🌟 <b>April 2025</b><br>Data Engineering, Pipelines &amp; Viz
@@ -139,6 +139,28 @@
           <a href="https://powerbi.microsoft.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
                 alt="PowerBI" style="max-height: 24px; vertical-align: middle;">
+          </a>
+        </td>
+      </tr>
+      <!-- 1) April 2025 -->
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+          🌟 <b>March 2025</b><br>NLP (Natural Language Processing)
+        </td>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+          <a href="https://keras.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"
+                alt="Keras" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://www.tensorflow.org/" rel="nofollow">
+            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
+                alt="TensorFlow" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" rel="nofollow">
+            <img src="https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-blue?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNN" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/MNIST_database" rel="nofollow">
+            <img src="https://img.shields.io/badge/MNIST-Dataset-orange?style=for-the-badge&logo=python&logoColor=white" alt="MNIST" style="max-height: 24px; vertical-align: middle;">
           </a>
         </td>
       </tr>
@@ -173,14 +195,6 @@
           <a href="https://pytorch.org/" rel="nofollow">
             <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
                 alt="PyTorch" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://keras.io/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"
-                alt="Keras" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.tensorflow.org/" rel="nofollow">
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
-                alt="TensorFlow" style="max-height: 24px; vertical-align: middle;">
           </a>
         </td>
       </tr>
@@ -221,10 +235,10 @@
           </a>
         </td>
       </tr>
-      <!-- 3) 2024 -->
+      <!-- 3) Jan 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          📊 <b>2024</b><br>Foundations of Data Science
+          📊 <b>January 2025</b><br>Foundations of Data Science
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://www.python.org/" rel="nofollow">
