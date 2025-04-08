@@ -71,6 +71,15 @@
     <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/4_activity_by_day.jpg" width="100" height="67" style="object-fit: cover;">
   </div>
 
+- 📚 **[Goodreads Author Talent Analysis](https://github.com/jesuserro/goodreads-author-talent-analysis)**: Insights into author performance and trends using Goodreads data.
+
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/world_map.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/reviews_vs_rating.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/top20_authors_fans.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/avg_reviews_by_genre.jpg" width="100" height="67" style="object-fit: cover;">
+  </div>
+
 - 🦈 **[Shark Attack Analysis](https://github.com/jesuserro/shark-attack-exploratory-data-analysis)**: Uncovering global patterns and insights from shark attack data.
 
   <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
