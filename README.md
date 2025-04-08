@@ -34,10 +34,11 @@
 - 🖼️ **[Deep Vision CNN](https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist)**: Image classification on the MNIST dataset using Convolutional Neural Networks (CNNs).
 
   <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist/raw/main/img/turin-shroud.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist/raw/main/img/misclassified_samples.jpg" width="100" height="67" style="object-fit: cover;">
     <img src="https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist/raw/main/img/confusion_matrix.jpg" width="100" height="67" style="object-fit: cover;">
     <img src="https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist/raw/main/img/accuracy.jpg" width="100" height="67" style="object-fit: cover;">
     <img src="https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist/raw/main/img/loss.jpg" width="100" height="67" style="object-fit: cover;">
-    <img src="https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist/raw/main/img/misclassified_samples.jpg" width="100" height="67" style="object-fit: cover;">
   </div>
 
 - 🧠 **[AI Keyword Extraction](https://github.com/jesuserro/ai-keyword-extraction)**: Automates keyword extraction from book blurb using OpenAI API.
