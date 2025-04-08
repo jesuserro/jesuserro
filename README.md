@@ -38,12 +38,13 @@
     <img src="https://github.com/jesuserro/ai-keyword-extraction/raw/main/img/keyword_scatter_plot.jpg" width="100" height="67" style="object-fit: cover;">
   </div>
 
-- 🏷️ **[Semantic Book Search](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search)**: Uses NLP to enhance book discovery through semantic understanding and automatic tag generation.
+- 📚 **[BiblioNLP](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search)**: Uses NLP to enhance book discovery through semantic understanding and automatic tag generation.
 
   <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
-    <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" height="67" style="object-fit: cover;">
     <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/clustering_books.jpg" width="100" height="67" style="object-fit: cover;">
     <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/accuracy_per_sample_hist.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/streamlit_app.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search/raw/main/img/tag_wordcloud.jpg" width="100" height="67" style="object-fit: cover;">
   </div>
 
 - 🛒 **[Retail Sales Predictor](https://github.com/jesuserro/ml-retail-sales-predictor)**: Pipeline for training, evaluating, and reporting a machine learning model to forecast store sales.
