@@ -71,7 +71,7 @@
     <img src="https://github.com/jesuserro/ab-testing-ui-redesign-vanguard/raw/main/img/4_activity_by_day.jpg" width="100" height="67" style="object-fit: cover;">
   </div>
 
-- 📚 **[Goodreads Author Talent Analysis](https://github.com/jesuserro/goodreads-author-talent-analysis)**: Insights into author performance and trends using Goodreads data.
+- 📚 **[Goodreads Author Talent Analysis](https://github.com/jesuserro/goodreads-author-talent-analysis)**: Insights into author performance and trends using Goodreads API.
 
   <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
     <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/world_map.jpg" width="100" height="67" style="object-fit: cover;">
