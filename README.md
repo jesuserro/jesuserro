@@ -31,6 +31,15 @@
 
 ### 📊 **Machine Learning & Predictive Modeling**
 
+- 🖼️ **[Deep Vision CNN](https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist)**: Image classification on the MNIST dataset using Convolutional Neural Networks (CNNs).
+
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist/raw/main/img/confusion_matrix.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist/raw/main/img/accuracy.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist/raw/main/img/loss.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist/raw/main/img/misclassified_samples.jpg" width="100" height="67" style="object-fit: cover;">
+  </div>
+
 - 🧠 **[AI Keyword Extraction](https://github.com/jesuserro/ai-keyword-extraction)**: Automates keyword extraction from book blurb using OpenAI API.
 
   <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
@@ -82,20 +91,20 @@
     <img src="https://github.com/jesuserro/goodreads-author-talent-analysis/raw/main/img/avg_reviews_by_genre.jpg" width="100" height="67" style="object-fit: cover;">
   </div>
 
-- 🦈 **[Shark Attack Analysis](https://github.com/jesuserro/shark-attack-exploratory-data-analysis)**: Uncovering global patterns and insights from shark attack data.
-
-  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
-    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/historical_attacks.png" width="100" height="67" style="object-fit: cover;">
-    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/attacks_usa_map.png" width="100" height="67" style="object-fit: cover;">
-    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/months.png" width="100" height="67" style="object-fit: cover;">
-  </div>
-
 - 🏆 **[Oscars Data Insights](https://github.com/jesuserro/oscars-data-insights-96-years)**: Historical analysis of trends, winners, and cultural shifts in Academy Awards history.
 
   <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
     <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/top10_actores.png" width="100" height="67" style="object-fit: cover;">
     <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/taquilla_presupuesto.png" width="100" height="67" style="object-fit: cover;">
     <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/distribucion_edades_actores.png" width="100" height="67" style="object-fit: cover;">
+  </div>
+
+  - 🦈 **[Shark Attack Analysis](https://github.com/jesuserro/shark-attack-exploratory-data-analysis)**: Uncovering global patterns and insights from shark attack data.
+
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/historical_attacks.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/attacks_usa_map.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/months.png" width="100" height="67" style="object-fit: cover;">
   </div>
 
 ### 🎮 **Creative Coding & Games**
