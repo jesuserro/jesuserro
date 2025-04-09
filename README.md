@@ -100,13 +100,13 @@
     <img src="https://github.com/jesuserro/oscars-data-insights-96-years/raw/main/img/distribucion_edades_actores.png" width="100" height="67" style="object-fit: cover;">
   </div>
 
-  - 🦈 **[Shark Attack Analysis](https://github.com/jesuserro/shark-attack-exploratory-data-analysis)**: Uncovering global patterns and insights from shark attack data.
+- 🦈 **[Shark Attack Analysis](https://github.com/jesuserro/shark-attack-exploratory-data-analysis)**: Uncovering global patterns and insights from shark attack data.
 
-  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
-    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/historical_attacks.png" width="100" height="67" style="object-fit: cover;">
-    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/attacks_usa_map.png" width="100" height="67" style="object-fit: cover;">
-    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/months.png" width="100" height="67" style="object-fit: cover;">
-  </div>
+<div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+  <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/historical_attacks.png" width="100" height="67" style="object-fit: cover;">
+  <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/attacks_usa_map.png" width="100" height="67" style="object-fit: cover;">
+  <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/months.png" width="100" height="67" style="object-fit: cover;">
+</div>
 
 ### 🎮 **Creative Coding & Games**
 
