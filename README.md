@@ -3,7 +3,7 @@
        alt="Header Banner" 
        style="width:100%; border-radius:15px;" />
 </div>
-<div align="left" style="border-bottom: 1px solid rgba(117, 119, 122, 0.44); margin-bottom: 1%">
+<div align="left" style="border-bottom: 1px solid rgba(117, 119, 122, 0.44);">
   <a href="https://www.linkedin.com/in/jesuserro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow" />
   </a>
