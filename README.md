@@ -3,9 +3,6 @@
        alt="Fatima's Shrine in Cova da Iria, Portugal." 
        style="width:100%; border-radius:15px;" />
 </div>
-
-# 💻 Full-Stack Dev | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analyst | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast
-
 <div>
   <a href="https://www.linkedin.com/in/jesuserro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow" />
@@ -26,6 +23,8 @@
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
   </a>
 </div>
+
+# 💻 Full-Stack Dev | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analyst | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast
 
 ## 🌟 Featured Projects
 
