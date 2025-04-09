@@ -102,11 +102,11 @@
 
 - 🦈 **[Shark Attack Analysis](https://github.com/jesuserro/shark-attack-exploratory-data-analysis)**: Uncovering global patterns and insights from shark attack data.
 
-<div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
-  <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/historical_attacks.png" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/attacks_usa_map.png" width="100" height="67" style="object-fit: cover;">
-  <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/months.png" width="100" height="67" style="object-fit: cover;">
-</div>
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/historical_attacks.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/attacks_usa_map.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/shark-attack-exploratory-data-analysis/raw/main/img/months.png" width="100" height="67" style="object-fit: cover;">
+  </div>
 
 ### 🎮 **Creative Coding & Games**
 
