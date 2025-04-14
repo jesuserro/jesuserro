@@ -28,7 +28,7 @@
 
 ## 🌟 Featured Projects
 
-### 🗄️ **Data Engineering & ETL**
+### 🛢 **Data Engineering & ETL**
 
 - 🔄 **[Books ETL Pipeline](https://github.com/jesuserro/books-etl-pipeline)**: End-to-end ETL pipeline for extracting, transforming, and loading book data into a structured database.
 
