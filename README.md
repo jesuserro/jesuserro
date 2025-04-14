@@ -1,5 +1,5 @@
 <div align="center" style="overflow: hidden; border-radius:15px; width:100%;">
-  <img src="images/fatima_short.jpg" 
+  <img src="images/fatima.jpg" 
        alt="Fatima's Shrine in Cova da Iria, Portugal." 
        style="width:100%; border-radius:15px;" />
 </div>
