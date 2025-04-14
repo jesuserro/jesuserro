@@ -28,6 +28,16 @@
 
 ## 🌟 Featured Projects
 
+### 🛠️ **Data Engineering & ETL**
+
+- 📚 **[Books ETL Pipeline](https://github.com/jesuserro/books-etl-pipeline)**: End-to-end ETL pipeline for extracting, transforming, and loading book data into a structured database.
+
+  <div style="display: flex; gap: 8px; margin-left: 3%; margin-bottom: 30px;">
+    <img src="https://github.com/jesuserro/books-etl-pipeline/raw/main/img/diagram.png" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/books-etl-pipeline/raw/main/img/workflow.jpg" width="100" height="67" style="object-fit: cover;">
+    <img src="https://github.com/jesuserro/books-etl-pipeline/raw/main/img/structure.jpg" width="100" height="67" style="object-fit: cover;">
+  </div>
+
 ### 📊 **Machine Learning & Predictive Modeling**
 
 - 🖼️ **[Deep Vision CNN](https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist)**: Image classification on the MNIST dataset using Convolutional Neural Networks (CNNs).
