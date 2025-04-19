@@ -143,6 +143,10 @@
             <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"
                 alt="Airflow" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://www.liquibase.org/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white" 
+                alt="Liquibase" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://grafana.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" style="max-height: 24px; vertical-align: middle;">
           </a>
