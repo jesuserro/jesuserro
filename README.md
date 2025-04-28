@@ -147,6 +147,14 @@
             <img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white" 
                 alt="Liquibase" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://papermill.readthedocs.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Papermill-FF6F00?style=for-the-badge&logo=python&logoColor=white" 
+                alt="Papermill" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://cursor.sh/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" 
+                alt="Cursor" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://grafana.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" style="max-height: 24px; vertical-align: middle;">
           </a>
