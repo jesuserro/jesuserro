@@ -136,7 +136,7 @@
       <!-- 1) Late April 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🌟 <b>Late April 2025</b><br>Data Engineering, Pipelines &amp; Viz
+          🌟 <b>Late April 2025</b><br>Data Engineering, ETL, Pipelines &amp; Viz
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://airflow.apache.org/" rel="nofollow">
