@@ -133,10 +133,10 @@
 <div align="center">
   <table style="border: 1px solid #ddd; border-collapse: collapse; width: 100%; margin: 1em 0; font-family: Arial, sans-serif;">
     <tbody>
-      <!-- 1) May 2025 -->
+      <!-- 1) Late April 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🌟 <b>May 2025</b><br>Data Engineering, Pipelines &amp; Viz
+          🌟 <b>Late April 2025</b><br>Data Engineering, Pipelines &amp; Viz
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://airflow.apache.org/" rel="nofollow">
@@ -164,10 +164,10 @@
           </a>
         </td>
       </tr>
-      <!-- 1) April 2025 -->
+      <!-- 1) Late April 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🖼️ <b>April 2025</b><br>Image Processing & Visualization
+          🖼️ <b>Early April 2025</b><br>Image Processing & Visualization
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://keras.io/" rel="nofollow">
@@ -186,10 +186,10 @@
           </a>
         </td>
       </tr>
-      <!-- 1) March 2025 -->
+      <!-- 1) Late March 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          📝 <b>March 2025</b><br>NLP (Natural Language Processing)
+          📝 <b>Late March 2025</b><br>NLP (Natural Language Processing)
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://en.wikipedia.org/wiki/Natural_language_processing" rel="nofollow">
@@ -220,10 +220,10 @@
           </a>
         </td>
       </tr>
-      <!-- 2) Feb. 2025 -->
+      <!-- 2) Early March 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🚀 <b>Feb. 2025</b><br>Machine Learning
+          🚀 <b>Early March 2025</b><br>Machine Learning
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://streamlit.io/" rel="nofollow">
@@ -257,10 +257,10 @@
           </a>
         </td>
       </tr>
-      <!-- 3) Jan 2025 -->
+      <!-- 3) Feb 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          📊 <b>January 2025</b><br>Foundations of Data Science
+          📊 <b>Feb 2025</b><br>Foundations of Data Science
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://www.python.org/" rel="nofollow">
