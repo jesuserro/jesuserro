@@ -337,14 +337,6 @@
           🌐 <b>2021-2022</b><br>Modern Web Stack
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
-          <a href="https://obsidian.md/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"
-                alt="Obsidian" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://flutter.dev/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
-                alt="Flutter" style="max-height: 24px; vertical-align: middle;">
-          </a>
           <a href="https://nodejs.org/" rel="nofollow">
             <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
                 alt="Node.js" style="max-height: 24px; vertical-align: middle;">
@@ -352,6 +344,14 @@
           <a href="https://reactjs.org/" rel="nofollow">
             <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"
                 alt="React" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://flutter.dev/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+                alt="Flutter" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://obsidian.md/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"
+                alt="Obsidian" style="max-height: 24px; vertical-align: middle;">
           </a>
         </td>
       </tr>
