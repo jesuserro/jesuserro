@@ -529,6 +529,10 @@
             <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"
                 alt="Firefox" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://stackoverflow.com/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white"
+                alt="Stack Overflow" style="max-height: 24px; vertical-align: middle;">
+          </a>
         </td>
       </tr>
       <!-- 10) 2002-2006 -->
