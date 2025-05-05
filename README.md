@@ -631,7 +631,7 @@
           </a>
         </td>
       </tr>
-      <!-- 13) 1992-1995 -->
+      <!-- 12) 1992-1995 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
           💻 <b>1992-1995</b><br>Teenage Years & PC Era
@@ -657,25 +657,57 @@
             <img src="https://img.shields.io/badge/SimCity-6CC24A?style=for-the-badge&logo=maxis&logoColor=white"
                 alt="SimCity" style="max-height: 24px; vertical-align: middle;">
           </a>
+        </td>
+      </tr>
+      <!-- 13) 1990-1992 -->
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+          🎵 <b>1990-1992</b><br>16-bit era: Amiga Revolution
+        </td>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+          <a href="https://en.wikipedia.org/wiki/Amiga_500" rel="nofollow">
+            <img src="https://img.shields.io/badge/Commodore%20Amiga%20500-1C3664?style=for-the-badge&logo=commodore&logoColor=white"
+                alt="Commodore Amiga 500" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Software_cracking" rel="nofollow">
+            <img src="https://img.shields.io/badge/Games%20Trading-FF5733?style=for-the-badge&logo=phone&logoColor=white"
+                alt="Games Trading" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/AMOS_(programming_language)" rel="nofollow">
+            <img src="https://img.shields.io/badge/Amiga%20Game%20Dev-7A306C?style=for-the-badge&logo=assembly&logoColor=white"
+                alt="Amiga Game Development" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Electronic_Arts" rel="nofollow">
+            <img src="https://img.shields.io/badge/Electronic%20Arts-000000?style=for-the-badge&logo=electronic-arts&logoColor=white"
+                alt="Electronic Arts" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Psygnosis" rel="nofollow">
+            <img src="https://img.shields.io/badge/Psygnosis%20Style-9457EB?style=for-the-badge&logo=gamedev&logoColor=white"
+                alt="Psygnosis Style" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Populous_(video_game)" rel="nofollow">
+            <img src="https://img.shields.io/badge/Populous-FF0000?style=for-the-badge&logo=ea&logoColor=white"
+                alt="Populous" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Xenon_2_Megablast" rel="nofollow">
+            <img src="https://img.shields.io/badge/Xenon%20II-00D1B2?style=for-the-badge&logo=bitmap-brothers&logoColor=white"
+                alt="Xenon II" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Fate_of_Atlantis" rel="nofollow">
             <img src="https://img.shields.io/badge/Indiana%20Jones-825A2C?style=for-the-badge&logo=lucasfilm&logoColor=white"
                 alt="Indiana Jones" style="max-height: 24px; vertical-align: middle;">
           </a>
         </td>
       </tr>
-      <!-- 12) 1986-1992 -->
+      <!-- 14) 1986-1990 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          👾 <b>1986-1992</b><br>Childhood & First Steps
+          👾 <b>1986-1990</b><br>Childhood & First Steps
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://en.wikipedia.org/wiki/ZX_Spectrum" rel="nofollow">
             <img src="https://img.shields.io/badge/ZX%20Spectrum%20128K-000000?style=for-the-badge&logo=sinclair&logoColor=white"
                 alt="ZX Spectrum 128K" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://en.wikipedia.org/wiki/Amiga_500" rel="nofollow">
-            <img src="https://img.shields.io/badge/Commodore%20Amiga%20500-1C3664?style=for-the-badge&logo=commodore&logoColor=white"
-                alt="Commodore Amiga 500" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://en.wikipedia.org/wiki/BASIC" rel="nofollow">
             <img src="https://img.shields.io/badge/BASIC-4B8BBE?style=for-the-badge&logo=basic&logoColor=white"
@@ -685,13 +717,13 @@
             <img src="https://img.shields.io/badge/Basketball%20Scheduling-E03C31?style=for-the-badge&logo=basketball&logoColor=white"
                 alt="Basketball Scheduling" style="max-height: 24px; vertical-align: middle;">
           </a>
-          <a href="https://en.wikipedia.org/wiki/Populous_(video_game)" rel="nofollow">
-            <img src="https://img.shields.io/badge/Populous-FF0000?style=for-the-badge&logo=ea&logoColor=white"
-                alt="Populous" style="max-height: 24px; vertical-align: middle;">
+          <a href="https://en.wikipedia.org/wiki/Knight_Lore" rel="nofollow">
+            <img src="https://img.shields.io/badge/Knight%20Lore-483D8B?style=for-the-badge&logo=game&logoColor=white"
+                alt="Knight Lore" style="max-height: 24px; vertical-align: middle;">
           </a>
-          <a href="https://en.wikipedia.org/wiki/Xenon_2_Megablast" rel="nofollow">
-            <img src="https://img.shields.io/badge/Xenon%20II-00D1B2?style=for-the-badge&logo=bitmap-brothers&logoColor=white"
-                alt="Xenon II" style="max-height: 24px; vertical-align: middle;">
+          <a href="https://en.wikipedia.org/wiki/Tai-Pan_(video_game)" rel="nofollow">
+            <img src="https://img.shields.io/badge/Tai--Pan-0F52BA?style=for-the-badge&logo=game&logoColor=white"
+                alt="Tai-Pan" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://en.wikipedia.org/wiki/La_Abad%C3%ADa_del_Crimen" rel="nofollow">
             <img src="https://img.shields.io/badge/La%20Abadía%20del%20Crimen-FFD700?style=for-the-badge&logo=game&logoColor=black"
