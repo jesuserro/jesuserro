@@ -429,18 +429,6 @@
             <img src="https://img.shields.io/badge/PhpSpreadsheet-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
                 alt="PhpSpreadsheet" style="max-height: 24px; vertical-align: middle;">
           </a>
-          <a href="https://getbootstrap.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
-                alt="Bootstrap" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://sass-lang.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
-                alt="Sass" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://www.zend.com/products/zend-studio" rel="nofollow">
-            <img src="https://img.shields.io/badge/Zend%20Studio-0680CD?style=for-the-badge&logo=zend&logoColor=white"
-                alt="Zend Studio" style="max-height: 24px; vertical-align: middle;">
-          </a>
           <a href="https://phpunit.de/" rel="nofollow">
             <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white"
                 alt="PHPUnit" style="max-height: 24px; vertical-align: middle;">
@@ -452,6 +440,18 @@
           <a href="https://www.jenkins.io/" rel="nofollow">
             <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"
                 alt="Jenkins" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://getbootstrap.com/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
+                alt="Bootstrap" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://sass-lang.com/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+                alt="Sass" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://www.zend.com/products/zend-studio" rel="nofollow">
+            <img src="https://img.shields.io/badge/Zend%20Studio-0680CD?style=for-the-badge&logo=zend&logoColor=white"
+                alt="Zend Studio" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://en.wikipedia.org/wiki/Agile_software_development" rel="nofollow">
             <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white"
