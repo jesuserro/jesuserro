@@ -325,6 +325,10 @@
             <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"
                 alt="OpenAI" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://www.lenovo.com/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"
+                alt="Lenovo" style="max-height: 24px; vertical-align: middle;">
+          </a>
         </td>
       </tr>
       <!-- 5) 2021-2022 -->
@@ -468,6 +472,10 @@
           <a href="https://developer.android.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
                 alt="Android" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://www.dell.com/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white"
+                alt="Dell" style="max-height: 24px; vertical-align: middle;">
           </a>
         </td>
       </tr>
