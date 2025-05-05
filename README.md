@@ -147,6 +147,18 @@
             <img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white" 
                 alt="Liquibase" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://docs.pytest.org/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" 
+                alt="Pytest" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://pandera.readthedocs.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Pandera-2C2D72?style=for-the-badge&logo=python&logoColor=white" 
+                alt="Pandera" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://schemaspy.org/" rel="nofollow">
+            <img src="https://img.shields.io/badge/SchemaSpy-00758F?style=for-the-badge&logo=database&logoColor=white" 
+                alt="SchemaSpy" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://papermill.readthedocs.io/" rel="nofollow">
             <img src="https://img.shields.io/badge/Papermill-FF6F00?style=for-the-badge&logo=python&logoColor=white" 
                 alt="Papermill" style="max-height: 24px; vertical-align: middle;">
