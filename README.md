@@ -409,6 +409,10 @@
             <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"
                 alt="Google Chrome" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://www.synology.com/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Synology%20NAS-B5B5B6?style=for-the-badge&logo=synology&logoColor=black"
+                alt="Synology NAS" style="max-height: 24px; vertical-align: middle;">
+          </a>
         </td>
       </tr>
       <!-- 8) 2010-2015 -->
