@@ -657,6 +657,10 @@
             <img src="https://img.shields.io/badge/SimCity-6CC24A?style=for-the-badge&logo=maxis&logoColor=white"
                 alt="SimCity" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://es.wikipedia.org/wiki/PC_F%C3%BAtbol" rel="nofollow">
+            <img src="https://img.shields.io/badge/PC%20Fútbol-148F32?style=for-the-badge&logo=soccer&logoColor=white"
+                alt="PC Fútbol" style="max-height: 24px; vertical-align: middle;">
+          </a>
         </td>
       </tr>
       <!-- 13) 1990-1992 -->
