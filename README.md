@@ -625,6 +625,10 @@
             <img src="https://img.shields.io/badge/Visual%20Studio%206.0-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"
                 alt="Visual Studio 6.0" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://en.wikipedia.org/wiki/Napster" rel="nofollow">
+            <img src="https://img.shields.io/badge/Napster-66CCFF?style=for-the-badge&logo=napster&logoColor=black"
+                alt="Napster" style="max-height: 24px; vertical-align: middle;">
+          </a>
         </td>
       </tr>
       <!-- 13) 1992-1995 -->
@@ -634,8 +638,8 @@
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://en.wikipedia.org/wiki/Intel_Pentium" rel="nofollow">
-            <img src="https://img.shields.io/badge/Intel%20Pentium%204%20DX-0071C5?style=for-the-badge&logo=intel&logoColor=white"
-                alt="Intel Pentium 4 DX" style="max-height: 24px; vertical-align: middle;">
+            <img src="https://img.shields.io/badge/Intel%20Pentium%20DX2-0071C5?style=for-the-badge&logo=intel&logoColor=white"
+                alt="Intel Pentium DX2" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://en.wikipedia.org/wiki/Windows_95" rel="nofollow">
             <img src="https://img.shields.io/badge/Windows%2095-0078D6?style=for-the-badge&logo=windows&logoColor=white"
@@ -644,10 +648,6 @@
           <a href="https://en.wikipedia.org/wiki/Microsoft_Word" rel="nofollow">
             <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"
                 alt="MS Word" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://en.wikipedia.org/wiki/Napster" rel="nofollow">
-            <img src="https://img.shields.io/badge/Napster-66CCFF?style=for-the-badge&logo=napster&logoColor=black"
-                alt="Napster" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://en.wikipedia.org/wiki/Civilization_II" rel="nofollow">
             <img src="https://img.shields.io/badge/Civilization%20II-FFB300?style=for-the-badge&logo=civilization&logoColor=black"
