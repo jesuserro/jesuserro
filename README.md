@@ -729,6 +729,14 @@
             <img src="https://img.shields.io/badge/La%20Abadía%20del%20Crimen-FFD700?style=for-the-badge&logo=game&logoColor=black"
                 alt="La Abadía del Crimen" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://es.wikipedia.org/wiki/Microman%C3%ADa" rel="nofollow">
+            <img src="https://img.shields.io/badge/Micromanía-E52E2E?style=for-the-badge&logo=magazine&logoColor=white"
+                alt="Micromanía" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://es.wikipedia.org/wiki/Gigantes_del_Basket" rel="nofollow">
+            <img src="https://img.shields.io/badge/Gigantes%20del%20Basket-FF6600?style=for-the-badge&logo=basketball&logoColor=white"
+                alt="Gigantes del Basket" style="max-height: 24px; vertical-align: middle;">
+          </a>
         </td>
       </tr>
     </tbody>
