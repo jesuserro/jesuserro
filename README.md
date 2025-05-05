@@ -555,10 +555,10 @@
           </a>
         </td>
       </tr>
-      <!-- 10) 2002-2006 -->
+      <!-- 10) 2000-2006 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🏗️ <b>2002-2006</b><br>Internship Life
+          🏗️ <b>2000-2006</b><br>Internship Life
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://www.php.net/releases/4_0/" rel="nofollow">
@@ -595,10 +595,10 @@
           </a>
         </td>
       </tr>
-      <!-- 11) 1994-2002 -->
+      <!-- 11) 1995-2000 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🖥️ <b>1994-2002</b><br>University Years
+          🖥️ <b>1995-2000</b><br>University Years
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://www.microsoft.com/en-us/windows" rel="nofollow">
