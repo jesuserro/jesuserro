@@ -429,10 +429,6 @@
             <img src="https://img.shields.io/badge/PhpSpreadsheet-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
                 alt="PhpSpreadsheet" style="max-height: 24px; vertical-align: middle;">
           </a>
-          <a href="https://developer.apple.com/ios/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Mobile%20Development-000000?style=for-the-badge&logo=apple&logoColor=white"
-                alt="Mobile Development" style="max-height: 24px; vertical-align: middle;">
-          </a>
           <a href="https://getbootstrap.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
                 alt="Bootstrap" style="max-height: 24px; vertical-align: middle;">
@@ -444,6 +440,10 @@
           <a href="https://www.zend.com/products/zend-studio" rel="nofollow">
             <img src="https://img.shields.io/badge/Zend%20Studio-0680CD?style=for-the-badge&logo=zend&logoColor=white"
                 alt="Zend Studio" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://phpunit.de/" rel="nofollow">
+            <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white"
+                alt="PHPUnit" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://www.selenium.dev/" rel="nofollow">
             <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"
@@ -477,6 +477,10 @@
             <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
                 alt="Android" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://developer.apple.com/ios/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Mobile%20Development-000000?style=for-the-badge&logo=apple&logoColor=white"
+                alt="Mobile Development" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://www.dell.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white"
                 alt="Dell" style="max-height: 24px; vertical-align: middle;">
@@ -496,10 +500,6 @@
           <a href="https://framework.zend.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/Zend%20Framework-68B604?style=for-the-badge&logo=zend&logoColor=white"
                 alt="Zend Framework" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://phpunit.de/" rel="nofollow">
-            <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white"
-                alt="PHPUnit" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://jquery.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
