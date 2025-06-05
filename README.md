@@ -133,10 +133,38 @@
 <div align="center">
   <table style="border: 1px solid #ddd; border-collapse: collapse; width: 100%; margin: 1em 0; font-family: Arial, sans-serif;">
     <tbody>
+      <!-- 1) June 2025 -->
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+          🤖 <b>June 2025</b><br>Monitoring & Data Quality
+        </td>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+          <a href="https://openai.com/blog/openai-codex" rel="nofollow">
+            <img src="https://img.shields.io/badge/GPT%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white"
+                alt="GPT Codex" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://greatexpectations.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Great%20Expectations-FF6B6B?style=for-the-badge&logo=python&logoColor=white"
+                alt="Great Expectations" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://grafana.com/oss/loki/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"
+                alt="Loki" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://grafana.com/docs/loki/latest/clients/promtail/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Promtail-F46800?style=for-the-badge&logo=grafana&logoColor=white"
+                alt="Promtail" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://prometheus.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"
+                alt="Prometheus" style="max-height: 24px; vertical-align: middle;">
+          </a>
+        </td>
+      </tr>
       <!-- 1) Late April 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🌟 <b>Late April 2025</b><br>Data Engineering, ETL, Pipelines &amp; Viz
+          🌟 <b>May 2025</b><br>Data Engineering, ETL, Pipelines &amp; Viz
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://airflow.apache.org/" rel="nofollow">
@@ -179,7 +207,7 @@
       <!-- 1) Late April 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🖼️ <b>Early April 2025</b><br>Image Processing & Visualization
+          🖼️ <b>April 2025</b><br>Image Processing & Visualization
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://keras.io/" rel="nofollow">
