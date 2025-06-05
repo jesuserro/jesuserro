@@ -167,6 +167,10 @@
           🌟 <b>May 2025</b><br>Data Engineering, ETL, Pipelines &amp; Viz
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+          <a href="https://cursor.sh/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white" 
+                alt="Cursor" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://airflow.apache.org/" rel="nofollow">
             <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"
                 alt="Airflow" style="max-height: 24px; vertical-align: middle;">
@@ -190,10 +194,6 @@
           <a href="https://papermill.readthedocs.io/" rel="nofollow">
             <img src="https://img.shields.io/badge/Papermill-FF6F00?style=for-the-badge&logo=python&logoColor=white" 
                 alt="Papermill" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://cursor.sh/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white" 
-                alt="Cursor" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://grafana.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" style="max-height: 24px; vertical-align: middle;">
@@ -337,6 +337,14 @@
           🤖 <b>2022-2024</b><br>The AI Wave
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+          <a href="https://openai.com/" rel="nofollow">
+            <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"
+                alt="OpenAI" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://github.com/features/copilot" rel="nofollow">
+            <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white"
+                alt="GitHub Copilot" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://www.php.net/releases/8.0/" rel="nofollow">
             <img src="https://img.shields.io/badge/PHP%208-777BB4?style=for-the-badge&logo=php&logoColor=white"
                 alt="PHP 8" style="max-height: 24px; vertical-align: middle;">
@@ -348,10 +356,6 @@
           <a href="https://code.visualstudio.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
                 alt="Visual Studio Code" style="max-height: 24px; vertical-align: middle;">
-          </a>
-          <a href="https://openai.com/" rel="nofollow">
-            <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"
-                alt="OpenAI" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://www.lenovo.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/Lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"
