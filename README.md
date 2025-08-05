@@ -133,7 +133,23 @@
 <div align="center">
   <table style="border: 1px solid #ddd; border-collapse: collapse; width: 100%; margin: 1em 0; font-family: Arial, sans-serif;">
     <tbody>
-      <!-- 1) June 2025 -->
+      <!-- 1) July 2025 -->
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+          🏗️ <b>July 2025</b><br>Data Transformation & Modeling
+        </td>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+          <a href="https://www.getdbt.com/" rel="nofollow">
+            <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"
+                alt="dbt" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://min.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/MinIO-004C94?style=for-the-badge&logo=minio&logoColor=white"
+                alt="MinIO S3" style="max-height: 24px; vertical-align: middle;">
+          </a>
+        </td>
+      </tr>
+      <!-- 2) June 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
           🤖 <b>June 2025</b><br>Monitoring & Data Quality
