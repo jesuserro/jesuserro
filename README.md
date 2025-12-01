@@ -133,6 +133,46 @@
 <div align="center">
   <table style="border: 1px solid #ddd; border-collapse: collapse; width: 100%; margin: 1em 0; font-family: Arial, sans-serif;">
     <tbody>
+      <!-- 0) Nov 2025 -->
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+          🗄️ <b>Nov 2025</b><br>Data Lake & Observability
+        </td>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+          <a href="https://www.postgresql.org/" rel="nofollow">
+            <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+                alt="PostgreSQL" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://iceberg.apache.org/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Apache%20Iceberg-9B59B6?style=for-the-badge&logo=apache&logoColor=white"
+                alt="Apache Iceberg" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://trino.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Trino-DD0A78?style=for-the-badge&logo=trino&logoColor=white"
+                alt="Trino" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://opentelemetry.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"
+                alt="OpenTelemetry" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://grafana.com/docs/tempo/latest/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Grafana%20Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white"
+                alt="Grafana Tempo" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://www.open-metadata.org/" rel="nofollow">
+            <img src="https://img.shields.io/badge/OpenMetadata-1890FF?style=for-the-badge&logo=apache&logoColor=white"
+                alt="OpenMetadata" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)" rel="nofollow">
+            <img src="https://img.shields.io/badge/Hexagonal%20Architecture-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white"
+                alt="Hexagonal Architecture" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Domain-specific_language" rel="nofollow">
+            <img src="https://img.shields.io/badge/DSL-Domain%20Specific%20Language-4ECDC4?style=for-the-badge&logo=code&logoColor=white"
+                alt="DSL" style="max-height: 24px; vertical-align: middle;">
+          </a>
+        </td>
+      </tr>
       <!-- 1) July 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
