@@ -179,6 +179,14 @@
           🏗️ <b>July 2025</b><br>Data Transformation & Modeling
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+          <a href="https://dagster.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Dagster-7C3AED?style=for-the-badge&logo=dagster&logoColor=white"
+                alt="Dagster" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Medallion_architecture" rel="nofollow">
+            <img src="https://img.shields.io/badge/Medallion%20Architecture-FFD700?style=for-the-badge&logo=architecture&logoColor=black"
+                alt="Medallion Architecture" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://www.getdbt.com/" rel="nofollow">
             <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"
                 alt="dbt" style="max-height: 24px; vertical-align: middle;">
