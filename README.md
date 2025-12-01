@@ -207,10 +207,6 @@
             <img src="https://img.shields.io/badge/pyproject.toml-3776AB?style=for-the-badge&logo=python&logoColor=white"
                 alt="pyproject.toml" style="max-height: 24px; vertical-align: middle;">
           </a>
-          <a href="https://docs.docker.com/compose/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"
-                alt="Docker Compose" style="max-height: 24px; vertical-align: middle;">
-          </a>
         </td>
       </tr>
       <!-- 1) Sept 2025 -->
