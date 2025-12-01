@@ -177,7 +177,7 @@
           </a>
         </td>
       </tr>
-      <!-- 1) Sept 2025 -->
+      <!-- 2) Oct 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
           🐳 <b>Oct 2025</b><br>Docker Modern Architecture
@@ -213,7 +213,27 @@
           </a>
         </td>
       </tr>
-      <!-- 2) July 2025 -->
+      <!-- 1) Sept 2025 -->
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+          📦 <b>Sept 2025</b><br>Project Architecture & Build
+        </td>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+          <a href="https://packaging.python.org/en/latest/guides/packaging-namespace-packages/" rel="nofollow">
+            <img src="https://img.shields.io/badge/src%20Layout-3776AB?style=for-the-badge&logo=python&logoColor=white"
+                alt="src Layout" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://www.gnu.org/software/make/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Makefile-FF6F00?style=for-the-badge&logo=gnu&logoColor=white"
+                alt="Makefile" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://packaging.python.org/en/latest/guides/packaging-namespace-packages/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Namespace%20Packages-3776AB?style=for-the-badge&logo=python&logoColor=white"
+                alt="Namespace Packages" style="max-height: 24px; vertical-align: middle;">
+          </a>
+        </td>
+      </tr>
+      <!-- 3) July 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
           🏗️ <b>July 2025</b><br>Data Transformation & Modeling
@@ -241,7 +261,7 @@
           </a>
         </td>
       </tr>
-      <!-- 3) June 2025 -->
+      <!-- 4) June 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
           🤖 <b>June 2025</b><br>Monitoring & Data Quality
