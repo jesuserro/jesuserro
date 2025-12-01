@@ -151,6 +151,10 @@
             <img src="https://img.shields.io/badge/Trino-DD0A78?style=for-the-badge&logo=trino&logoColor=white"
                 alt="Trino" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <a href="https://www.transform.co/metricflow" rel="nofollow">
+            <img src="https://img.shields.io/badge/Metricflow-FF694B?style=for-the-badge&logo=dbt&logoColor=white"
+                alt="Metricflow" style="max-height: 24px; vertical-align: middle;">
+          </a>
           <a href="https://opentelemetry.io/" rel="nofollow">
             <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"
                 alt="OpenTelemetry" style="max-height: 24px; vertical-align: middle;">
@@ -182,6 +186,10 @@
           <a href="https://dagster.io/" rel="nofollow">
             <img src="https://img.shields.io/badge/Dagster-7C3AED?style=for-the-badge&logo=dagster&logoColor=white"
                 alt="Dagster" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://fastapi.tiangolo.com/" rel="nofollow">
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
+                alt="FastAPI" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://en.wikipedia.org/wiki/Medallion_architecture" rel="nofollow">
             <img src="https://img.shields.io/badge/Medallion%20Architecture-FFD700?style=for-the-badge&logo=architecture&logoColor=black"
