@@ -177,7 +177,43 @@
           </a>
         </td>
       </tr>
-      <!-- 1) July 2025 -->
+      <!-- 1) Sept 2025 -->
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+          🐳 <b>Oct 2025</b><br>Docker Modern Architecture
+        </td>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+          <a href="https://docs.docker.com/build/bake/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Docker%20Bake-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+                alt="Docker Bake" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://github.com/astral-sh/uv" rel="nofollow">
+            <img src="https://img.shields.io/badge/UV-FFD43B?style=for-the-badge&logo=python&logoColor=black"
+                alt="UV" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://packaging.python.org/en/latest/guides/distributing-packages-using-setuptools/#wheels" rel="nofollow">
+            <img src="https://img.shields.io/badge/Python%20Wheels-3776AB?style=for-the-badge&logo=python&logoColor=white"
+                alt="Python Wheels" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://docs.python.org/3/library/profile.html" rel="nofollow">
+            <img src="https://img.shields.io/badge/Python%20Profiling-3776AB?style=for-the-badge&logo=python&logoColor=white"
+                alt="Python Profiling" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://docs.docker.com/build/building/multi-stage/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Multi--stage%20Builds-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+                alt="Multi-stage Builds" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://peps.python.org/pep-0621/" rel="nofollow">
+            <img src="https://img.shields.io/badge/pyproject.toml-3776AB?style=for-the-badge&logo=python&logoColor=white"
+                alt="pyproject.toml" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://docs.docker.com/compose/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+                alt="Docker Compose" style="max-height: 24px; vertical-align: middle;">
+          </a>
+        </td>
+      </tr>
+      <!-- 2) July 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
           🏗️ <b>July 2025</b><br>Data Transformation & Modeling
@@ -205,7 +241,7 @@
           </a>
         </td>
       </tr>
-      <!-- 2) June 2025 -->
+      <!-- 3) June 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
           🤖 <b>June 2025</b><br>Monitoring & Data Quality
@@ -233,7 +269,7 @@
           </a>
         </td>
       </tr>
-      <!-- 1) Late April 2025 -->
+      <!-- 4) May 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
           🌟 <b>May 2025</b><br>Data Engineering, ETL, Pipelines &amp; Viz
@@ -276,7 +312,7 @@
           </a>
         </td>
       </tr>
-      <!-- 1) Late April 2025 -->
+      <!-- 5) April 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
           🖼️ <b>April 2025</b><br>Image Processing & Visualization
@@ -298,7 +334,7 @@
           </a>
         </td>
       </tr>
-      <!-- 1) Late March 2025 -->
+      <!-- 6) Late March 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
           📝 <b>Late March 2025</b><br>NLP (Natural Language Processing)
@@ -332,7 +368,7 @@
           </a>
         </td>
       </tr>
-      <!-- 2) Early March 2025 -->
+      <!-- 7) Early March 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
           🚀 <b>Early March 2025</b><br>Machine Learning
@@ -369,7 +405,7 @@
           </a>
         </td>
       </tr>
-      <!-- 3) Feb 2025 -->
+      <!-- 8) Feb 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
           📊 <b>Feb 2025</b><br>Foundations of Data Science
