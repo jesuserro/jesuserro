@@ -1,0 +1,423 @@
+# Source PDF: :contentReference[oaicite:0]{index=0}
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.7/schema.json
+
+cv:
+  name: ${CV_NAME}
+  photo: ${CV_PHOTO}
+  headline: Senior Backend Developer | Machine Learning | Data Analytics
+  location: ${CV_LOCATION}
+  email: ${CV_EMAIL}
+  phone: ${CV_PHONE}
+  social_networks:
+    - network: GitHub
+      username: jesuserro
+    - network: LinkedIn
+      username: jesuserro
+  custom_connections:
+    - placeholder: Goodreads
+      url: https://www.goodreads.com/user/show/40291334-jes-s-erro
+      fontawesome_icon: book
+  sections:
+    summary:
+      - Born on ${CV_BIRTH_DATE} (${CV_LOCATION})
+      - Full-stack and backend developer with 25+ years of experience building and maintaining business-critical software systems, internal tools, and customer-facing platforms.
+      - Currently focused on Data Engineering and Machine Learning, designing traceable ETL pipelines and analytical workflows with Docker, Apache Airflow, Liquibase, Grafana, Python, and SQL.
+      - Strong background in scalable software design, automation, observability, and data-driven problem solving across web, analytics, and productivity-focused applications.
+
+    experience:
+      - company: Centraldereservas.com
+        position: Former IT Developer
+        start_date: 2006-04
+        end_date: 2024-08
+        location: Aínsa, Huesca, España
+        highlights:
+          - Website https://www.centraldereservas.com/
+          - Led the development and maintenance of critical systems supporting travel reservations, client and provider records, and automated mailing.
+          - Built and improved internal platforms for affiliate management, hotel offers, wholesale travel deals, and debt management.
+          - Developed a travel guide application to generate personalized PDF guides for travelers.
+          - Contributed to WordPress-based internal communication tools and SEO-oriented travel content platforms.
+          - Worked across front-end and back-end stacks to improve reliability, scalability, and day-to-day operational efficiency.
+
+      - company: Remember Me/Memory System
+        position: Software Programmer
+        start_date: 2021-09
+        end_date: 2021-10
+        location: Fischenthal, Suiza
+        highlights:
+          - Website https://www.remem.me/es/
+          - Gained hands-on exposure to Android mobile development in a professional setting.
+          - Built foundational skills for creating user-friendly mobile applications.
+
+      - company: Libricos.com
+        position: Ecommerce Developer
+        start_date: 2020-04
+        end_date: 2021-07
+        location: Pamplona, Navarra, España
+        highlights:
+          - Contributed to an online bookstore and content platform focused on Amazon book sales through literary reviews.
+          - Helped curate engaging review content to connect readers with relevant books and improve discovery.
+
+      - company: Freelance
+        position: Full-stack Developer
+        start_date: 2020-04
+        end_date: 2021-07
+        location: Pamplona, Navarra, España
+        highlights:
+          - Developed and maintained open-source projects related to Digital Gardens, Second Brains, and productivity tooling.
+          - Built ObsidianMD plugins, including calendar-oriented features with custom React-based views.
+          - Worked with React, TypeScript, and Node.js to deliver modular and user-friendly solutions.
+          - Explored cross-platform development paths including React, Kotlin Multiplatform, and .NET MAUI.
+
+      - company: Hotel Andia S.L.
+        position: Front/Back-end Developer
+        start_date: 2003-08
+        end_date: 2010-08
+        location: Orcoyen, Navarra, España
+        highlights:
+          - Website https://www.hotelandia.com/
+          - Focused primarily on front-end development for multilingual hotel offers and online presentation.
+          - Collaborated with design teams to improve usability and website functionality across multiple languages.
+
+      - company: ETHERNALIA REGCOM S.L.
+        position: Front/Back-end Developer
+        start_date: 2008-02
+        end_date: 2010-02
+        location: Zamudio, Bizkaia, España
+        highlights:
+          - Participated in the creation, development, and maintenance of the corporate website for a digital security and data protection company.
+          - Helped build a clear, informative, and user-friendly online presence aligned with the company's services.
+
+      - company: Cima Nuevas Tecnologías Informáticas S.L.
+        position: IT Intern
+        start_date: 2003-02
+        end_date: 2003-10
+        location: Villava, Navarra, España
+        highlights:
+          - Supported website creation, application testing, and technical documentation tasks at the start of his professional career.
+          - Contributed to the development of written content for a small book on viticulture and oenology.
+
+    education:
+      - institution: Ironhack
+        area: Data Analytics, Machine Learning, NLP, Experimentation, and Data Processing
+        degree: Bootcamp
+        location: Madrid, España
+        start_date: 2025-01
+        end_date: 2025-04
+
+      - institution: Universidad Pública de Navarra
+        area: Hortofruticultura y Jardinería
+        degree: Diplomatura
+        location: Pamplona, Navarra, España
+        start_date: 1995
+        end_date: 1999
+
+      - institution: Colegio San Ignacio, Jesuítas, Pamplona
+        area: Ciencias de la ingeniería
+        degree: Bachillerato
+        location: Pamplona, Navarra, España
+        start_date: 1981
+        end_date: 1992
+
+    
+    projects:
+      - name: AI-Powered Dotfiles | Developer Environment as Code
+        start_date: 2026-01
+        summary: AI-augmented developer workstation built as code for reusable, secure, and production-oriented engineering workflows. Repository https://github.com/jesuserro/dotfiles
+        highlights:
+          - **Action:** Designed and developed an AI-augmented developer workstation across Cursor, Codex, and Claude.
+          - **Context:** Built a dotfiles repository combining MCP-based AI assistants, reusable agent skills, and declarative workstation setup with Chezmoi, SOPS, and Age.
+          - **Result:** Created a more traceable, maintainable, and scalable developer environment for infrastructure, observability, automation, and AI-assisted workflows.
+
+      - name: Automated Books Pipeline | Medallion MDM ETL
+        start_date: 2025-04
+        summary: Modern books data platform for multi-source ingestion, enrichment, and serving using incremental ETL and lakehouse architecture. Repository https://github.com/jesuserro/books-etl-pipeline
+        highlights:
+          - **Action:** Designed and developed a modern books data platform to ingest, enrich, and serve multi-source book data through incremental pipelines and lakehouse-based architecture.
+          - **Context:** Built with Python and Dagster using a medallion model (RAW → SRC → MDM → GOLD), Apache Iceberg, PostgreSQL, Trino, FastAPI, and observability tooling including OpenTelemetry, Prometheus, and Grafana.
+          - **Result:** Created a more traceable, maintainable, and scalable data platform with reliable identity resolution, reproducible transformations, and production-style data engineering practices.
+
+      - name: BiblioNLP
+        date: 2025-04
+        summary: AI-powered NLP platform for automatic tagging, sentiment analysis, clustering, and semantic recommendation of books. Repository https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search
+        highlights:
+          - **Action:** Built multilabel tagging pipelines with SentenceTransformers and Logistic Regression.
+          - **Context:** Applied VADER and RoBERTa models for sentiment and emotion analysis on book descriptions.
+          - **Result:** Developed semantic discovery workflows with Streamlit, TensorFlow, Keras, and clustering techniques.
+
+      - name: DeepVision
+        date: 2025-04
+        summary: Deep learning image classification project using custom CNN architectures on the MNIST dataset. Repository https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist
+        highlights:
+          - **Action:** Designed and trained CNN models with TensorFlow and Keras for handwritten digit classification.
+          - **Context:** Evaluated performance through confusion matrices, loss/accuracy curves, and misclassification analysis.
+          - **Result:** Validated model generalization on unseen image inputs beyond the standard dataset.
+
+      - name: Weather Prediction with Random Forest
+        date: 2025-03
+        summary: Machine learning project to classify weather types and predict precipitation using ensemble methods. Repository https://github.com/jesuserro/weather-prediction-machine-learning
+        highlights:
+          - **Action:** Trained and compared Random Forest, KNN, and Gradient Boosting models on a Kaggle weather dataset.
+          - **Context:** Evaluated performance through confusion matrices, loss/accuracy curves, and misclassification analysis.
+          - **Result:** Validated model generalization on unseen image inputs beyond the standard dataset.
+
+      - name: Retail Store Sales Forecasting Pipeline
+        date: 2025-03
+        summary: End-to-end machine learning pipeline for predicting retail store sales with automated reporting. Repository https://github.com/jesuserro/ml-retail-sales-predictor
+        highlights:
+          - **Action:** Built a full workflow covering preprocessing, XGBoost model training, evaluation, and prediction generation.
+          - **Context:** Used Python, scikit-learn, XGBoost, Matplotlib, Jinja2, and WeasyPrint for a portable deployment-ready solution.
+          - **Result:** Automated HTML and PDF reports with embedded visualizations, metrics, and feature importance analysis.
+
+      - name: Vanguard A/B Test Analysis
+        date: 2025-03
+        summary: Data analysis project evaluating the impact of a redesigned user interface on customer experience and completion outcomes. Repository https://github.com/jesuserro/ab-testing-ui-redesign-vanguard
+        highlights:
+          - **Action:** Conducted data cleaning, exploratory analysis, hypothesis testing, and KPI design.
+          - **Context:** Measured Completion Rate, Cost-Effectiveness, and Time to Complete across control and test groups.
+          - **Result:** Built Tableau dashboards and presented findings and recommendations to stakeholders.
+
+      - name: Oscar Trends Analysis
+        date: 2025-02
+        summary: Collaborative analytics project exploring historical patterns behind Oscar wins from 1928 to 2024. Repository https://github.com/jesuserro/oscars-data-insights-96-years
+        highlights:
+          - **Action:** Analyzed nationality, race, age, directors, budgets, and box office variables.
+          - **Context:** Combined web scraping, CSV processing, Excel analysis, and storytelling techniques.
+          - **Result:** Produced insight-driven narratives linking film industry variables to award outcomes.
+
+      - name: Goodreads Author Talent Analysis
+        date: 2025-02
+        summary: SQL and Python data project analyzing Goodreads authors and books to identify patterns in visibility and engagement. Repository https://github.com/jesuserro/goodreads-author-talent-analysis
+        highlights:
+          - **Action:** Explored ratings, reviews, fan counts, genres, birth-decade trends, and geolocation data.
+          - **Context:** Used SQL for extraction and Python with Matplotlib and Seaborn for cleaning and visualization.
+          - **Result:** Turned structured literary data into clear analytical storytelling and insights.
+
+      - name: Escape Room CLI Game
+        date: 2025-02
+        summary: Console-based Python mini-game with object-oriented architecture and real-time countdown mechanics. Repository https://github.com/jesuserro/escape-room-game-python
+        highlights:
+          - **Action:** Built gameplay around room exploration, item collection, puzzle solving, and timed progression.
+          - **Context:** Implemented concurrency for countdown behavior and modular design for maintainability.
+          - **Result:** Combined logic, timing, and user flow into an immersive command-line experience.
+
+      - name: Shark Attack Data Analysis
+        date: 2025-02
+        summary: Exploratory data analysis project on global shark attack records to identify trends and risk patterns. Repository https://github.com/jesuserro/shark-attack-exploratory-data-analysis
+        highlights:
+
+          - **Action:** Used Python, pandas, Matplotlib, and Seaborn for cleaning, visualization, and temporal analysis.
+          - **Context:** Explored geographic, behavioral, and time-based patterns in incident data.
+          - **Result:** Produced a clearer evidence-based view of when and where shark attacks occur.
+
+      - name: LivingScripture
+        start_date: 2024-10
+        end_date: 2024-12
+        summary: Cross-platform personal note management application for Android and Windows built with .NET MAUI and .NET 8. Repository https://github.com/jesuserro/LivingScripture (private)
+        highlights:
+          - **Action:** Designed a note management app with calendar navigation, timeline view, map view, media handling, and Markdown support.
+          - **Context:** Applied MVVM architecture with SQLite for responsive and structured local storage.
+          - **Result:** Planned extensible support for cloud sync, authentication, reminders, and import/export workflows.
+
+      - name: ObsiGen
+        start_date: 2023-06
+        end_date: 2024-09
+        summary: Obsidian plugin for generating structured notes such as daily notes, anniversaries, memorable moments, and captured content. Repository https://github.com/jesuserro/obsigen
+        highlights:
+          - **Action:** Built Obsidian plugin for generating structured notes such as daily notes, anniversaries, memorable moments, and captured content.
+          - **Context:** Using React, TypeScript, and Node.js to create modular developer-friendly components.
+          - **Result:** Extended the Obsidian ecosystem with event-oriented note creation and future calendar-based navigation.
+
+      - name: KindTocs
+        start_date: 2021-11
+        end_date: 2024-07
+        summary: Obsidian plugin to import Kindle highlights and notes and automatically generate structured Markdown outputs per book. Repository https://github.com/jesuserro/kindtocs
+        highlights:
+          - **Action:** Generated book detail notes, highlight files, and table-of-contents indexes automatically.
+          - **Context:** Supported optional embedding of highlights inside chapter-based structures.
+          - **Result:** Simplified the integration of Kindle reading workflows into an Obsidian vault.
+
+      - name: Goodsidian
+        start_date: 2021-05
+        end_date: 2024-03
+        summary: Desktop application to import Goodreads books, reviews, and author data into Obsidian as Markdown notes. Repository https://github.com/jesuserro/goodsidian
+        highlights:
+          - **Action:** Automated the transformation of Goodreads content into reusable knowledge notes.
+          - **Context:** Preserved rich metadata for books, reviews, and authors inside an Obsidian vault.
+          - **Result:** Improved organization and retrieval of literary references and reading history.
+
+      - name: Libricos.com
+        start_date: 2020-04
+        end_date: 2021-07
+        summary: eCommerce and content platform focused on curated book reviews and Amazon Affiliate book sales.
+        highlights:
+          - **Action:** Combined literary review content with direct product links to improve book discovery and conversion.
+          - **Context:** Integrated content, SEO, analytics, and affiliate-oriented workflows.
+          - **Result:** Improved book discovery and conversion through curated review content and direct product links.
+
+      - name: Kindle to Obsidian Plugin
+        start_date: 2020-04
+        end_date: 2021-11
+        summary: Plugin to import Kindle highlights and notes as Markdown notes in Obsidian. Repository https://github.com/jesuserro/kindle-to-markdown
+        highlights:
+          - **Action:** Built ObsidianMD plugin to import Kindle highlights and notes as Markdown notes in Obsidian.
+          - **Context:** Used React, TypeScript, and Node.js to create modular developer-friendly components.
+          - **Result:** Saving Kindle highlights and notes as Markdown notes in Obsidian.
+
+      - name: Hotel Offers Content Management System
+        summary: Internal and public-facing platform for managing hotel offers and connecting users to reservation flows.
+        highlights:
+          - Designed a two-zone system with CRUD-based administrative management and public offer presentation.
+          - Streamlined internal offer operations and improved customer access to accommodations.
+          - Helped create a clearer and more efficient hotel offer lifecycle.
+
+      - name: NGES (New Management System)
+        summary: Internal back-office platform for accounting, reservations, and operational management at Centraldereservas.com.
+        highlights:
+          - Centralized workflows for invoices, files, tasks, payments, expenses, policies, mailing templates, and communications.
+          - Supported accounting accuracy and smoother reservation handling in a unified administrative environment.
+          - Improved efficiency and consistency across core internal operations.
+
+      - name: Places/Locations Management System
+        summary: Platform for internal location management and public-facing destination discovery.
+        highlights:
+          - Designed a two-subsystem solution for CRUD-based location administration and public visualization.
+          - Improved the accuracy and accessibility of destination information.
+          - Enhanced user exploration through clearer location discovery workflows.
+
+      - name: Proprietary and Wholesale Offers Management System
+        summary: Offers platform for creating proprietary hotel deals and mapping third-party offers to internal products.
+        highlights:
+          - Led analysis and design for offer creation, package management, and external offer mapping.
+          - Contributed to system architecture, UI design, data access, and QoS testing.
+          - Expanded the company’s ability to manage and present a wider range of commercial offers.
+
+      - name: Affiliate Management System
+        summary: Partner operations and booking platform for managing affiliates and publishing affiliate offers.
+        highlights:
+          - Designed internal affiliate CRUD and performance management workflows.
+          - Supported a public booking area for affiliate offer presentation and reservation access.
+          - Improved partner operations and the visibility of affiliate inventory.
+
+      - name: Internal Communications Blog
+        summary: Internal blog platform for company updates, employee news, and culture-building content.
+        highlights:
+          - Created a communication space for internal announcements and shared milestones.
+          - Included thematic sections supporting employee recognition and community building.
+          - Strengthened transparency, cohesion, and internal engagement.
+
+      - name: Map Library for Portal and Reservation System
+        summary: Interactive geolocation component for hotel discovery across portal and booking environments.
+        highlights:
+          - Developed an object-oriented JavaScript map library using GMaps API and JSONP web services.
+          - Used ExtJs Core and SASS to improve the interface and usability of geographic interactions.
+          - Enhanced decision-making in hotel search and reservation flows through clearer location context.
+
+      - name: Public Blog for Centraldereservas.com
+        summary: WordPress-based public content platform for travel news, offers, and customer engagement.
+        highlights:
+          - Built and customized the blog with tailored WordPress plugins and platform optimizations.
+          - Supported dynamic publishing of company news, travel content, and promotional material.
+          - Strengthened online visibility and audience engagement through content marketing.
+
+      - name: Travel Guide Management System
+        summary: Platform for generating, maintaining, and delivering personalized travel guides for clients.
+        highlights:
+          - Designed the system architecture and integrated the Guiomatic REST API for guide generation.
+          - Implemented data storage and retrieval workflows for travel guide content.
+          - Supported QoS testing to ensure reliability, scalability, and smooth delivery.
+
+      - name: Clubviajero.com
+        summary: Brand-affiliated travel storytelling platform featuring destination narratives and editorial content.
+        highlights:
+          - Built a travel blog centered on immersive stories, recommendations, and destination insights.
+          - Helped strengthen audience engagement through long-form content and travel inspiration.
+          - Supported the company’s content-driven visibility in the travel sector.
+
+      - name: Delinquency Management System
+        summary: Financial risk monitoring system for delinquent accounts and high-risk reservations.
+        highlights:
+          - Translated business-defined accounting rules into operational monitoring workflows.
+          - Automated the detection of overdue accounts and potential fraud-risk reservations.
+          - Improved financial oversight, mitigation speed, and internal control processes.
+
+      - name: Hotelandia.com Offer Management System
+        summary: Multilingual hotel offers and campaign management platform for Hotel Andia.
+        highlights:
+          - Built with Sencha/ExtJS and MySQL for offer administration and customer-facing promotion.
+          - Supported multilingual publishing across seven languages plus mailing and calendar integration.
+          - Improved hotel marketing efficiency and customer engagement for campaigns and events.
+
+      - name: Ethernalia.com
+        summary: Corporate web portal for a digital security and data protection company.
+        highlights:
+          - Developed the front-end portal using Zend Framework, MVC, SMARTY, jQuery, and GMaps API.
+          - Applied modular architecture and interactive UI components to improve maintainability and usability.
+          - Delivered a clearer and more engaging digital presence aligned with the company’s services.
+
+    skills:
+      - label: AI, Machine Learning & Data Science
+        details: Python, scikit-learn, TensorFlow, Keras, XGBoost, NLP, LLM Workflows, Prompt Engineering, Feature Engineering, ML Pipelines
+
+      - label: Data Engineering, PostgreSQL & Analytics
+        details: PostgreSQL, SQL, pandas, NumPy, ETL, Data Pipelines, Incremental Processing, Data Lineage, EDA, A/B Testing, Tableau, Matplotlib, Seaborn, Plotly, Dashboards
+
+      - label: AI Infrastructure & Observability
+        details: AI Agents, Model Context Protocol (MCP), AI Orchestration, OpenTelemetry, Grafana, Prometheus, Docker, CI/CD, Configuration as Code
+
+      - label: React, TypeScript & Product Development
+        details: React, TypeScript, JavaScript, Node.js, Streamlit, FastAPI
+
+      - label: Architecture & Engineering Practices
+        details: Data Platform Architecture, Medallion Architecture, Master Data Management (MDM), Lakehouse Architecture, Metadata-Driven Pipelines, Observability, API Design, Modular Systems, Configuration as Code, Developer Tooling, TDD, DDD, Git
+
+      - label: Legacy Web Technologies
+        details: PHP, Zend Framework, Sencha/ExtJS, MySQL, WordPress
+
+      - label: Languages
+        details: Spanish (Native), English (Full Professional)
+
+design:
+  theme: classic
+  page:
+    size: a4
+  colors:
+    name: rgb(0, 64, 128)
+    headline: rgb(0, 64, 128)
+    section_titles: rgb(0, 64, 128)
+    links: rgb(0, 64, 128)
+    connections: rgb(0, 64, 128)
+  typography:
+    font_family: Latin Modern Roman
+    font_size:
+      body: 10pt
+      headline: 10pt
+      connections: 10pt
+      section_titles: 1.4em
+  links:
+    underline: false
+    show_external_link_icon: false
+  header:
+    connections:
+      phone_number_format: international
+
+locale:
+  language: english
+  last_updated: Last updated in
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  month_abbreviations:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
