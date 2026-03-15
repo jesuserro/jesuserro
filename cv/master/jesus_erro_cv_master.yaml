@@ -178,6 +178,14 @@ cv:
         end_date: 2025-04
         targets: [full, it]
 
+      - institution: CEIN Software Factory
+        area: Programación y Desarrollo Web
+        degree: Curso
+        location: Pol. Mocholí, Noáin, Navarra, España
+        start_date: 2002-02
+        end_date: 2002-12
+        targets: [full, it]
+
       - institution: Universidad Pública de Navarra
         area: Hortofruticultura y Jardinería
         degree: Diplomatura
