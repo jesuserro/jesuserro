@@ -13,6 +13,7 @@ if [[ ! -x "$RENDERCV_BIN" ]]; then
 fi
 
 variants=(full it ita mechanics)
+all_output_dir="$ROOT_DIR/cv/rendercv_output/all"
 
 declare -A input_files=(
   [full]="$ROOT_DIR/cv/generated/jesus_erro_cv_full.yaml"
@@ -27,6 +28,9 @@ set +a
 
 "$PYTHON_BIN" "$ROOT_DIR/scripts/build_cv_variants.py"
 
+mkdir -p "$all_output_dir"
+find "$all_output_dir" -mindepth 1 -maxdepth 1 -exec rm -rf {} +
+
 for variant in "${variants[@]}"; do
   output_dir="$ROOT_DIR/cv/rendercv_output/$variant"
   mkdir -p "$output_dir"
@@ -37,4 +41,8 @@ for variant in "${variants[@]}"; do
     --locale-catalog "$LOCALE_FILE" \
     --settings "$SETTINGS_FILE" \
     --output-folder "$output_dir"
+
+  source_pdf="$output_dir/Jesús_Erro_Iribarren_CV.pdf"
+  target_pdf="$all_output_dir/Jesús_Erro_Iribarren_CV_${variant}.pdf"
+  cp "$source_pdf" "$target_pdf"
 done
