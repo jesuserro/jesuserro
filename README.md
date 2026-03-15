@@ -38,9 +38,10 @@ cv/
 
 - Edit `cv/master/jesus_erro_cv_master.yaml`.
 - Shared identity/contact data stays in the master once.
-- Variant-specific selection is driven by `targets`, for example `targets: [full, it]`.
-- `scripts/build_cv_variants.py` resolves `${...}` env vars, filters tagged entries, strips helper metadata, and writes the four RenderCV-ready YAML files in `cv/generated/`.
-- `render.sh` decrypts `.env.enc`, rebuilds all variants, and renders them to `cv/rendercv_output/full/`, `it/`, `ita/`, and `mechanics/`.
+- Variant-specific selection is driven by `targets`, for example `targets: [full, it, it_core]`.
+- `it` is the broader IT profile, while `it_core` is the more selective IT/software/data/platform version.
+- `scripts/build_cv_variants.py` resolves `${...}` env vars, filters tagged entries, strips helper metadata, and writes the five RenderCV-ready YAML files in `cv/generated/`.
+- `render.sh` decrypts `.env.enc`, rebuilds all variants, and renders them to `cv/rendercv_output/full/`, `it/`, `it_core/`, `ita/`, and `mechanics/`.
 - RenderCV config was split into `cv/config/design.yaml`, `cv/config/locale.yaml`, and `cv/config/settings.yaml` because the installed local version (`v2.7`) supports those files directly.
 - The previous local template overrides were moved to `cv/themes/`. They are kept as shared assets, but the current render flow stays on the built-in `classic` theme to preserve the existing output style under RenderCV `v2.7`.
 
@@ -986,4 +987,3 @@ If you only want to regenerate YAML variants without rendering, use:
 [topics]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics
 [obsidian]: https://obsidian.md
 [sp]: https://open.spotify.com/playlist/6cZlnbJNn6P8Ad2GZ4YLis?si=515ff69023744a6c
-

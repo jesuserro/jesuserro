@@ -6,6 +6,8 @@ meta:
       headline: Senior Backend Developer | Machine Learning | Data Analytics
     it:
       headline: Senior Backend Developer | Data Engineering | Machine Learning
+    it_core:
+      headline: Senior Backend Developer | Data Platforms | Developer Tooling
     ita:
       headline: Agricultural Engineering | Horticulture, Irrigation & GIS
     mechanics:
@@ -30,13 +32,11 @@ cv:
   sections:
     summary:
       - text: Born on ${CV_BIRTH_DATE_WITH_AGE}, ${CV_LOCATION}.
-        targets: [full, it, ita, mechanics]
-      - text: Full-stack and backend developer with 25+ years of experience building and maintaining business-critical software systems, internal tools, and customer-facing platforms.
-        targets: [full, it]
-      - text: Currently focused on Data Engineering and Machine Learning, designing traceable ETL pipelines and analytical workflows with Docker, Apache Airflow, Liquibase, Grafana, Python, and SQL.
-        targets: [full, it]
-      - text: Strong background in scalable software design, automation, observability, and data-driven problem solving across web, analytics, and productivity-focused applications.
-        targets: [full, it]
+        targets: [full, it, it_core, ita, mechanics]
+      - text: Full-stack and backend developer with 25+ years of experience building and maintaining business software systems, internal tools, and customer-facing platforms.
+        targets: [full, it, it_core]
+      - text: Currently focused on building product-oriented data and AI workflows, combining pipeline orchestration and automation with machine learning, MCP-enabled tools, and agent-based systems.
+        targets: [full, it, it_core]
       - text: Agricultural engineering profile with training and hands-on experience in gardening, horticulture, greenhouse work, irrigation systems, garden maintenance, GIS, and watershed analysis with KINEROS.
         targets: [full, ita]
       - text: Technical profile in machining and workshop operations with hands-on experience in CAD/CAM, CNC, lathe, milling, grinding, and quality-focused industrial work.
@@ -50,7 +50,7 @@ cv:
         start_date: 2006-04
         end_date: 2024-08
         location: Aínsa, Huesca, España
-        targets: [full, it]
+        targets: [full, it, it_core]
         highlights:
           - Website https://www.centraldereservas.com/
           - Led the development and maintenance of critical systems supporting travel reservations, client and provider records, and automated mailing.
@@ -85,7 +85,7 @@ cv:
         start_date: 2020-04
         end_date: 2021-07
         location: Pamplona, Navarra, España
-        targets: [full, it]
+        targets: [full, it, it_core]
         highlights:
           - Developed and maintained open-source projects related to Digital Gardens, Second Brains, and productivity tooling.
           - Built ObsidianMD plugins, including calendar-oriented features with custom React-based views.
@@ -97,7 +97,7 @@ cv:
         start_date: 2003-08
         end_date: 2010-08
         location: Orcoyen, Navarra, España
-        targets: [full, it, ita, mechanics]
+        targets: [full, it, it_core]
         highlights:
           - Website https://www.hotelandia.com/
           - Focused primarily on front-end development for multilingual hotel offers and online presentation.
@@ -120,7 +120,7 @@ cv:
         start_date: 2008-02
         end_date: 2010-02
         location: Zamudio, Bizkaia, España
-        targets: [full, it]
+        targets: [full, it, it_core]
         highlights:
           - Participated in the creation, development, and maintenance of the corporate website for a digital security and data protection company.
           - Helped build a clear, informative, and user-friendly online presence aligned with the company's services.
@@ -130,7 +130,7 @@ cv:
         start_date: 2003-02
         end_date: 2003-10
         location: Villava, Navarra, España
-        targets: [full, it, ita]
+        targets: [full, it, it_core, ita]
         highlights:
           - Supported website creation, application testing and technical documentation tasks at the start of his professional career.
           - Contributed to the development of written content for a small book on viticulture and oenology.
@@ -176,7 +176,7 @@ cv:
         location: Madrid, España
         start_date: 2025-01
         end_date: 2025-04
-        targets: [full, it]
+        targets: [full, it, it_core]
 
       - institution: CEIN Software Factory
         area: Programación y Desarrollo Web
@@ -184,7 +184,7 @@ cv:
         location: Pol. Mocholí, Noáin, Navarra, España
         start_date: 2002-02
         end_date: 2002-12
-        targets: [full, it]
+        targets: [full, it, it_core]
 
       - institution: Universidad Pública de Navarra
         area: Hortofruticultura y Jardinería
@@ -192,7 +192,7 @@ cv:
         location: Pamplona, Navarra, España
         start_date: 1995
         end_date: 1999
-        targets: [full, it, ita, mechanics]
+        targets: [full, it, it_core, ita, mechanics]
 
       - institution: Instituto Politécnico Salesiano
         area: Máquina Herramienta
@@ -208,12 +208,12 @@ cv:
         location: Pamplona, Navarra, España
         start_date: 1981
         end_date: 1992
-        targets: [full, it, ita, mechanics]
+        targets: [full, it, it_core, ita, mechanics]
 
     projects:
       - name: AI-Powered Dotfiles | Developer Environment as Code
         start_date: 2026-01
-        targets: [full, it]
+        targets: [full, it, it_core]
         summary: AI-augmented developer workstation built as code for reusable, secure, and production-oriented engineering workflows. Repository https://github.com/jesuserro/dotfiles
         highlights:
           - "**Action:** Designed and developed an AI-augmented developer workstation across Cursor, Codex, and Claude."
@@ -222,7 +222,7 @@ cv:
 
       - name: Automated Books Pipeline | Medallion MDM ETL
         start_date: 2025-04
-        targets: [full, it]
+        targets: [full, it, it_core]
         summary: Modern books data platform for multi-source ingestion, enrichment, and serving using incremental ETL and lakehouse architecture. Repository https://github.com/jesuserro/books-etl-pipeline
         highlights:
           - "**Action:** Designed and developed a modern books data platform to ingest, enrich, and serve multi-source book data through incremental pipelines and lakehouse-based architecture."
@@ -231,7 +231,7 @@ cv:
 
       - name: BiblioNLP
         date: 2025-04
-        targets: [full, it]
+        targets: [full, it, it_core]
         summary: AI-powered NLP platform for automatic tagging, sentiment analysis, clustering, and semantic recommendation of books. Repository https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search
         highlights:
           - "**Action:** Built multilabel tagging pipelines with SentenceTransformers and Logistic Regression."
@@ -323,7 +323,7 @@ cv:
       - name: ObsiGen
         start_date: 2023-06
         end_date: 2024-09
-        targets: [full, it]
+        targets: [full, it, it_core]
         summary: Obsidian plugin for generating structured notes such as daily notes, anniversaries, memorable moments, and captured content. Repository https://github.com/jesuserro/obsigen
         highlights:
           - "**Action:** Built Obsidian plugin for generating structured notes such as daily notes, anniversaries, memorable moments, and captured content."
@@ -353,7 +353,7 @@ cv:
       - name: Libricos.com
         start_date: 2020-04
         end_date: 2021-07
-        targets: [full, it]
+        targets: [full, it, it_core]
         summary: eCommerce and content platform focused on curated book reviews and Amazon Affiliate book sales.
         highlights:
           - "**Action:** Combined literary review content with direct product links to improve book discovery and conversion."
@@ -476,23 +476,23 @@ cv:
 
     skills:
       - label: AI, Machine Learning & Data Science
-        targets: [full, it]
+        targets: [full, it, it_core]
         details: Python, scikit-learn, TensorFlow, Keras, XGBoost, NLP, LLM Workflows, Prompt Engineering, Feature Engineering, ML Pipelines
 
       - label: Data Engineering, PostgreSQL & Analytics
-        targets: [full, it]
+        targets: [full, it, it_core]
         details: PostgreSQL, SQL, pandas, NumPy, ETL, Data Pipelines, Incremental Processing, Data Lineage, EDA, A/B Testing, Tableau, Matplotlib, Seaborn, Plotly, Dashboards
 
       - label: AI Infrastructure & Observability
-        targets: [full, it]
+        targets: [full, it, it_core]
         details: AI Agents, Model Context Protocol (MCP), AI Orchestration, OpenTelemetry, Grafana, Prometheus, Docker, CI/CD, Configuration as Code
 
       - label: React, TypeScript & Product Development
-        targets: [full, it]
+        targets: [full, it, it_core]
         details: React, TypeScript, JavaScript, Node.js, Streamlit, FastAPI
 
       - label: Architecture & Engineering Practices
-        targets: [full, it]
+        targets: [full, it, it_core]
         details: Data Platform Architecture, Modular Systems, API Design, Observability, Configuration as Code, Developer Tooling, TDD, DDD, Git
 
       - label: Legacy Web Technologies
@@ -512,5 +512,5 @@ cv:
         details: CAD/CAM, CNC, Lathe, Milling Machines, Grinding Machines, Workshop Operations, Quality Control, Industrial Production Support
 
       - label: Languages
-        targets: [full, it, ita, mechanics]
+        targets: [full, it, it_core, ita, mechanics]
         details: Spanish (Native), English (Full Professional)

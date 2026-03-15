@@ -16,10 +16,11 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 MASTER_PATH = ROOT / "cv" / "master" / "jesus_erro_cv_master.yaml"
 GENERATED_DIR = ROOT / "cv" / "generated"
-VARIANTS = ("full", "it", "ita", "mechanics")
+VARIANTS = ("full", "it", "it_core", "ita", "mechanics")
 OUTPUT_FILES = {
     "full": GENERATED_DIR / "jesus_erro_cv_full.yaml",
     "it": GENERATED_DIR / "jesus_erro_cv_it.yaml",
+    "it_core": GENERATED_DIR / "jesus_erro_cv_it_core.yaml",
     "ita": GENERATED_DIR / "jesus_erro_cv_ita.yaml",
     "mechanics": GENERATED_DIR / "jesus_erro_cv_mechanics.yaml",
 }
