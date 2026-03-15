@@ -45,8 +45,8 @@ cv:
         targets: [full, mechanics]
 
     experience:
-      - company: "[Centraldereservas.com | Travel Agency & Booking Platform](https://www.centraldereservas.com/)"
-        position: Former IT Developer
+      - company: "DIFFERENT TRAVEL S.L.U. | [Centraldereservas.com](https://www.centraldereservas.com/)"
+        position: _Former IT Developer_
         start_date: 2006-04
         end_date: 2024-08
         location: 📍 [Zarazoza, Spain](https://maps.app.goo.gl/JiFgP4i67NAjnnkT8)
@@ -58,19 +58,18 @@ cv:
           - Contributed to WordPress-based internal communication tools and SEO-oriented travel content platforms.
           - Worked across front-end and back-end stacks to improve reliability, scalability, and day-to-day operational efficiency.
 
-      - company: Remember Me/Memory System
-        position: Software Programmer
+      - company: "Remember Me/Memory System | [Remem.me](https://www.remem.me/es/)"
+        position: _Software Programmer_
         start_date: 2021-09
         end_date: 2021-10
         location: Fischenthal, Suiza
         targets: [full, it]
         highlights:
-          - Website https://www.remem.me/es/
           - Gained hands-on exposure to Android mobile development in a professional setting.
           - Built foundational skills for creating user-friendly mobile applications.
 
-      - company: Libricos.com
-        position: Ecommerce Developer
+      - company: "Libricos S.L. | [Libricos.com](https://www.libricos.com/)"
+        position: _Ecommerce Developer_
         start_date: 2020-04
         end_date: 2021-07
         location: Pamplona, Navarra, España
@@ -80,7 +79,7 @@ cv:
           - Helped curate engaging review content to connect readers with relevant books and improve discovery.
 
       - company: Freelance
-        position: Full-stack Developer
+        position: _Full-stack Developer_
         start_date: 2020-04
         end_date: 2021-07
         location: Pamplona, Navarra, España
@@ -91,53 +90,49 @@ cv:
           - Worked with React, TypeScript, and Node.js to deliver modular and user-friendly solutions.
           - Explored cross-platform development paths including React, Kotlin Multiplatform, and .NET MAUI.
 
-      - company: Hotel Andia S.L.
-        position: Front/Back-end Developer
+      - company: "Hotel Andia S.L. | [HotelAndia.com](https://www.hotelandia.com/)"
+        position: _Front/Back-end Developer_
         start_date: 2003-08
         end_date: 2010-08
         location: 📍 [Orcoyen, Navarre](https://maps.app.goo.gl/zLMoHjBVDvFsnej88)
         targets: [full, it, it_core]
         highlights:
-          - Website https://www.hotelandia.com/
           - Focused primarily on front-end development for multilingual hotel offers and online presentation.
           - Collaborated with design teams to improve usability and website functionality across multiple languages.
 
-      - company: NUBER Diseños y Mecanizados
-        position: CAD/CAM and Machining Operator
+      - company: "NUBER Diseños y Mecanizados S.L. | [Nubermecanizados.es](https://www.nubermecanizados.es/)"
+        position: _CAD/CAM and Machining Operator_
         start_date: 2003-11
         end_date: 2005-03
         location: 📍 [Berriozar, Navarre](https://maps.app.goo.gl/u5FhNRW2BE1ALR8j7)
         targets: [full, mechanics]
         highlights:
-          - Website https://nubermecanizados.es/
           - Worked on CAD/CAM-driven machining tasks in an industrial workshop environment.
           - Operated and supported CNC production processes with a quality-oriented approach.
           - Contributed to precision manufacturing work involving workshop planning, machining execution, and finishing control.
 
-      - company: ETHERNALIA REGCOM S.L.
-        position: Front/Back-end Developer
+      - company: "ETHERNALIA REGCOM S.L. | [Ethernalia.com](https://www.linkedin.com/company/ethernalia-regcom-s.l./about/)"
+        position: _Full-stack Developer_
         start_date: 2008-02
         end_date: 2010-02
         location: 📍 [Zamudio, Bizkaia](https://maps.app.goo.gl/iXMW7dYmV2KNeRMN7)
         targets: [full, it, it_core]
         highlights:
-          - Website https://www.linkedin.com/company/ethernalia-regcom-s.l./about/
           - Participated in the creation, development, and maintenance of the corporate website for a digital security and data protection company.
           - Helped build a clear, informative, and user-friendly online presence aligned with the company's services.
 
-      - company: Cima Nuevas Tecnologías Informáticas S.L.
-        position: IT Intern
+      - company: "CIMA Nuevas Tecnologías Informáticas S.L. | [Cimanti.es](https://www.cimanti.es/)"
+        position: _IT Intern_
         start_date: 2003-02
         end_date: 2003-10
         location: 📍 [Huarte, Navarre](https://maps.app.goo.gl/sf8tYDWT1LGujKQT9)
         targets: [full, it, it_core, ita]
         highlights:
-          - Website https://tecnologicaccs.com/cima/
           - Supported website creation, application testing and technical documentation tasks at the start of his professional career.
           - Contributed to the development of written content for a small book on viticulture and oenology.
 
       - company: Montajes Automovilisticos Alcala (Maasa)
-        position: Welding Parts Production Operator
+        position: _Welding Parts Production Operator_
         start_date: 2001-10
         end_date: 2002-12
         location: Noain (Valle de Elorz), Navarra, España
@@ -147,25 +142,23 @@ cv:
           - Worked in a structured industrial production environment focused on repeatability, quality, and delivery.
           - "Address: Poligono industrial Noain-Esquiroz, s/n, 31110, Noain (Valle de Elorz)"
 
-      - company: Julian Goni e Hijos
-        position: Industrial Pallet Maintenance and Assembly Operator
+      - company: Julian Goni e Hijos S.L. | [Jgoniehijos.com](https://www.jgoniehijos.com/)
+        position: _Industrial Pallet Maintenance and Assembly Operator_
         start_date: 2000-05
         end_date: 2000-09
-        location: Imarcoain, Navarra, España
+        location: 📍 [Imarcoain, Navarre](https://maps.app.goo.gl/nYiniFaBu9HsNAPs6)
         targets: [full, mechanics]
         highlights:
-          - Website https://www.jgoniehijos.com/
           - Maintained and assembled pallets for industrial use.
           - Supported day-to-day workshop tasks linked to repair, preparation, and delivery of pallet stock.
 
-      - company: Limagrain Iberica (Senasa)
-        position: Agricultural Machinery, Silos and Seed Quality Operator
+      - company: "LIMAGRAIN IBERICA S.A. (SENASA) | [Limagrain.es](https://www.lgseeds.es/)"
+        position: _Agricultural Machinery, Silos and Seed Quality Operator_
         start_date: 1999-09
         end_date: 2000-03
         location: 📍 [Elorz, Navarre](https://maps.app.goo.gl/vodMxSANJ2zn7Mrc7)
         targets: [full, ita, mechanics]
         highlights:
-          - Website https://www.lgseeds.es/
           - Performed maintenance tasks on agricultural machinery and silos.
           - Worked on seed quality control and packaging operations in an agricultural production environment.
 
