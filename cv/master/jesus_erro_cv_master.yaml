@@ -202,14 +202,14 @@ cv:
         targets: [full, it, it_core, ita, mechanics]
 
     projects:
-      - name: AI-Powered Dotfiles | Developer Environment as Code
+      - name: AI-Powered Dotfiles
         start_date: 2026-01
         targets: [full, it, it_core]
         summary: AI-augmented developer workstation built as code for reusable, secure, and production-oriented engineering workflows. Repository https://github.com/jesuserro/dotfiles
         highlights:
-          - "**Action:** Designed and developed an AI-augmented developer workstation across Cursor, Codex, and Claude."
+          - "**Action:** Designed and developed an AI-augmented developer workstation across OpenCode, Cursor, Codex, and Claude."
           - "**Context:** Built a dotfiles repository combining MCP-based AI assistants, reusable agent skills, and declarative workstation setup with Chezmoi, SOPS, and Age."
-          - "**Result:** Created a more traceable, maintainable, and scalable developer environment for infrastructure, observability, automation, and AI-assisted workflows."
+          - "**Result:** Created `developer environment as code` for infrastructure, traceability, observability, automation, and AI-assisted workflows."
 
       - name: Automated Books Pipeline | Medallion MDM ETL
         start_date: 2025-04
