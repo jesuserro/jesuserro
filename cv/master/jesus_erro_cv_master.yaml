@@ -85,7 +85,7 @@ cv:
         start_date: 2020-04
         end_date: 2021-07
         location: Pamplona, Navarra, España
-        targets: [full, it, it_core]
+        targets: [full, it]
         highlights:
           - Developed and maintained open-source projects related to Digital Gardens, Second Brains, and productivity tooling.
           - Built ObsidianMD plugins, including calendar-oriented features with custom React-based views.
@@ -240,7 +240,7 @@ cv:
 
       - name: DeepVision
         date: 2025-04
-        targets: [full, it]
+        targets: [full, it, it_core]
         summary: Deep learning image classification project using custom CNN architectures on the MNIST dataset. Repository https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist
         highlights:
           - "**Action:** Designed and trained CNN models with TensorFlow and Keras for handwritten digit classification."
@@ -258,7 +258,7 @@ cv:
 
       - name: Retail Store Sales Forecasting Pipeline
         date: 2025-03
-        targets: [full, it]
+        targets: [full, it, it_core]
         summary: End-to-end machine learning pipeline for predicting retail store sales with automated reporting. Repository https://github.com/jesuserro/ml-retail-sales-predictor
         highlights:
           - "**Action:** Built a full workflow covering preprocessing, XGBoost model training, evaluation, and prediction generation."
@@ -267,7 +267,7 @@ cv:
 
       - name: Vanguard A/B Test Analysis
         date: 2025-03
-        targets: [full, it]
+        targets: [full, it, it_core]
         summary: Data analysis project evaluating the impact of a redesigned user interface on customer experience and completion outcomes. Repository https://github.com/jesuserro/ab-testing-ui-redesign-vanguard
         highlights:
           - "**Action:** Conducted data cleaning, exploratory analysis, hypothesis testing, and KPI design."
@@ -457,22 +457,6 @@ cv:
           - Translated business-defined accounting rules into operational monitoring workflows.
           - Automated the detection of overdue accounts and potential fraud-risk reservations.
           - Improved financial oversight, mitigation speed, and internal control processes.
-
-      - name: Hotelandia.com Offer Management System
-        targets: [full, it]
-        summary: Multilingual hotel offers and campaign management platform for Hotel Andia.
-        highlights:
-          - Built with Sencha/ExtJS and MySQL for offer administration and customer-facing promotion.
-          - Supported multilingual publishing across seven languages plus mailing and calendar integration.
-          - Improved hotel marketing efficiency and customer engagement for campaigns and events.
-
-      - name: Ethernalia.com
-        targets: [full, it]
-        summary: Corporate web portal for a digital security and data protection company.
-        highlights:
-          - Developed the front-end portal using Zend Framework, MVC, SMARTY, jQuery, and GMaps API.
-          - Applied modular architecture and interactive UI components to improve maintainability and usability.
-          - Delivered a clearer and more engaging digital presence aligned with the company's services.
 
     skills:
       - label: AI, Machine Learning & Data Science
