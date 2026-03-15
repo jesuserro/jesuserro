@@ -60,9 +60,9 @@ def format_spanish_age(birth_date: date, today: date) -> str:
         months -= 1
 
     years, remaining_months = divmod(months, 12)
-    years_label = "año" if years == 1 else "años"
-    months_label = "mes" if remaining_months == 1 else "meses"
-    return f"{years} {years_label} y {remaining_months} {months_label}"
+    years_label = "year" if years == 1 else "years"
+    months_label = "month" if remaining_months == 1 else "months"
+    return f"({years} {years_label} & {remaining_months} {months_label})"
 
 
 def build_dynamic_env() -> dict[str, str]:
@@ -74,7 +74,7 @@ def build_dynamic_env() -> dict[str, str]:
     birth_date = parse_iso_date(birth_date_raw)
     age_text = format_spanish_age(birth_date, date.today())
     env["CV_AGE"] = age_text
-    env["CV_BIRTH_DATE_WITH_AGE"] = f"{birth_date_raw}, {age_text}"
+    env["CV_BIRTH_DATE_WITH_AGE"] = f"{birth_date_raw} {age_text}"
     return env
 
 
