@@ -462,26 +462,26 @@ cv:
     courses:
       - institution: Origen Corporation
         area: Generative Artificial Intelligence
-        degree: Professional Course
-        date: 2024
+        date: 2024-03
         targets: [full, it, it_core]
         highlights:
+          - Professional course
           - Associated with Centraldereservas.com
 
       - institution: IT Secrets Exposed
         area: IT Secrets Exposed
-        degree: Internal Training
-        date: 2024
+        date: 2018-02
         targets: [full, it, it_core]
         highlights:
+          - Internal training
           - Associated with Centraldereservas.com
 
       - institution: Kung Fullstack
         area: Full-Stack Development
-        degree: Professional Course
-        date: 2024
+        date: 2016-01
         targets: [full, it, it_core]
         highlights:
+          - Professional course
           - Associated with Centraldereservas.com
 
     skills:
