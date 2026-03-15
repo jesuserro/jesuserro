@@ -45,16 +45,15 @@ cv:
         targets: [full, mechanics]
 
     experience:
-      - company: Centraldereservas.com
+      - company: "[Centraldereservas.com | Travel Agency & Booking Platform](https://www.centraldereservas.com/)"
         position: Former IT Developer
         start_date: 2006-04
         end_date: 2024-08
         location: 📍 [Zarazoza, Spain](https://maps.app.goo.gl/JiFgP4i67NAjnnkT8)
         targets: [full, it, it_core]
         highlights:
-          - Website https://www.centraldereservas.com/
-          - Led the development and maintenance of critical systems supporting travel reservations, client and provider records, and automated mailing.
-          - Built and improved internal platforms for affiliate management, hotel offers, wholesale travel deals, and debt management.
+          - Led the development and maintenance of systems supporting travel reservations, client and provider records, and automated mailing.
+          - Built and improved internal platforms for mappings, affiliate management, locations, hotel offers, wholesale travel deals, and debt management.
           - Developed a travel guide application to generate personalized PDF guides for travelers.
           - Contributed to WordPress-based internal communication tools and SEO-oriented travel content platforms.
           - Worked across front-end and back-end stacks to improve reliability, scalability, and day-to-day operational efficiency.
@@ -96,7 +95,7 @@ cv:
         position: Front/Back-end Developer
         start_date: 2003-08
         end_date: 2010-08
-        location: Orcoyen, Navarra, España
+        location: 📍 [Orcoyen, Navarre](https://maps.app.goo.gl/zLMoHjBVDvFsnej88)
         targets: [full, it, it_core]
         highlights:
           - Website https://www.hotelandia.com/
@@ -119,7 +118,7 @@ cv:
         position: Front/Back-end Developer
         start_date: 2008-02
         end_date: 2010-02
-        location: Zamudio, Bizkaia, España
+        location: 📍 [Zamudio, Bizkaia](https://maps.app.goo.gl/iXMW7dYmV2KNeRMN7)
         targets: [full, it, it_core]
         highlights:
           - Website https://www.linkedin.com/company/ethernalia-regcom-s.l./about/
@@ -130,7 +129,7 @@ cv:
         position: IT Intern
         start_date: 2003-02
         end_date: 2003-10
-        location: Villava, Navarra, España
+        location: 📍 [Huarte, Navarre](https://maps.app.goo.gl/sf8tYDWT1LGujKQT9)
         targets: [full, it, it_core, ita]
         highlights:
           - Website https://tecnologicaccs.com/cima/
@@ -171,42 +170,42 @@ cv:
           - Worked on seed quality control and packaging operations in an agricultural production environment.
 
     education:
-      - institution: Ironhack
+      - institution: "[Ironhack](https://www.ironhack.com/)"
         area: Data Analytics, Machine Learning, NLP, Experimentation, and Data Processing
         degree: Bootcamp
-        location: Madrid, Spain
+        location: 📍 [Madrid, Spain](https://maps.app.goo.gl/62fij2a5ttbirvfr8)
         start_date: 2025-01
         end_date: 2025-04
         targets: [full, it, it_core]
 
-      - institution: CEIN Software Factory
+      - institution: "[CEIN Software Factory](https://www.cein.es/)"
         area: Web Development and Programming
         degree: Course
-        location: Noáin, Navarre, Spain
+        location: 📍 [Noáin, Navarre](https://maps.app.goo.gl/rba9Q2AFexiHsUfy6)
         start_date: 2002-02
         end_date: 2002-12
         targets: [full, it, it_core]
 
-      - institution: Public University of Navarre (UPNA)
+      - institution: "[Public University of Navarre (UPNA)](https://www.unavarra.es/)"
         area: Horticulture and Gardening
         degree: Dip.
-        location: Pamplona, Navarre, Spain
+        location: 📍 [Pamplona, Navarre](https://maps.app.goo.gl/ngm7Rerp5h8U2TWJ9)
         start_date: 1995
         end_date: 1999
         targets: [full, it, it_core, ita, mechanics]
 
-      - institution: Salesianos Polytechnic Institute
+      - institution: "[Salesianos Polytechnic Institute](https://salesianospamplona.es/)"
         area: Machine Tools
         degree: VET-2
-        location: Pamplona, Navarre, Spain
+        location: 📍 [Sarriguren, Navarre](https://maps.app.goo.gl/BNEWdkaKUsJTyYL5A)
         start_date: 1993
         end_date: 1994
         targets: [full, ita, mechanics]
 
-      - institution: San Ignacio School, Jesuits
+      - institution: "[San Ignacio School, Jesuits](https://www.jesuitaspamplona.org/)"
         area: Engineering Sciences
         degree: Bacc.
-        location: Pamplona, Navarre, Spain
+        location: 📍 [Pamplona, Navarre](https://maps.app.goo.gl/WxiEhnBWAiZC4i8C7)
         start_date: 1981
         end_date: 1992
         targets: [full, it, it_core, ita, mechanics]
