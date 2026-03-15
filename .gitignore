@@ -8,16 +8,12 @@ composer.phar
 # You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
 # composer.lock
 
-# RenderCV: Ignorar plantillas de ejemplo iniciales
-classic/
-markdown/
-
 # RenderCV: Ignorar carpeta de salida (donde se generan los PDFs)
-rendercv_output/
+cv/rendercv_output/
+cv/generated/
 
 # Entorno virtual
 .venv/
 __pycache__/
 
-cv/Jesus_Erro_CV.yaml
 images/JesusErro_400.jpg
