@@ -49,7 +49,7 @@ cv:
         position: Former IT Developer
         start_date: 2006-04
         end_date: 2024-08
-        location: Aínsa, Huesca, España
+        location: 📍 [Zarazoza, Spain](https://maps.app.goo.gl/JiFgP4i67NAjnnkT8)
         targets: [full, it, it_core]
         highlights:
           - Website https://www.centraldereservas.com/
@@ -107,7 +107,7 @@ cv:
         position: CAD/CAM and Machining Operator
         start_date: 2003-11
         end_date: 2005-03
-        location: Navarra, España
+        location: 📍 [Berriozar, Navarre](https://maps.app.goo.gl/u5FhNRW2BE1ALR8j7)
         targets: [full, mechanics]
         highlights:
           - Website https://nubermecanizados.es/
@@ -163,13 +163,12 @@ cv:
         position: Agricultural Machinery, Silos and Seed Quality Operator
         start_date: 1999-09
         end_date: 2000-03
-        location: Elorz, Navarra, España
+        location: 📍 [Elorz, Navarre](https://maps.app.goo.gl/vodMxSANJ2zn7Mrc7)
         targets: [full, ita, mechanics]
         highlights:
           - Website https://www.lgseeds.es/
           - Performed maintenance tasks on agricultural machinery and silos.
           - Worked on seed quality control and packaging operations in an agricultural production environment.
-          - "Address: Elorz, Navarra"
 
     education:
       - institution: Ironhack
