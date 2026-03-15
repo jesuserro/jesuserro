@@ -459,6 +459,31 @@ cv:
           - Automated the detection of overdue accounts and potential fraud-risk reservations.
           - Improved financial oversight, mitigation speed, and internal control processes.
 
+    courses:
+      - institution: Origen Corporation
+        area: Generative Artificial Intelligence
+        degree: Professional Course
+        date: 2024
+        targets: [full, it, it_core]
+        highlights:
+          - Associated with Centraldereservas.com
+
+      - institution: IT Secrets Exposed
+        area: IT Secrets Exposed
+        degree: Internal Training
+        date: 2024
+        targets: [full, it, it_core]
+        highlights:
+          - Associated with Centraldereservas.com
+
+      - institution: Kung Fullstack
+        area: Full-Stack Development
+        degree: Professional Course
+        date: 2024
+        targets: [full, it, it_core]
+        highlights:
+          - Associated with Centraldereservas.com
+
     skills:
       - label: AI, Machine Learning & Data Science
         targets: [full, it, it_core]
