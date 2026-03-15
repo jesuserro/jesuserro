@@ -122,6 +122,7 @@ cv:
         location: Zamudio, Bizkaia, España
         targets: [full, it, it_core]
         highlights:
+          - Website https://www.linkedin.com/company/ethernalia-regcom-s.l./about/
           - Participated in the creation, development, and maintenance of the corporate website for a digital security and data protection company.
           - Helped build a clear, informative, and user-friendly online presence aligned with the company's services.
 
@@ -132,6 +133,7 @@ cv:
         location: Villava, Navarra, España
         targets: [full, it, it_core, ita]
         highlights:
+          - Website https://tecnologicaccs.com/cima/
           - Supported website creation, application testing and technical documentation tasks at the start of his professional career.
           - Contributed to the development of written content for a small book on viticulture and oenology.
 
@@ -153,9 +155,9 @@ cv:
         location: Imarcoain, Navarra, España
         targets: [full, mechanics]
         highlights:
+          - Website https://www.jgoniehijos.com/
           - Maintained and assembled pallets for industrial use.
           - Supported day-to-day workshop tasks linked to repair, preparation, and delivery of pallet stock.
-          - "Address: Imarcoain, Navarra"
 
       - company: Limagrain Iberica (Senasa)
         position: Agricultural Machinery, Silos and Seed Quality Operator

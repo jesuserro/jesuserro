@@ -25,8 +25,10 @@ OUTPUT_FILES = {
     "mechanics": GENERATED_DIR / "jesus_erro_cv_mechanics.yaml",
 }
 ENV_PATTERN = re.compile(r"\$\{([A-Z0-9_]+)\}")
+URL_PATTERN = re.compile(r"https?://[^\s)\]>]+")
 HELPER_KEYS = {"targets"}
 LEGACY_CV_DIR = ROOT / "cv"
+TEXT_FIELD_KEYS = {"summary", "highlights", "text"}
 
 
 def parse_args() -> argparse.Namespace:
@@ -95,6 +97,43 @@ def substitute_env(value, env: dict[str, str]):
     return value
 
 
+def linkify_text(text: str) -> str:
+    markdown_link_pattern = re.compile(r"\[[^\]]+\]\(https?://[^)]+\)")
+    parts: list[str] = []
+    cursor = 0
+
+    for match in markdown_link_pattern.finditer(text):
+        parts.append(_linkify_plain_text_segment(text[cursor : match.start()]))
+        parts.append(match.group(0))
+        cursor = match.end()
+
+    parts.append(_linkify_plain_text_segment(text[cursor:]))
+    return "".join(parts)
+
+
+def _linkify_plain_text_segment(text: str) -> str:
+    def replace(match: re.Match[str]) -> str:
+        url = match.group(0)
+        stripped_url = url.rstrip(".,;:")
+        trailing = url[len(stripped_url) :]
+        return f"[{stripped_url}]({stripped_url}){trailing}"
+
+    return URL_PATTERN.sub(replace, text)
+
+
+def linkify_text_fields(value, key: str | None = None):
+    if isinstance(value, dict):
+        return {
+            item_key: linkify_text_fields(item_value, item_key)
+            for item_key, item_value in value.items()
+        }
+    if isinstance(value, list):
+        return [linkify_text_fields(item, key) for item in value]
+    if isinstance(value, str) and key in TEXT_FIELD_KEYS:
+        return linkify_text(value)
+    return value
+
+
 def resolve_relative_asset(path_value: str, target_dir: Path) -> str:
     if not path_value or "://" in path_value:
         return path_value
@@ -136,6 +175,7 @@ def strip_helper_fields(entry):
 
 def build_variant(master: dict, variant: str) -> dict:
     rendered = substitute_env(copy.deepcopy(master), build_dynamic_env())
+    rendered = linkify_text_fields(rendered)
     variant_meta = rendered.get("meta", {}).get("variants", {}).get(variant, {})
     cv = rendered["cv"]
     cv["headline"] = variant_meta.get("headline", cv.get("headline"))
