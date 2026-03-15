@@ -19,19 +19,34 @@ Estructura recomendada del proyecto:
 ├── .gitignore
 ├── render.sh
 └── cv/
-    ├── Jesus_Erro_CV.template.yaml
-    └── Jesus_Erro_CV.yaml
+    ├── master/
+    │   └── jesus_erro_cv_master.yaml
+    ├── generated/
+    │   ├── jesus_erro_cv_full.yaml
+    │   ├── jesus_erro_cv_it.yaml
+    │   ├── jesus_erro_cv_ita.yaml
+    │   └── jesus_erro_cv_mechanics.yaml
+    ├── config/
+    │   ├── design.yaml
+    │   ├── locale.yaml
+    │   └── settings.yaml
+    └── rendercv_output/
+        ├── full/
+        ├── it/
+        ├── ita/
+        └── mechanics/
 ```
 
 Qué va a Git:
 - `.sops.yaml`
 - `.env.enc`
 - `render.sh`
-- `cv/Jesus_Erro_CV.template.yaml`
+- `cv/master/jesus_erro_cv_master.yaml`
+- `cv/generated/*.yaml`
+- `cv/config/*.yaml`
 
 Qué NO va a Git:
 - `.env`
-- `cv/Jesus_Erro_CV.yaml`
 - `~/.config/sops/age/keys.txt`
 
 ## 3. Instalación
@@ -183,7 +198,7 @@ porque SOPS intentará leerlo como JSON/YAML y dará error.
 
 Tu plantilla debe usar variables:
 
-`cv/Jesus_Erro_CV.template.yaml`
+`cv/master/jesus_erro_cv_master.yaml`
 
 ```yaml
 cv:
@@ -213,12 +228,18 @@ cat > render.sh <<'EOF'
 #!/usr/bin/env bash
 set -euo pipefail
 
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
 set -a
-source <(sops --decrypt --input-type dotenv --output-type dotenv .env.enc)
+source <(sops --decrypt --input-type dotenv --output-type dotenv "$ROOT_DIR/.env.enc")
 set +a
 
-envsubst < cv/Your_Name_CV.template.yaml > cv/Your_Name.yaml
-rendercv render cv/Your_Name_CV.yaml
+python3 "$ROOT_DIR/scripts/build_cv_variants.py"
+.venv/bin/rendercv render "$ROOT_DIR/cv/generated/jesus_erro_cv_full.yaml" \
+  --design "$ROOT_DIR/cv/config/design.yaml" \
+  --locale-catalog "$ROOT_DIR/cv/config/locale.yaml" \
+  --settings "$ROOT_DIR/cv/config/settings.yaml" \
+  --output-folder "$ROOT_DIR/cv/rendercv_output/full"
 EOF
 ```
 
@@ -236,14 +257,14 @@ chmod +x render.sh
 
 Esto hace tres cosas:
 1. Descifra `.env.enc`
-2. Sustituye `${CV_EMAIL}`, `${CV_PHONE}`, etc. con `envsubst`
-3. Ejecuta `rendercv render` sobre el YAML final
+2. Genera los YAML finales desde `cv/master/jesus_erro_cv_master.yaml`
+3. Ejecuta `rendercv render` sobre cada variante
 
 ## 13. `.gitignore`
 
 ```gitignore
 .env
-cv/Jesus_Erro_CV.yaml
+cv/rendercv_output/
 ```
 
 ## 14. Comandos de uso diario

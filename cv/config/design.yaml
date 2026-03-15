@@ -1,0 +1,23 @@
+design:
+  theme: classic
+  page:
+    size: a4
+  colors:
+    name: rgb(0, 64, 128)
+    headline: rgb(0, 64, 128)
+    section_titles: rgb(0, 64, 128)
+    links: rgb(0, 64, 128)
+    connections: rgb(0, 64, 128)
+  typography:
+    font_family: Latin Modern Roman
+    font_size:
+      body: 10pt
+      headline: 10pt
+      connections: 10pt
+      section_titles: 1.4em
+  links:
+    underline: false
+    show_external_link_icon: false
+  header:
+    connections:
+      phone_number_format: international
