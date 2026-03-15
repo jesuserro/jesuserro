@@ -29,7 +29,7 @@ cv:
       fontawesome_icon: goodreads
   sections:
     summary:
-      - text: Born on ${CV_BIRTH_DATE} (${CV_LOCATION})
+      - text: Born on ${CV_BIRTH_DATE_WITH_AGE}, (${CV_LOCATION})
         targets: [full, it, ita, mechanics]
       - text: Full-stack and backend developer with 25+ years of experience building and maintaining business-critical software systems, internal tools, and customer-facing platforms.
         targets: [full, it]

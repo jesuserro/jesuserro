@@ -7,6 +7,7 @@ import argparse
 import copy
 import os
 import re
+from datetime import date
 from pathlib import Path
 
 import yaml
@@ -43,17 +44,51 @@ def load_master() -> dict:
         return yaml.safe_load(handle)
 
 
-def substitute_env(value):
+def parse_iso_date(value: str) -> date:
+    try:
+        return date.fromisoformat(value)
+    except ValueError as exc:
+        raise ValueError(
+            "CV_BIRTH_DATE must use ISO format YYYY-MM-DD "
+            f"(received: {value!r})"
+        ) from exc
+
+
+def format_spanish_age(birth_date: date, today: date) -> str:
+    months = (today.year - birth_date.year) * 12 + (today.month - birth_date.month)
+    if today.day < birth_date.day:
+        months -= 1
+
+    years, remaining_months = divmod(months, 12)
+    years_label = "año" if years == 1 else "años"
+    months_label = "mes" if remaining_months == 1 else "meses"
+    return f"{years} {years_label} y {remaining_months} {months_label}"
+
+
+def build_dynamic_env() -> dict[str, str]:
+    env = dict(os.environ)
+    birth_date_raw = env.get("CV_BIRTH_DATE")
+    if not birth_date_raw:
+        return env
+
+    birth_date = parse_iso_date(birth_date_raw)
+    age_text = format_spanish_age(birth_date, date.today())
+    env["CV_AGE"] = age_text
+    env["CV_BIRTH_DATE_WITH_AGE"] = f"{birth_date_raw}, {age_text}"
+    return env
+
+
+def substitute_env(value, env: dict[str, str]):
     if isinstance(value, dict):
-        return {key: substitute_env(item) for key, item in value.items()}
+        return {key: substitute_env(item, env) for key, item in value.items()}
     if isinstance(value, list):
-        return [substitute_env(item) for item in value]
+        return [substitute_env(item, env) for item in value]
     if isinstance(value, str):
         def replace(match: re.Match[str]) -> str:
             name = match.group(1)
-            if name not in os.environ:
+            if name not in env:
                 raise KeyError(f"Missing environment variable: {name}")
-            return os.environ[name]
+            return env[name]
 
         return ENV_PATTERN.sub(replace, value)
     return value
@@ -99,7 +134,7 @@ def strip_helper_fields(entry):
 
 
 def build_variant(master: dict, variant: str) -> dict:
-    rendered = substitute_env(copy.deepcopy(master))
+    rendered = substitute_env(copy.deepcopy(master), build_dynamic_env())
     variant_meta = rendered.get("meta", {}).get("variants", {}).get(variant, {})
     cv = rendered["cv"]
     cv["headline"] = variant_meta.get("headline", cv.get("headline"))
