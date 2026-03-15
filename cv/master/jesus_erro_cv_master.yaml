@@ -450,29 +450,35 @@ cv:
           - Improved financial oversight, mitigation speed, and internal control processes.
 
     courses:
-      - institution: Origen Corporation
-        area: Generative Artificial Intelligence
-        date: 2024-03
+      - institution: "Origen Corp. | [Origen.bio](https://origen.bio/)"
+        area: Generative AI for Coding, Automation, and Content Workflows
+        location: 📍 [Zaragoza, Spain](https://maps.app.goo.gl/mv8we3bfpy7VHVnT6)
+        start_date: 2024-03
+        end_date: 2024-04
         targets: [full, it, it_core]
         highlights:
-          - Professional course
-          - Associated with Centraldereservas.com
-
-      - institution: IT Secrets Exposed
-        area: IT Secrets Exposed
-        date: 2018-02
-        targets: [full, it, it_core]
-        highlights:
-          - Internal training
-          - Associated with Centraldereservas.com
+          - Professional course.
+          - Applied generative AI to coding assistance, process automation, meeting transcription and summaries, and AI image workflows.
+          - Associated with Centraldereservas.com.
 
       - institution: Kung Fullstack
         area: Full-Stack Development
-        date: 2016-01
+        date: 2018-05
         targets: [full, it, it_core]
         highlights:
-          - Professional course
-          - Associated with Centraldereservas.com
+          - Professional course.
+          - Covered end-to-end web development concepts and practical full-stack implementation.
+          - Associated with Centraldereservas.com.
+
+      - institution: IT Secrets Exposed | [Antoniojerez.com](https://www.antoniojerez.com/)
+        area: Backend Automation, Concurrency and Testing
+        location: "📍 [Zaragoza, Spain](https://maps.app.goo.gl/JiFgP4i67NAjnnkT8)"
+        date: 2016-02
+        targets: [full, it, it_core]
+        highlights:
+          - Internal training.
+          - Focused on AWS, Redis, threads, background jobs, workers, automation, and testing practices.
+          - Associated with Centraldereservas.com.
 
     skills:
       - label: AI, Machine Learning & Data Science
