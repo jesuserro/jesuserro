@@ -49,15 +49,13 @@ cv:
         position: _Former IT Developer_
         start_date: 2006-04
         end_date: 2024-08
-        location: 📍 [Zarazoza, Spain](https://maps.app.goo.gl/JiFgP4i67NAjnnkT8)
+        location: "📍 [Zaragoza, Spain](https://maps.app.goo.gl/JiFgP4i67NAjnnkT8)"
         targets: [full, it, it_core]
         highlights:
-          - Led the development and maintenance of systems supporting travel reservations, client and provider records, and automated mailing.
-          - Built and improved internal platforms for mappings, affiliate management, locations, hotel offers, wholesale travel deals, and debt management.
-          - Developed a travel guide application to generate personalized PDF guides for travelers.
-          - Contributed to WordPress-based internal communication tools and SEO-oriented travel content platforms.
-          - Worked across front-end and back-end stacks to improve reliability, scalability, and day-to-day operational efficiency.
-
+          - Led the development and maintenance of core systems for a travel agency and booking platform.
+          - "Improved internal tools: wholesale offer mappings, hotel room and board mappings, locations and geographic entities, reservation management (NewGestion), customer reservation mailings, affiliate management, debt control, travel guides, and blogs."
+          - Strengthened the day-to-day operation of reservation workflows by improving the systems behind bookings, customer and supplier records, and automated communications.
+      
       - company: "Remember Me/Memory System | [Remem.me](https://www.remem.me/es/)"
         position: _Software Programmer_
         start_date: 2021-09
