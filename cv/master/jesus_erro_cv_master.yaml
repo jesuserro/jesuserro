@@ -202,7 +202,7 @@ cv:
         targets: [full, it, it_core, ita, mechanics]
 
     projects:
-      - name: AI-Powered Dotfiles
+      - name: "AI-Powered Dotfiles | [GitHub: jesuserro/dotfiles](https://github.com/jesuserro/dotfiles)"
         start_date: 2026-01
         targets: [full, it, it_core]
         summary: AI-augmented developer workstation built as code for reusable, secure, and production-oriented engineering workflows. Repository https://github.com/jesuserro/dotfiles
@@ -211,151 +211,141 @@ cv:
           - "**Context:** Built a dotfiles repository combining MCP-based AI assistants, reusable agent skills, and declarative workstation setup with Chezmoi, SOPS, and Age."
           - "**Result:** Created `developer environment as code` for infrastructure, traceability, observability, automation, and AI-assisted workflows."
 
-      - name: Automated Books Pipeline | Medallion MDM ETL
+      - name: "Automated Books Pipeline | Medallion MDM ETL | [GitHub: jesuserro/books-etl-pipeline](https://github.com/jesuserro/books-etl-pipeline)"
         start_date: 2025-04
         targets: [full, it, it_core]
-        summary: Modern books data platform for multi-source ingestion, enrichment, and serving using incremental ETL and lakehouse architecture. Repository https://github.com/jesuserro/books-etl-pipeline
+        summary: Modern books data platform for multi-source ingestion, enrichment, and serving using incremental ETL and lakehouse architecture.
         highlights:
           - "**Action:** Designed and developed a modern books data platform to ingest, enrich, and serve multi-source book data through incremental pipelines and lakehouse-based architecture."
           - "**Context:** Built with Python and Dagster using a medallion model (RAW -> SRC -> MDM -> GOLD), Apache Iceberg, PostgreSQL, Trino, FastAPI, and observability tooling including OpenTelemetry, Prometheus, and Grafana."
           - "**Result:** Created a more traceable, maintainable, and scalable data platform with reliable identity resolution, reproducible transformations, and production-style data engineering practices."
 
-      - name: BiblioNLP
+      - name: "BiblioNLP | [GitHub: jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search](https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search)"
         date: 2025-04
         targets: [full, it, it_core]
-        summary: AI-powered NLP platform for automatic tagging, sentiment analysis, clustering, and semantic recommendation of books. Repository https://github.com/jesuserro/BiblioNLP-Automatic-Tagging-Semantic-Book-Search
+        summary: AI-powered NLP platform for automatic tagging, sentiment analysis, clustering, and semantic recommendation of books.
         highlights:
           - "**Action:** Built multilabel tagging pipelines with SentenceTransformers and Logistic Regression."
           - "**Context:** Applied VADER and RoBERTa models for sentiment and emotion analysis on book descriptions."
           - "**Result:** Developed semantic discovery workflows with Streamlit, TensorFlow, Keras, and clustering techniques."
 
-      - name: DeepVision
+      - name: "DeepVision | [GitHub: jesuserro/deep-vision-cnn-image-classification-mnist](https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist)"
         date: 2025-04
         targets: [full, it, it_core]
-        summary: Deep learning image classification project using custom CNN architectures on the MNIST dataset. Repository https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist
+        summary: Deep learning image classification project using custom CNN architectures on the MNIST dataset.
         highlights:
           - "**Action:** Designed and trained CNN models with TensorFlow and Keras for handwritten digit classification."
           - "**Context:** Evaluated performance through confusion matrices, loss/accuracy curves, and misclassification analysis."
           - "**Result:** Validated model generalization on unseen image inputs beyond the standard dataset."
 
-      - name: Weather Prediction with Random Forest
+      - name: "Weather Prediction with Random Forest | [GitHub: jesuserro/weather-prediction-machine-learning](https://github.com/jesuserro/weather-prediction-machine-learning)"
         date: 2025-03
         targets: [full, it]
-        summary: Machine learning project to classify weather types and predict precipitation using ensemble methods. Repository https://github.com/jesuserro/weather-prediction-machine-learning
+        summary: Machine learning project to classify weather types and predict precipitation using ensemble methods.
         highlights:
           - "**Action:** Trained and compared Random Forest, KNN, and Gradient Boosting models on a Kaggle weather dataset."
           - "**Context:** Evaluated performance through confusion matrices, loss/accuracy curves, and misclassification analysis."
           - "**Result:** Validated model generalization on unseen image inputs beyond the standard dataset."
 
-      - name: Retail Store Sales Forecasting Pipeline
+      - name: "Retail Store Sales Forecasting Pipeline | [GitHub: jesuserro/ml-retail-sales-predictor](https://github.com/jesuserro/ml-retail-sales-predictor)"
         date: 2025-03
         targets: [full, it, it_core]
-        summary: End-to-end machine learning pipeline for predicting retail store sales with automated reporting. Repository https://github.com/jesuserro/ml-retail-sales-predictor
+        summary: End-to-end machine learning pipeline for predicting retail store sales with automated reporting.
         highlights:
           - "**Action:** Built a full workflow covering preprocessing, XGBoost model training, evaluation, and prediction generation."
           - "**Context:** Used Python, scikit-learn, XGBoost, Matplotlib, Jinja2, and WeasyPrint for a portable deployment-ready solution."
           - "**Result:** Automated HTML and PDF reports with embedded visualizations, metrics, and feature importance analysis."
 
-      - name: Vanguard A/B Test Analysis
+      - name: "Vanguard A/B Test Analysis | [GitHub: jesuserro/ab-testing-ui-redesign-vanguard](https://github.com/jesuserro/ab-testing-ui-redesign-vanguard)"    
         date: 2025-03
         targets: [full, it, it_core]
-        summary: Data analysis project evaluating the impact of a redesigned user interface on customer experience and completion outcomes. Repository https://github.com/jesuserro/ab-testing-ui-redesign-vanguard
+        summary: Data analysis project evaluating the impact of a redesigned user interface on customer experience and completion outcomes.
         highlights:
           - "**Action:** Conducted data cleaning, exploratory analysis, hypothesis testing, and KPI design."
           - "**Context:** Measured Completion Rate, Cost-Effectiveness, and Time to Complete across control and test groups."
           - "**Result:** Built Tableau dashboards and presented findings and recommendations to stakeholders."
 
-      - name: Oscar Trends Analysis
+      - name: "Oscar Trends Analysis | [GitHub: jesuserro/oscars-data-insights-96-years](https://github.com/jesuserro/oscars-data-insights-96-years)"
         date: 2025-02
         targets: [full, it]
-        summary: Collaborative analytics project exploring historical patterns behind Oscar wins from 1928 to 2024. Repository https://github.com/jesuserro/oscars-data-insights-96-years
+        summary: Collaborative analytics project exploring historical patterns behind Oscar wins from 1928 to 2024.
         highlights:
           - "**Action:** Analyzed nationality, race, age, directors, budgets, and box office variables."
           - "**Context:** Combined web scraping, CSV processing, Excel analysis, and storytelling techniques."
           - "**Result:** Produced insight-driven narratives linking film industry variables to award outcomes."
 
-      - name: Goodreads Author Talent Analysis
+      - name: "Goodreads Author Talent Analysis | [GitHub: jesuserro/goodreads-author-talent-analysis](https://github.com/jesuserro/goodreads-author-talent-analysis)"
         date: 2025-02
         targets: [full, it]
-        summary: SQL and Python data project analyzing Goodreads authors and books to identify patterns in visibility and engagement. Repository https://github.com/jesuserro/goodreads-author-talent-analysis
+        summary: SQL and Python data project analyzing Goodreads authors and books to identify patterns in visibility and engagement.
         highlights:
           - "**Action:** Explored ratings, reviews, fan counts, genres, birth-decade trends, and geolocation data."
           - "**Context:** Used SQL for extraction and Python with Matplotlib and Seaborn for cleaning and visualization."
           - "**Result:** Turned structured literary data into clear analytical storytelling and insights."
 
-      - name: Escape Room CLI Game
+      - name: "Escape Room CLI Game | [GitHub: jesuserro/escape-room-game-python](https://github.com/jesuserro/escape-room-game-python)"
         date: 2025-02
         targets: [full, it]
-        summary: Console-based Python mini-game with object-oriented architecture and real-time countdown mechanics. Repository https://github.com/jesuserro/escape-room-game-python
+        summary: Console-based Python mini-game with object-oriented architecture and real-time countdown mechanics.
         highlights:
           - "**Action:** Built gameplay around room exploration, item collection, puzzle solving, and timed progression."
           - "**Context:** Implemented concurrency for countdown behavior and modular design for maintainability."
           - "**Result:** Combined logic, timing, and user flow into an immersive command-line experience."
 
-      - name: Shark Attack Data Analysis
+      - name: "Shark Attack Data Analysis | [GitHub: jesuserro/shark-attack-exploratory-data-analysis](https://github.com/jesuserro/shark-attack-exploratory-data-analysis)"
         date: 2025-02
         targets: [full, it]
-        summary: Exploratory data analysis project on global shark attack records to identify trends and risk patterns. Repository https://github.com/jesuserro/shark-attack-exploratory-data-analysis
+        summary: Exploratory data analysis project on global shark attack records to identify trends and risk patterns.
         highlights:
           - "**Action:** Used Python, pandas, Matplotlib, and Seaborn for cleaning, visualization, and temporal analysis."
           - "**Context:** Explored geographic, behavioral, and time-based patterns in incident data."
           - "**Result:** Produced a clearer evidence-based view of when and where shark attacks occur."
 
-      - name: LivingScripture
+      - name: "LivingScripture | [GitHub: jesuserro/LivingScripture](https://github.com/jesuserro/LivingScripture)"
         start_date: 2024-10
         end_date: 2024-12
         targets: [full, it]
-        summary: Cross-platform personal note management application for Android and Windows built with .NET MAUI and .NET 8. Repository https://github.com/jesuserro/LivingScripture (private)
+        summary: Cross-platform personal note management application for Android and Windows built with .NET MAUI and .NET 8.
         highlights:
           - "**Action:** Designed a note management app with calendar navigation, timeline view, map view, media handling, and Markdown support."
           - "**Context:** Applied MVVM architecture with SQLite for responsive and structured local storage."
           - "**Result:** Planned extensible support for cloud sync, authentication, reminders, and import/export workflows."
 
-      - name: ObsiGen
+      - name: "ObsiGen | [GitHub: jesuserro/obsigen](https://github.com/jesuserro/obsigen)"
         start_date: 2023-06
         end_date: 2024-09
         targets: [full, it, it_core]
-        summary: Obsidian plugin for generating structured notes such as daily notes, anniversaries, memorable moments, and captured content. Repository https://github.com/jesuserro/obsigen
+        summary: Obsidian plugin for generating structured notes such as daily notes, anniversaries, memorable moments, and captured content.
         highlights:
           - "**Action:** Built Obsidian plugin for generating structured notes such as daily notes, anniversaries, memorable moments, and captured content."
           - "**Context:** Using React, TypeScript, and Node.js to create modular developer-friendly components."
           - "**Result:** Extended the Obsidian ecosystem with event-oriented note creation and future calendar-based navigation."
 
-      - name: KindTocs
+      - name: "KindTocs | [GitHub: jesuserro/kindtocs](https://github.com/jesuserro/kindtocs)"
         start_date: 2021-11
         end_date: 2024-07
         targets: [full, it]
-        summary: Obsidian plugin to import Kindle highlights and notes and automatically generate structured Markdown outputs per book. Repository https://github.com/jesuserro/kindtocs
+        summary: Obsidian plugin to import Kindle highlights and notes and automatically generate structured Markdown outputs per book.
         highlights:
           - "**Action:** Generated book detail notes, highlight files, and table-of-contents indexes automatically."
           - "**Context:** Supported optional embedding of highlights inside chapter-based structures."
           - "**Result:** Simplified the integration of Kindle reading workflows into an Obsidian vault."
 
-      - name: Goodsidian
+      - name: "Goodsidian | [GitHub: jesuserro/goodsidian](https://github.com/jesuserro/goodsidian)"
         start_date: 2021-05
         end_date: 2024-03
         targets: [full, it]
-        summary: Desktop application to import Goodreads books, reviews, and author data into Obsidian as Markdown notes. Repository https://github.com/jesuserro/goodsidian
+        summary: Desktop application to import Goodreads books, reviews, and author data into Obsidian as Markdown notes.
         highlights:
           - "**Action:** Automated the transformation of Goodreads content into reusable knowledge notes."
           - "**Context:** Preserved rich metadata for books, reviews, and authors inside an Obsidian vault."
           - "**Result:** Improved organization and retrieval of literary references and reading history."
 
-      - name: Libricos.com
-        start_date: 2020-04
-        end_date: 2021-07
-        targets: [full, it, it_core]
-        summary: eCommerce and content platform focused on curated book reviews and Amazon Affiliate book sales.
-        highlights:
-          - "**Action:** Combined literary review content with direct product links to improve book discovery and conversion."
-          - "**Context:** Integrated content, SEO, analytics, and affiliate-oriented workflows."
-          - "**Result:** Improved book discovery and conversion through curated review content and direct product links."
-
-      - name: Kindle to Obsidian Plugin
+      - name: "Kindle to Obsidian Plugin | [GitHub: jesuserro/kindle-to-markdown](https://github.com/jesuserro/kindle-to-markdown)"
         start_date: 2020-04
         end_date: 2021-11
         targets: [full, it]
-        summary: Plugin to import Kindle highlights and notes as Markdown notes in Obsidian. Repository https://github.com/jesuserro/kindle-to-markdown
+        summary: Plugin to import Kindle highlights and notes as Markdown notes in Obsidian.
         highlights:
           - "**Action:** Built ObsidianMD plugin to import Kindle highlights and notes as Markdown notes in Obsidian."
           - "**Context:** Used React, TypeScript, and Node.js to create modular developer-friendly components."
