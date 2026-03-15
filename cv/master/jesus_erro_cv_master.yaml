@@ -30,7 +30,7 @@ cv:
   sections:
     summary:
       - text: Born on ${CV_BIRTH_DATE} (${CV_LOCATION})
-        targets: [full]
+        targets: [full, it, ita, mechanics]
       - text: Full-stack and backend developer with 25+ years of experience building and maintaining business-critical software systems, internal tools, and customer-facing platforms.
         targets: [full, it]
       - text: Currently focused on Data Engineering and Machine Learning, designing traceable ETL pipelines and analytical workflows with Docker, Apache Airflow, Liquibase, Grafana, Python, and SQL.
@@ -38,13 +38,13 @@ cv:
       - text: Strong background in scalable software design, automation, observability, and data-driven problem solving across web, analytics, and productivity-focused applications.
         targets: [full, it]
       - text: Agricultural engineering graduate with later experience in technical systems, documentation, process design, and reliable day-to-day operations across complex business environments.
-        targets: [ita]
+        targets: [full,ita]
       - text: Combines agronomic academic training with long-term professional work in software platforms, internal tools, technical documentation, and cross-functional delivery.
-        targets: [ita]
+        targets: [full,ita]
       - text: Technical profile oriented to structured work, problem solving, documentation, and operational reliability in demanding environments.
-        targets: [mechanics]
+        targets: [full, mechanics]
       - text: Extensive experience supporting business-critical systems, process improvements, quality-focused delivery, and maintenance-minded technical work.
-        targets: [mechanics]
+        targets: [full, mechanics]
 
     experience:
       - company: Centraldereservas.com
@@ -110,7 +110,7 @@ cv:
         start_date: 2008-02
         end_date: 2010-02
         location: Zamudio, Bizkaia, España
-        targets: [full, it, mechanics]
+        targets: [full, it]
         highlights:
           - Participated in the creation, development, and maintenance of the corporate website for a digital security and data protection company.
           - Helped build a clear, informative, and user-friendly online presence aligned with the company's services.
@@ -140,7 +140,7 @@ cv:
         location: Pamplona, Navarra, España
         start_date: 1995
         end_date: 1999
-        targets: [full, ita]
+        targets: [full, it, ita]
 
       - institution: Instituto Politécnico Salesiano
         area: Máquina Herramienta
@@ -156,7 +156,7 @@ cv:
         location: Pamplona, Navarra, España
         start_date: 1981
         end_date: 1992
-        targets: [full, ita, mechanics]
+        targets: [full, it, ita, mechanics]
 
     projects:
       - name: AI-Powered Dotfiles | Developer Environment as Code
@@ -319,7 +319,7 @@ cv:
           - "**Result:** Saving Kindle highlights and notes as Markdown notes in Obsidian."
 
       - name: Hotel Offers Content Management System
-        targets: [full, it, ita, mechanics]
+        targets: [full, it]
         summary: Internal and public-facing platform for managing hotel offers and connecting users to reservation flows.
         highlights:
           - Designed a two-zone system with CRUD-based administrative management and public offer presentation.
@@ -327,7 +327,7 @@ cv:
           - Helped create a clearer and more efficient hotel offer lifecycle.
 
       - name: NGES (New Management System)
-        targets: [full, it, mechanics]
+        targets: [full, it, ita]
         summary: Internal back-office platform for accounting, reservations, and operational management at Centraldereservas.com.
         highlights:
           - Centralized workflows for invoices, files, tasks, payments, expenses, policies, mailing templates, and communications.
@@ -335,7 +335,7 @@ cv:
           - Improved efficiency and consistency across core internal operations.
 
       - name: Places/Locations Management System
-        targets: [full, it, ita, mechanics]
+        targets: [full, it, ita]
         summary: Platform for internal location management and public-facing destination discovery.
         highlights:
           - Designed a two-subsystem solution for CRUD-based location administration and public visualization.
@@ -343,7 +343,7 @@ cv:
           - Enhanced user exploration through clearer location discovery workflows.
 
       - name: Proprietary and Wholesale Offers Management System
-        targets: [full, it, ita, mechanics]
+        targets: [full, it]
         summary: Offers platform for creating proprietary hotel deals and mapping third-party offers to internal products.
         highlights:
           - Led analysis and design for offer creation, package management, and external offer mapping.
@@ -351,7 +351,7 @@ cv:
           - Expanded the company's ability to manage and present a wider range of commercial offers.
 
       - name: Affiliate Management System
-        targets: [full, it, mechanics]
+        targets: [full, it]
         summary: Partner operations and booking platform for managing affiliates and publishing affiliate offers.
         highlights:
           - Designed internal affiliate CRUD and performance management workflows.
@@ -367,7 +367,7 @@ cv:
           - Strengthened transparency, cohesion, and internal engagement.
 
       - name: Map Library for Portal and Reservation System
-        targets: [full, it, mechanics]
+        targets: [full, it]
         summary: Interactive geolocation component for hotel discovery across portal and booking environments.
         highlights:
           - Developed an object-oriented JavaScript map library using GMaps API and JSONP web services.
@@ -383,7 +383,7 @@ cv:
           - Strengthened online visibility and audience engagement through content marketing.
 
       - name: Travel Guide Management System
-        targets: [full, it, ita, mechanics]
+        targets: [full, it, ita]
         summary: Platform for generating, maintaining, and delivering personalized travel guides for clients.
         highlights:
           - Designed the system architecture and integrated the Guiomatic REST API for guide generation.
@@ -399,7 +399,7 @@ cv:
           - Supported the company's content-driven visibility in the travel sector.
 
       - name: Delinquency Management System
-        targets: [full, it, mechanics]
+        targets: [full, it]
         summary: Financial risk monitoring system for delinquent accounts and high-risk reservations.
         highlights:
           - Translated business-defined accounting rules into operational monitoring workflows.
@@ -407,7 +407,7 @@ cv:
           - Improved financial oversight, mitigation speed, and internal control processes.
 
       - name: Hotelandia.com Offer Management System
-        targets: [full, it, ita, mechanics]
+        targets: [full, it, ita]
         summary: Multilingual hotel offers and campaign management platform for Hotel Andia.
         highlights:
           - Built with Sencha/ExtJS and MySQL for offer administration and customer-facing promotion.
@@ -415,7 +415,7 @@ cv:
           - Improved hotel marketing efficiency and customer engagement for campaigns and events.
 
       - name: Ethernalia.com
-        targets: [full, it, mechanics]
+        targets: [full, it]
         summary: Corporate web portal for a digital security and data protection company.
         highlights:
           - Developed the front-end portal using Zend Framework, MVC, SMARTY, jQuery, and GMaps API.
@@ -440,15 +440,15 @@ cv:
         details: React, TypeScript, JavaScript, Node.js, Streamlit, FastAPI
 
       - label: Architecture & Engineering Practices
-        targets: [full, it, mechanics]
+        targets: [full, it]
         details: Data Platform Architecture, Modular Systems, API Design, Observability, Configuration as Code, Developer Tooling, TDD, DDD, Git
 
       - label: Legacy Web Technologies
-        targets: [full, it, mechanics]
+        targets: [full, it]
         details: PHP, Zend Framework, Sencha/ExtJS, MySQL, WordPress
 
       - label: Operations, Documentation & Delivery
-        targets: [full, ita, mechanics]
+        targets: [full, it]
         details: Technical Documentation, QoS Testing, Process Improvement, Cross-functional Delivery, Business-Critical Operations Support
 
       - label: Languages
