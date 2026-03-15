@@ -7,9 +7,9 @@ meta:
     it:
       headline: Senior Backend Developer | Data Engineering | Machine Learning
     ita:
-      headline: Agricultural Engineering Graduate | Technical Systems & Operations
+      headline: Agricultural Engineering | Horticulture, Irrigation & GIS
     mechanics:
-      headline: Technical Operations Profile | Quality, Processes & Systems Support
+      headline: Machining & Workshop Operations | CAD/CAM, CNC & Quality
 
 cv:
   name: ${CV_NAME}
@@ -24,9 +24,9 @@ cv:
     - network: LinkedIn
       username: jesuserro
   custom_connections:
-    - placeholder: Goodreads
+    - placeholder: What I'm Reading
       url: https://www.goodreads.com/user/show/40291334-jes-s-erro
-      fontawesome_icon: book
+      fontawesome_icon: goodreads
   sections:
     summary:
       - text: Born on ${CV_BIRTH_DATE} (${CV_LOCATION})
@@ -37,13 +37,11 @@ cv:
         targets: [full, it]
       - text: Strong background in scalable software design, automation, observability, and data-driven problem solving across web, analytics, and productivity-focused applications.
         targets: [full, it]
-      - text: Agricultural engineering graduate with later experience in technical systems, documentation, process design, and reliable day-to-day operations across complex business environments.
-        targets: [full,ita]
-      - text: Combines agronomic academic training with long-term professional work in software platforms, internal tools, technical documentation, and cross-functional delivery.
-        targets: [full,ita]
-      - text: Technical profile oriented to structured work, problem solving, documentation, and operational reliability in demanding environments.
+      - text: Agricultural engineering profile with training and hands-on experience in gardening, horticulture, greenhouse work, irrigation systems, garden maintenance, GIS, and watershed analysis with KINEROS.
+        targets: [full, ita]
+      - text: Technical profile in machining and workshop operations with hands-on experience in CAD/CAM, CNC, lathe, milling, grinding, and quality-focused industrial work.
         targets: [full, mechanics]
-      - text: Extensive experience supporting business-critical systems, process improvements, quality-focused delivery, and maintenance-minded technical work.
+      - text: Used to precision manufacturing environments, process discipline, machine setup support, and reliable execution of production and quality tasks.
         targets: [full, mechanics]
 
     experience:
@@ -52,7 +50,7 @@ cv:
         start_date: 2006-04
         end_date: 2024-08
         location: Aínsa, Huesca, España
-        targets: [full, it, ita, mechanics]
+        targets: [full, it]
         highlights:
           - Website https://www.centraldereservas.com/
           - Led the development and maintenance of critical systems supporting travel reservations, client and provider records, and automated mailing.
@@ -77,7 +75,7 @@ cv:
         start_date: 2020-04
         end_date: 2021-07
         location: Pamplona, Navarra, España
-        targets: [full, it, ita]
+        targets: [full, it]
         highlights:
           - Contributed to an online bookstore and content platform focused on Amazon book sales through literary reviews.
           - Helped curate engaging review content to connect readers with relevant books and improve discovery.
@@ -105,6 +103,18 @@ cv:
           - Focused primarily on front-end development for multilingual hotel offers and online presentation.
           - Collaborated with design teams to improve usability and website functionality across multiple languages.
 
+      - company: NUBER Diseños y Mecanizados
+        position: CAD/CAM and Machining Operator
+        start_date: 2003-11
+        end_date: 2005-03
+        location: Navarra, España
+        targets: [full, mechanics]
+        highlights:
+          - Website https://nubermecanizados.es/
+          - Worked on CAD/CAM-driven machining tasks in an industrial workshop environment.
+          - Operated and supported CNC production processes with a quality-oriented approach.
+          - Contributed to precision manufacturing work involving workshop planning, machining execution, and finishing control.
+
       - company: ETHERNALIA REGCOM S.L.
         position: Front/Back-end Developer
         start_date: 2008-02
@@ -120,10 +130,44 @@ cv:
         start_date: 2003-02
         end_date: 2003-10
         location: Villava, Navarra, España
-        targets: [full, it, ita, mechanics]
+        targets: [full, it, ita]
         highlights:
-          - Supported website creation, application testing, and technical documentation tasks at the start of his professional career.
+          - Supported website creation, application testing and technical documentation tasks at the start of his professional career.
           - Contributed to the development of written content for a small book on viticulture and oenology.
+
+      - company: Montajes Automovilisticos Alcala (Maasa)
+        position: Welding Parts Production Operator
+        start_date: 2001-10
+        end_date: 2002-12
+        location: Noain (Valle de Elorz), Navarra, España
+        targets: [full, mechanics]
+        highlights:
+          - Produced welded automotive components for Volkswagen, including rocker panels, spoilers, and related body parts.
+          - Worked in a structured industrial production environment focused on repeatability, quality, and delivery.
+          - "Address: Poligono industrial Noain-Esquiroz, s/n, 31110, Noain (Valle de Elorz)"
+
+      - company: Julian Goni e Hijos
+        position: Industrial Pallet Maintenance and Assembly Operator
+        start_date: 2000-05
+        end_date: 2000-09
+        location: Imarcoain, Navarra, España
+        targets: [full, mechanics]
+        highlights:
+          - Maintained and assembled pallets for industrial use.
+          - Supported day-to-day workshop tasks linked to repair, preparation, and delivery of pallet stock.
+          - "Address: Imarcoain, Navarra"
+
+      - company: Limagrain Iberica (Senasa)
+        position: Agricultural Machinery, Silos and Seed Quality Operator
+        start_date: 1999-09
+        end_date: 2000-03
+        location: Elorz, Navarra, España
+        targets: [full, ita, mechanics]
+        highlights:
+          - Website https://www.lgseeds.es/
+          - Performed maintenance tasks on agricultural machinery and silos.
+          - Worked on seed quality control and packaging operations in an agricultural production environment.
+          - "Address: Elorz, Navarra"
 
     education:
       - institution: Ironhack
@@ -140,7 +184,7 @@ cv:
         location: Pamplona, Navarra, España
         start_date: 1995
         end_date: 1999
-        targets: [full, it, ita]
+        targets: [full, it, ita, mechanics]
 
       - institution: Instituto Politécnico Salesiano
         area: Máquina Herramienta
@@ -301,7 +345,7 @@ cv:
       - name: Libricos.com
         start_date: 2020-04
         end_date: 2021-07
-        targets: [full, it, ita]
+        targets: [full, it]
         summary: eCommerce and content platform focused on curated book reviews and Amazon Affiliate book sales.
         highlights:
           - "**Action:** Combined literary review content with direct product links to improve book discovery and conversion."
@@ -327,7 +371,7 @@ cv:
           - Helped create a clearer and more efficient hotel offer lifecycle.
 
       - name: NGES (New Management System)
-        targets: [full, it, ita]
+        targets: [full, it]
         summary: Internal back-office platform for accounting, reservations, and operational management at Centraldereservas.com.
         highlights:
           - Centralized workflows for invoices, files, tasks, payments, expenses, policies, mailing templates, and communications.
@@ -383,7 +427,7 @@ cv:
           - Strengthened online visibility and audience engagement through content marketing.
 
       - name: Travel Guide Management System
-        targets: [full, it, ita]
+        targets: [full, it]
         summary: Platform for generating, maintaining, and delivering personalized travel guides for clients.
         highlights:
           - Designed the system architecture and integrated the Guiomatic REST API for guide generation.
@@ -391,7 +435,7 @@ cv:
           - Supported QoS testing to ensure reliability, scalability, and smooth delivery.
 
       - name: Clubviajero.com
-        targets: [full, it, ita]
+        targets: [full, it]
         summary: Brand-affiliated travel storytelling platform featuring destination narratives and editorial content.
         highlights:
           - Built a travel blog centered on immersive stories, recommendations, and destination insights.
@@ -407,7 +451,7 @@ cv:
           - Improved financial oversight, mitigation speed, and internal control processes.
 
       - name: Hotelandia.com Offer Management System
-        targets: [full, it, ita]
+        targets: [full, it]
         summary: Multilingual hotel offers and campaign management platform for Hotel Andia.
         highlights:
           - Built with Sencha/ExtJS and MySQL for offer administration and customer-facing promotion.
@@ -450,6 +494,14 @@ cv:
       - label: Operations, Documentation & Delivery
         targets: [full, it]
         details: Technical Documentation, QoS Testing, Process Improvement, Cross-functional Delivery, Business-Critical Operations Support
+
+      - label: Agricultural Operations & Field Systems
+        targets: [full, ita]
+        details: Gardening, Horticulture, Greenhouses, Irrigation Systems, Garden Maintenance, GIS, Watershed Analysis, KINEROS
+
+      - label: Machining, Workshop & Quality
+        targets: [full, mechanics]
+        details: CAD/CAM, CNC, Lathe, Milling Machines, Grinding Machines, Workshop Operations, Quality Control, Industrial Production Support
 
       - label: Languages
         targets: [full, it, ita, mechanics]
