@@ -43,6 +43,8 @@ cv:
         targets: [full, mechanics]
       - text: Used to precision manufacturing environments, process discipline, machine setup support, and reliable execution of production and quality tasks.
         targets: [full, mechanics]
+      - text: "Driving licence: Category B · Own vehicle."
+        targets: [full, it, it_core, ita, mechanics]
 
     experience:
       - company: "DIFFERENT TRAVEL S.L.U. | [Centraldereservas.com](https://www.centraldereservas.com/)"
@@ -55,22 +57,25 @@ cv:
           - Led the development and maintenance of core systems for a travel agency and booking platform.
           - "Improved internal tools: wholesale offer mappings, hotel room and board mappings, locations and geographic entities, reservation management (NewGestion), customer reservation mailings, affiliate management, debt control, travel guides, and blogs."
           - Strengthened the day-to-day operation of reservation workflows by improving the systems behind bookings, customer and supplier records, and automated communications.
+          - "References: ${REFS_CENTRALDERESERVAS_COM}."
       
       - company: "Remember Me/Memory System | [Remem.me](https://www.remem.me/es/)"
         position: _Software Programmer_
-        start_date: 2021-09
-        end_date: 2021-10
+        start_date: 2021-08
+        end_date: 2021-11
         location: Fischenthal, Suiza
-        targets: [full, it]
+        targets: [full, it, it_core]
         highlights:
           - Gained hands-on exposure to Android mobile development in a professional setting.
           - Built foundational skills for creating user-friendly mobile applications.
+          - Created the Forum and translations for the Remember Me/Memory System https://forum.remem.me/
+          - "References: ${REFS_REMEM_ME}."
 
-      - company: "Libricos S.L. | [Libricos.com](https://www.libricos.com/)"
+      - company: "Libricos S.L. | [Libricos.com](https://www.libricos.com/) (discontinued)"
         position: _Ecommerce Developer_
         start_date: 2020-04
         end_date: 2021-07
-        location: Pamplona, Navarra, España
+        location: Pamplona, Navarre, Spain
         targets: [full, it]
         highlights:
           - Contributed to an online bookstore and content platform focused on Amazon book sales through literary reviews.
@@ -80,7 +85,7 @@ cv:
         position: _Full-stack Developer_
         start_date: 2020-04
         end_date: 2021-07
-        location: Pamplona, Navarra, España
+        location: Pamplona, Navarre, Spain
         targets: [full, it]
         highlights:
           - Developed and maintained open-source projects related to Digital Gardens, Second Brains, and productivity tooling.
@@ -97,6 +102,31 @@ cv:
         highlights:
           - Focused primarily on front-end development for multilingual hotel offers and online presentation.
           - Collaborated with design teams to improve usability and website functionality across multiple languages.
+          - "References: ${REFS_HOTEL_ANDIA_COM}."
+
+      - company: Guallart Ingeniería S.L.
+        position: _Topographic Assistant_
+        start_date: 2005-11
+        end_date: 2006-01
+        location: Burlada, Navarre, Spain
+        targets: [full, ita]
+        highlights:
+          - Worked as a topographic assistant for pipelines and pavement projects.
+          - Assisted with field work using GPS and total station equipment.
+          - Assisted with the preparation of budgets using SISPRE.
+          - "References: ${REFS_GUALLART_INGENIERIA}."
+
+      - company: "[Dosymedia.com](https://www.dosymedia.com/) (discontinued)" 
+        position: _Web Developer_
+        start_date: 2004-09
+        end_date: 2005-06
+        location: Pamplona, Spain
+        targets: [full]
+        highlights:
+          - Delivered freelance web development projects in PHP and MySQL for multiple business websites.
+          - Portfolio included navatrucks.com (discontinued), jye-cocinas.com (discontinued), mainorte.com (discontinued), mobilestudio.es (discontinued), santiago-sxxi.com (discontinued), [suminsala.es](https://suminsala.es/), and velate.com (discontinued).
+          - Worked directly with client requirements and implementation needs in a small-agency environment.
+          - "References: ${REFS_DOSYMEDIA_COM}."
 
       - company: "NUBER Diseños y Mecanizados S.L. | [Nubermecanizados.es](https://www.nubermecanizados.es/)"
         position: _CAD/CAM and Machining Operator_
@@ -108,8 +138,9 @@ cv:
           - Worked on CAD/CAM-driven machining tasks in an industrial workshop environment.
           - Operated and supported CNC production processes with a quality-oriented approach.
           - Contributed to precision manufacturing work involving workshop planning, machining execution, and finishing control.
+          - "References: ${REFS_NUBER_DESIGN_AND_MACHINING_S_L}."
 
-      - company: "ETHERNALIA REGCOM S.L. | [Ethernalia.com](https://www.linkedin.com/company/ethernalia-regcom-s.l./about/)"
+      - company: "ETHERNALIA REGCOM S.L. | [Ethernalia.com](https://www.linkedin.com/company/ethernalia-regcom-s.l./about/) (discontinued)"
         position: _Full-stack Developer_
         start_date: 2008-02
         end_date: 2010-02
@@ -118,6 +149,17 @@ cv:
         highlights:
           - Participated in the creation, development, and maintenance of the corporate website for a digital security and data protection company.
           - Helped build a clear, informative, and user-friendly online presence aligned with the company's services.
+          - "References: ${REFS_ETHERNALIA_REGCOM_S_L}."
+
+      - company: "Rurales.net | [Rurales.net](https://www.rurales.net/) (discontinued)"
+        position: _Full-stack Developer_
+        start_date: 2003-10
+        end_date: 2004-03
+        location: Pamplona, Navarre, Spain
+        targets: [full, it, it_core]
+        highlights:
+          - Responsible for the technical aspects of the website, dedicated to providing online management services for rural houses.
+          - "References: ${REFS_RURALES_NET}."
 
       - company: "CIMA Nuevas Tecnologías Informáticas S.L. | [Cimanti.es](https://www.cimanti.es/)"
         position: _IT Intern_
@@ -128,37 +170,50 @@ cv:
         highlights:
           - Supported website creation, application testing and technical documentation tasks at the start of his professional career.
           - Contributed to the development of written content for a small book on viticulture and oenology.
+          - "References: ${REFS_CIMA_NUEVAS_TECNOLOGIAS_INFORMATICAS_S_L}."
 
-      - company: Montajes Automovilisticos Alcala (Maasa)
+      - company: Montajes Automovilisticos Alcalá S.A. (MAASA)
         position: _Welding Parts Production Operator_
-        start_date: 2001-10
-        end_date: 2002-12
-        location: Noain (Valle de Elorz), Navarra, España
+        start_date: 2002-01
+        end_date: 2002-10
+        location: Noáin-Elorz, Navarre, Spain
         targets: [full, mechanics]
         highlights:
           - Produced welded automotive components for Volkswagen, including rocker panels, spoilers, and related body parts.
           - Worked in a structured industrial production environment focused on repeatability, quality, and delivery.
           - "Address: Poligono industrial Noain-Esquiroz, s/n, 31110, Noain (Valle de Elorz)"
 
+      - company: "Derecho Fácil S.L. | [Derechofacil.net](https://www.derechofacil.net/) (discontinued)"
+        position: _Full-stack Developer_
+        start_date: 2001-01
+        end_date: 2002-12
+        location: Pamplona, Navarre, Spain
+        targets: [full, it, it_core]
+        highlights:
+          - Responsible for the technical aspects of the website, dedicated to providing online legal services at the national level.
+          - "References: ${REFS_DERECHOFACIL_NET}."
+
       - company: Julian Goni e Hijos S.L. | [Jgoniehijos.com](https://www.jgoniehijos.com/)
         position: _Industrial Pallet Maintenance and Assembly Operator_
-        start_date: 2000-05
+        start_date: 2000-06
         end_date: 2000-09
         location: 📍 [Imarcoain, Navarre](https://maps.app.goo.gl/nYiniFaBu9HsNAPs6)
         targets: [full, mechanics]
         highlights:
           - Maintained and assembled pallets for industrial use.
           - Supported day-to-day workshop tasks linked to repair, preparation, and delivery of pallet stock.
+          - "References: ${REFS_JULIAN_GONI_E_HIJOS}."
 
       - company: "LIMAGRAIN IBERICA S.A. (SENASA) | [Limagrain.es](https://www.lgseeds.es/)"
         position: _Agricultural Machinery, Silos and Seed Quality Operator_
-        start_date: 1999-09
-        end_date: 2000-03
+        start_date: 1999-06
+        end_date: 2000-02
         location: 📍 [Elorz, Navarre](https://maps.app.goo.gl/vodMxSANJ2zn7Mrc7)
         targets: [full, ita, mechanics]
         highlights:
           - Performed maintenance tasks on agricultural machinery and silos.
           - Worked on seed quality control and packaging operations in an agricultural production environment.
+          - "References: ${REFS_LIMAGRAIN_IBERICA}."
 
     education:
       - institution: "[Ironhack](https://www.ironhack.com/)"
@@ -167,14 +222,6 @@ cv:
         location: 📍 [Madrid, Spain](https://maps.app.goo.gl/62fij2a5ttbirvfr8)
         start_date: 2025-01
         end_date: 2025-04
-        targets: [full, it, it_core]
-
-      - institution: "[CEIN Software Factory](https://www.cein.es/)"
-        area: Web Development and Programming
-        degree: Course
-        location: 📍 [Noáin, Navarre](https://maps.app.goo.gl/rba9Q2AFexiHsUfy6)
-        start_date: 2002-02
-        end_date: 2002-12
         targets: [full, it, it_core]
 
       - institution: "[Public University of Navarre (UPNA)](https://www.unavarra.es/)"
@@ -469,6 +516,123 @@ cv:
           - Internal training.
           - Focused on AWS, Redis, threads, background jobs, workers, automation, and testing practices.
           - Associated with Centraldereservas.com.
+
+      - institution: "[Salesianos Polytechnic Institute](https://salesianospamplona.es/)"
+        area: AutoCAD 2D and 3D Technical Drafting
+        location: 📍 [Sarriguren, Navarre](https://maps.app.goo.gl/BNEWdkaKUsJTyYL5A)
+        start_date: 2005-09
+        end_date: 2005-10
+        targets: [full, mechanics]
+        highlights:
+          - 150-hour INEM training course in computer-aided design with AutoCAD 16.
+          - Covered 2D technical drafting and 3D modelling for engineering and industrial design workflows.
+          - Relevant to technical drawing, mechanical environments, workshop documentation, and CAD-based support roles.
+
+      - institution: IFES (Institute for Training and Social Studies)
+        area: Interactive Web Development with Flash MX and ActionScript
+        location: 📍 [Pamplona, Navarre](https://maps.app.goo.gl/gtdanKNrQmGh2apE8)
+        start_date: 2003-05
+        end_date: 2003-07
+        targets: [full, it]
+        highlights:
+          - 50-hour INAFRE training course in interactive web page creation with Flash MX.
+          - Covered animation, interface elements, interactive movies, drawing tools, layers, symbols, sound integration, and ActionScript basics.
+          - Included publishing and export workflows for multimedia web content.
+
+      - institution: "[CEIN (European Center for Business and Innovation of Navarre)](https://www.cein.es/)"
+        area: Web Programming with .NET and C#
+        location: 📍 [Noáin, Navarre](https://maps.app.goo.gl/rba9Q2AFexiHsUfy6)
+        start_date: 2002-04
+        end_date: 2002-12
+        targets: [full, it, it_core]
+        highlights:
+          - 750-hour training program in web development and Microsoft-oriented backend technologies.
+          - Covered C# .NET, ASP.NET, ADO.NET, MySQL, SQL Server, XML, SOAP, JavaScript, and server-side scripting.
+          - Included foundations in hardware, operating systems, and networking.
+
+      - institution: "[CEIN (European Center for Business and Innovation of Navarre)](https://www.cein.es/)"
+        area: C# and .NET Application Development
+        location: 📍 [Noáin, Navarre](https://maps.app.goo.gl/rba9Q2AFexiHsUfy6)
+        start_date: 2002-09
+        end_date: 2002-11
+        targets: [full, it, it_core]
+        highlights:
+          - 125-hour official Microsoft course delivered by [José Hevia (EIDOS S.L.)](https://www.linkedin.com/in/pepehevia/).
+          - Covered C#, Windows application development, ADO.NET, ASP.NET web applications, XML web services, and .NET enterprise services.
+          - Included training in COM+ applications and enterprise-oriented development on the Microsoft stack.
+
+      - institution: "[CEIN (European Center for Business and Innovation of Navarre)](https://www.cein.es/)"
+        area: JavaScript and Client-Side Web Development
+        location: 📍 [Noáin, Navarre](https://maps.app.goo.gl/rba9Q2AFexiHsUfy6)
+        start_date: 2002-12
+        end_date: 2002-12
+        targets: [full, it]
+        highlights:
+          - 50-hour training course covering JavaScript syntax, functions, objects, events, cookies, and cross-browser client-side development.
+          - Included a final practical project.
+
+      - institution: Centro de Estudios Polígono
+        area: Java, JDBC, SQL, and Network Applications
+        location: 📍 [Barañáin, Navarre](https://maps.app.goo.gl/7PUQ5TW1eKgw4rtFA)
+        start_date: 2001-09
+        end_date: 2001-12
+        targets: [full, it, it_core]
+        highlights:
+          - 359-hour INEM training program focused on Java and network-oriented application development.
+          - Covered Java, OOP, Swing, servlets, sockets, SQL, JDBC, MySQL, Access, and UML.
+          - Included practical application design and a final development project.
+
+      - institution: Government of Navarre Occupational Training Center
+        area: Excel VBA and DAO Programming
+        location: 📍 [Chantrea, Pamplona](hhttps://maps.app.goo.gl/Ht3WdxNXTV6RMScr8)
+        date: 2000-12
+        targets: [full, it]
+        highlights:
+          - 56-hour training course in Excel programming with Visual Basic.
+          - Covered VBA syntax and DAO-based automation and data access.
+
+      - institution: Zaros Academy
+        area: Visual Basic, SQL, and Relational Databases
+        location: 📍 [Cizur Mayor, Navarre](https://maps.app.goo.gl/6cizrwaWNjtUTJaV8)
+        start_date: 2000-03
+        end_date: 2000-06
+        targets: [full, it, it_core]
+        highlights:
+          - 300-hour INEM training program in Visual Basic 6.0 and database-oriented development.
+          - Covered relational databases, ADO, DAO, SQL, reporting with Crystal Reports, and Windows APIs.
+          - Included desktop application development and database access fundamentals.
+
+      - institution: "[Jamar Academy](https://www.cnjamar.com/)"
+        area: Technical Drafting with AutoCAD
+        location: 📍 [Pamplona, Spain](https://maps.app.goo.gl/qDdrczThj7rqSft37)
+        start_date: 1998-08
+        end_date: 1998-08
+        targets: [full, mechanics]
+        highlights:
+          - 60-hour INEM training course in computer-aided technical drafting with AutoCAD 14.
+          - Covered core CAD concepts for 2D drawing and technical documentation.
+          - Relevant to drafting support, industrial environments, and mechanical or workshop-based technical roles.
+
+      - institution: "[Fundación Laboral de la Construcción](https://navarra.fundacionlaboral.org/)"
+        area: Surveying and Land Measurement
+        location: 📍 [Huarte, Navarre](https://maps.app.goo.gl/8oB4sKPUj2nogine7)
+        start_date: 1998-09
+        end_date: 1998-12
+        targets: [full, ita]
+        highlights:
+          - 300-hour INEM training course in surveying assistance and land measurement.
+          - Covered plot measurement, topographic surveys, and fieldwork support for land and construction environments.
+          - Relevant to agricultural, civil works, land management, and territory-related technical roles.
+
+      - institution: "[Public University of Navarre (UPNA)](https://www.unavarra.es/)"
+        area: Environmental Quality Management and ISO 14000
+        location: 📍 [Pamplona, Spain](https://maps.app.goo.gl/ngm7Rerp5h8U2TWJ9)
+        date: 1998-03
+        targets: [full, ita, mechanics]
+        highlights:
+          - 40-hour open training program on environmental quality management systems and ISO 14000 principles.
+          - Covered environmental management, process quality, compliance, and continuous improvement concepts.
+          - Relevant to technical, agricultural, and operational roles involving quality, sustainability, and environmental awareness.
 
     skills:
       - label: AI, Machine Learning & Data Science
