@@ -21,7 +21,7 @@
   </a>
 </div>
 
-# 💻 Full-Stack Dev | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analyst | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/> AI Enthusiast
+# 💻 Senior Backend Developer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analyst | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/>  Machine Learning
 
 ## 🌟 Featured Projects
 
