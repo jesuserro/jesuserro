@@ -116,6 +116,18 @@ cv:
           - Assisted with the preparation of budgets using SISPRE.
           - "References: ${REFS_GUALLART_INGENIERIA}."
 
+      - company: "[Dosymedia.com](https://www.dosymedia.com/) (discontinued)" 
+        position: _Web Developer_
+        start_date: 2004-09
+        end_date: 2005-06
+        location: Pamplona, Spain
+        targets: [full]
+        highlights:
+          - Delivered freelance web development projects in PHP and MySQL for multiple business websites.
+          - Portfolio included navatrucks.com (discontinued), jye-cocinas.com (discontinued), mainorte.com (discontinued), mobilestudio.es (discontinued), santiago-sxxi.com (discontinued), [suminsala.es](https://suminsala.es/), and velate.com (discontinued).
+          - Worked directly with client requirements and implementation needs in a small-agency environment.
+          - "References: ${REFS_DOSYMEDIA_COM}."
+
       - company: "NUBER Diseños y Mecanizados S.L. | [Nubermecanizados.es](https://www.nubermecanizados.es/)"
         position: _CAD/CAM and Machining Operator_
         start_date: 2003-11
