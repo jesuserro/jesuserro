@@ -55,22 +55,25 @@ cv:
           - Led the development and maintenance of core systems for a travel agency and booking platform.
           - "Improved internal tools: wholesale offer mappings, hotel room and board mappings, locations and geographic entities, reservation management (NewGestion), customer reservation mailings, affiliate management, debt control, travel guides, and blogs."
           - Strengthened the day-to-day operation of reservation workflows by improving the systems behind bookings, customer and supplier records, and automated communications.
+          - "References: ${REFS_CENTRALDERESERVAS_COM}."
       
       - company: "Remember Me/Memory System | [Remem.me](https://www.remem.me/es/)"
         position: _Software Programmer_
-        start_date: 2021-09
-        end_date: 2021-10
+        start_date: 2021-08
+        end_date: 2021-11
         location: Fischenthal, Suiza
-        targets: [full, it]
+        targets: [full, it, it_core]
         highlights:
           - Gained hands-on exposure to Android mobile development in a professional setting.
           - Built foundational skills for creating user-friendly mobile applications.
+          - Created the Forum and translations for the Remember Me/Memory System https://forum.remem.me/
+          - "References: ${REFS_REMEM_ME}."
 
-      - company: "Libricos S.L. | [Libricos.com](https://www.libricos.com/)"
+      - company: "Libricos S.L. | [Libricos.com](https://www.libricos.com/) (discontinued)"
         position: _Ecommerce Developer_
         start_date: 2020-04
         end_date: 2021-07
-        location: Pamplona, Navarra, España
+        location: Pamplona, Navarre, Spain
         targets: [full, it]
         highlights:
           - Contributed to an online bookstore and content platform focused on Amazon book sales through literary reviews.
@@ -80,7 +83,7 @@ cv:
         position: _Full-stack Developer_
         start_date: 2020-04
         end_date: 2021-07
-        location: Pamplona, Navarra, España
+        location: Pamplona, Navarre, Spain
         targets: [full, it]
         highlights:
           - Developed and maintained open-source projects related to Digital Gardens, Second Brains, and productivity tooling.
@@ -97,6 +100,19 @@ cv:
         highlights:
           - Focused primarily on front-end development for multilingual hotel offers and online presentation.
           - Collaborated with design teams to improve usability and website functionality across multiple languages.
+          - "References: ${REFS_HOTEL_ANDIA_COM}."
+
+      - company: Guallart Ingeniería S.L.
+        position: _Topographic Assistant_
+        start_date: 2005-11
+        end_date: 2006-01
+        location: Burlada, Navarre, Spain
+        targets: [full, ita]
+        highlights:
+          - Worked as a topographic assistant for pipelines and pavement projects.
+          - Assisted with field work using GPS and total station equipment.
+          - Assisted with the preparation of budgets using SISPRE.
+          - "References: ${REFS_GUALLART_INGENIERIA}."
 
       - company: "NUBER Diseños y Mecanizados S.L. | [Nubermecanizados.es](https://www.nubermecanizados.es/)"
         position: _CAD/CAM and Machining Operator_
@@ -108,8 +124,9 @@ cv:
           - Worked on CAD/CAM-driven machining tasks in an industrial workshop environment.
           - Operated and supported CNC production processes with a quality-oriented approach.
           - Contributed to precision manufacturing work involving workshop planning, machining execution, and finishing control.
+          - "References: ${REFS_NUBER_DESIGN_AND_MACHINING_S_L}."
 
-      - company: "ETHERNALIA REGCOM S.L. | [Ethernalia.com](https://www.linkedin.com/company/ethernalia-regcom-s.l./about/)"
+      - company: "ETHERNALIA REGCOM S.L. | [Ethernalia.com](https://www.linkedin.com/company/ethernalia-regcom-s.l./about/) (discontinued)"
         position: _Full-stack Developer_
         start_date: 2008-02
         end_date: 2010-02
@@ -118,6 +135,17 @@ cv:
         highlights:
           - Participated in the creation, development, and maintenance of the corporate website for a digital security and data protection company.
           - Helped build a clear, informative, and user-friendly online presence aligned with the company's services.
+          - "References: ${REFS_ETHERNALIA_REGCOM_S_L}."
+
+      - company: "Rurales.net | [Rurales.net](https://www.rurales.net/) (discontinued)"
+        position: _Full-stack Developer_
+        start_date: 2003-10
+        end_date: 2004-03
+        location: Pamplona, Navarre, Spain
+        targets: [full, it, it_core]
+        highlights:
+          - Responsible for the technical aspects of the website, dedicated to providing online management services for rural houses.
+          - "References: ${REFS_RURALES_NET}."
 
       - company: "CIMA Nuevas Tecnologías Informáticas S.L. | [Cimanti.es](https://www.cimanti.es/)"
         position: _IT Intern_
@@ -128,37 +156,50 @@ cv:
         highlights:
           - Supported website creation, application testing and technical documentation tasks at the start of his professional career.
           - Contributed to the development of written content for a small book on viticulture and oenology.
+          - "References: ${REFS_CIMA_NUEVAS_TECNOLOGIAS_INFORMATICAS_S_L}."
 
-      - company: Montajes Automovilisticos Alcala (Maasa)
+      - company: Montajes Automovilisticos Alcalá S.A. (MAASA)
         position: _Welding Parts Production Operator_
-        start_date: 2001-10
-        end_date: 2002-12
-        location: Noain (Valle de Elorz), Navarra, España
+        start_date: 2002-01
+        end_date: 2002-10
+        location: Noáin-Elorz, Navarre, Spain
         targets: [full, mechanics]
         highlights:
           - Produced welded automotive components for Volkswagen, including rocker panels, spoilers, and related body parts.
           - Worked in a structured industrial production environment focused on repeatability, quality, and delivery.
           - "Address: Poligono industrial Noain-Esquiroz, s/n, 31110, Noain (Valle de Elorz)"
 
+      - company: "Derecho Fácil S.L. | [Derechofacil.net](https://www.derechofacil.net/) (discontinued)"
+        position: _Full-stack Developer_
+        start_date: 2001-01
+        end_date: 2002-12
+        location: Pamplona, Navarre, Spain
+        targets: [full, it, it_core]
+        highlights:
+          - Responsible for the technical aspects of the website, dedicated to providing online legal services at the national level.
+          - "References: ${REFS_DERECHOFACIL_NET}."
+
       - company: Julian Goni e Hijos S.L. | [Jgoniehijos.com](https://www.jgoniehijos.com/)
         position: _Industrial Pallet Maintenance and Assembly Operator_
-        start_date: 2000-05
+        start_date: 2000-06
         end_date: 2000-09
         location: 📍 [Imarcoain, Navarre](https://maps.app.goo.gl/nYiniFaBu9HsNAPs6)
         targets: [full, mechanics]
         highlights:
           - Maintained and assembled pallets for industrial use.
           - Supported day-to-day workshop tasks linked to repair, preparation, and delivery of pallet stock.
+          - "References: ${REFS_JULIAN_GONI_E_HIJOS}."
 
       - company: "LIMAGRAIN IBERICA S.A. (SENASA) | [Limagrain.es](https://www.lgseeds.es/)"
         position: _Agricultural Machinery, Silos and Seed Quality Operator_
-        start_date: 1999-09
-        end_date: 2000-03
+        start_date: 1999-06
+        end_date: 2000-02
         location: 📍 [Elorz, Navarre](https://maps.app.goo.gl/vodMxSANJ2zn7Mrc7)
         targets: [full, ita, mechanics]
         highlights:
           - Performed maintenance tasks on agricultural machinery and silos.
           - Worked on seed quality control and packaging operations in an agricultural production environment.
+          - "References: ${REFS_LIMAGRAIN_IBERICA}."
 
     education:
       - institution: "[Ironhack](https://www.ironhack.com/)"
@@ -167,14 +208,6 @@ cv:
         location: 📍 [Madrid, Spain](https://maps.app.goo.gl/62fij2a5ttbirvfr8)
         start_date: 2025-01
         end_date: 2025-04
-        targets: [full, it, it_core]
-
-      - institution: "[CEIN Software Factory](https://www.cein.es/)"
-        area: Web Development and Programming
-        degree: Course
-        location: 📍 [Noáin, Navarre](https://maps.app.goo.gl/rba9Q2AFexiHsUfy6)
-        start_date: 2002-02
-        end_date: 2002-12
         targets: [full, it, it_core]
 
       - institution: "[Public University of Navarre (UPNA)](https://www.unavarra.es/)"
@@ -469,6 +502,17 @@ cv:
           - Internal training.
           - Focused on AWS, Redis, threads, background jobs, workers, automation, and testing practices.
           - Associated with Centraldereservas.com.
+
+      - institution: "[CEIN (European Center for Business and Innovation of Navarre)](https://www.cein.es/)"
+        area: Web Programming with .NET and C#
+        location: 📍 [Noáin, Navarre](https://maps.app.goo.gl/rba9Q2AFexiHsUfy6)
+        start_date: 2002-04
+        end_date: 2002-12
+        targets: [full, it, it_core]
+        highlights:
+          - 750-hour training program in web development and Microsoft-oriented backend technologies.
+          - Covered C# .NET, ASP.NET, ADO.NET, MySQL, SQL Server, XML, SOAP, JavaScript, and server-side scripting.
+          - Included foundations in hardware, operating systems, and networking.
 
     skills:
       - label: AI, Machine Learning & Data Science
