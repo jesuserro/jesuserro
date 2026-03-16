@@ -64,7 +64,7 @@ cv:
         start_date: 2021-08
         end_date: 2021-11
         location: Fischenthal, Suiza
-        targets: [full, it, it_core]
+        targets: [full, it]
         highlights:
           - Gained hands-on exposure to Android mobile development in a professional setting.
           - Built foundational skills for creating user-friendly mobile applications.
@@ -156,7 +156,7 @@ cv:
         start_date: 2003-10
         end_date: 2004-03
         location: Pamplona, Navarre, Spain
-        targets: [full, it, it_core]
+        targets: [full, it]
         highlights:
           - Responsible for the technical aspects of the website, dedicated to providing online management services for rural houses.
           - "References: ${REFS_RURALES_NET}."
@@ -278,7 +278,7 @@ cv:
 
       - name: "DeepVision | [GitHub: jesuserro/deep-vision-cnn-image-classification-mnist](https://github.com/jesuserro/deep-vision-cnn-image-classification-mnist)"
         date: 2025-04
-        targets: [full, it, it_core]
+        targets: [full, it]
         summary: Deep learning image classification project using custom CNN architectures on the MNIST dataset.
         highlights:
           - "**Action:** Designed and trained CNN models with TensorFlow and Keras for handwritten digit classification."
@@ -296,7 +296,7 @@ cv:
 
       - name: "Retail Store Sales Forecasting Pipeline | [GitHub: jesuserro/ml-retail-sales-predictor](https://github.com/jesuserro/ml-retail-sales-predictor)"
         date: 2025-03
-        targets: [full, it, it_core]
+        targets: [full, it]
         summary: End-to-end machine learning pipeline for predicting retail store sales with automated reporting.
         highlights:
           - "**Action:** Built a full workflow covering preprocessing, XGBoost model training, evaluation, and prediction generation."
@@ -361,7 +361,7 @@ cv:
       - name: "ObsiGen | [GitHub: jesuserro/obsigen](https://github.com/jesuserro/obsigen)"
         start_date: 2023-06
         end_date: 2024-09
-        targets: [full, it, it_core]
+        targets: [full, it]
         summary: Obsidian plugin for generating structured notes such as daily notes, anniversaries, memorable moments, and captured content.
         highlights:
           - "**Action:** Built Obsidian plugin for generating structured notes such as daily notes, anniversaries, memorable moments, and captured content."
@@ -492,7 +492,7 @@ cv:
         location: 📍 [Zaragoza, Spain](https://maps.app.goo.gl/mv8we3bfpy7VHVnT6)
         start_date: 2024-03
         end_date: 2024-04
-        targets: [full, it, it_core]
+        targets: [full, it]
         highlights:
           - Professional course.
           - Applied generative AI to coding assistance, process automation, meeting transcription and summaries, and AI image workflows.
@@ -501,7 +501,7 @@ cv:
       - institution: Kung Fullstack
         area: Full-Stack Development
         date: 2018-05
-        targets: [full, it, it_core]
+        targets: [full, it]
         highlights:
           - Professional course.
           - Covered end-to-end web development concepts and practical full-stack implementation.
@@ -511,7 +511,7 @@ cv:
         area: Backend Automation, Concurrency and Testing
         location: "📍 [Zaragoza, Spain](https://maps.app.goo.gl/JiFgP4i67NAjnnkT8)"
         date: 2016-02
-        targets: [full, it, it_core]
+        targets: [full, it]
         highlights:
           - Internal training.
           - Focused on AWS, Redis, threads, background jobs, workers, automation, and testing practices.
@@ -544,7 +544,7 @@ cv:
         location: 📍 [Noáin, Navarre](https://maps.app.goo.gl/rba9Q2AFexiHsUfy6)
         start_date: 2002-04
         end_date: 2002-12
-        targets: [full, it, it_core]
+        targets: [full, it]
         highlights:
           - 750-hour training program in web development and Microsoft-oriented backend technologies.
           - Covered C# .NET, ASP.NET, ADO.NET, MySQL, SQL Server, XML, SOAP, JavaScript, and server-side scripting.
@@ -555,7 +555,7 @@ cv:
         location: 📍 [Noáin, Navarre](https://maps.app.goo.gl/rba9Q2AFexiHsUfy6)
         start_date: 2002-09
         end_date: 2002-11
-        targets: [full, it, it_core]
+        targets: [full, it]
         highlights:
           - 125-hour official Microsoft course delivered by [José Hevia (EIDOS S.L.)](https://www.linkedin.com/in/pepehevia/).
           - Covered C#, Windows application development, ADO.NET, ASP.NET web applications, XML web services, and .NET enterprise services.
@@ -576,7 +576,7 @@ cv:
         location: 📍 [Barañáin, Navarre](https://maps.app.goo.gl/7PUQ5TW1eKgw4rtFA)
         start_date: 2001-09
         end_date: 2001-12
-        targets: [full, it, it_core]
+        targets: [full, it]
         highlights:
           - 359-hour INEM training program focused on Java and network-oriented application development.
           - Covered Java, OOP, Swing, servlets, sockets, SQL, JDBC, MySQL, Access, and UML.
@@ -596,7 +596,7 @@ cv:
         location: 📍 [Cizur Mayor, Navarre](https://maps.app.goo.gl/6cizrwaWNjtUTJaV8)
         start_date: 2000-03
         end_date: 2000-06
-        targets: [full, it, it_core]
+        targets: [full, it, itcore]
         highlights:
           - 300-hour INEM training program in Visual Basic 6.0 and database-oriented development.
           - Covered relational databases, ADO, DAO, SQL, reporting with Crystal Reports, and Windows APIs.
