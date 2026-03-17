@@ -17,6 +17,14 @@ ROOT = Path(__file__).resolve().parents[1]
 MASTER_PATH = ROOT / "cv" / "master" / "jesus_erro_cv_master.yaml"
 GENERATED_DIR = ROOT / "cv" / "generated"
 VARIANTS = ("full", "it", "it_core", "ita", "mechanics")
+VARIANT_PHOTO_SUFFIXES = {
+    "full": "",
+    "it": "_it",
+    "it_core": "_it",
+    "ita": "_ita",
+    "mechanics": "_mechanics",
+}
+DEFAULT_PHOTO_YEAR = "2019"
 OUTPUT_FILES = {
     "full": GENERATED_DIR / "jesus_erro_cv_full.yaml",
     "it": GENERATED_DIR / "jesus_erro_cv_it.yaml",
@@ -24,7 +32,7 @@ OUTPUT_FILES = {
     "ita": GENERATED_DIR / "jesus_erro_cv_ita.yaml",
     "mechanics": GENERATED_DIR / "jesus_erro_cv_mechanics.yaml",
 }
-ENV_PATTERN = re.compile(r"\$\{([A-Z0-9_]+)\}")
+ENV_PATTERN = re.compile(r"\$\{([A-Z0-9_]+)(?::([^}]*))?\}")
 URL_PATTERN = re.compile(r"https?://[^\s)\]>]+")
 HELPER_KEYS = {"targets"}
 LEGACY_CV_DIR = ROOT / "cv"
@@ -52,8 +60,7 @@ def parse_iso_date(value: str) -> date:
         return date.fromisoformat(value)
     except ValueError as exc:
         raise ValueError(
-            "CV_BIRTH_DATE must use ISO format YYYY-MM-DD "
-            f"(received: {value!r})"
+            f"CV_BIRTH_DATE must use ISO format YYYY-MM-DD (received: {value!r})"
         ) from exc
 
 
@@ -87,9 +94,13 @@ def substitute_env(value, env: dict[str, str]):
     if isinstance(value, list):
         return [substitute_env(item, env) for item in value]
     if isinstance(value, str):
+
         def replace(match: re.Match[str]) -> str:
             name = match.group(1)
+            default = match.group(2)
             if name not in env:
+                if default is not None:
+                    return default
                 raise KeyError(f"Missing environment variable: {name}")
             return env[name]
 
@@ -164,7 +175,11 @@ def include_entry(entry, variant: str) -> bool:
 
 def strip_helper_fields(entry):
     if isinstance(entry, dict):
-        entry = {key: strip_helper_fields(value) for key, value in entry.items() if key not in HELPER_KEYS}
+        entry = {
+            key: strip_helper_fields(value)
+            for key, value in entry.items()
+            if key not in HELPER_KEYS
+        }
         if set(entry.keys()) == {"text"}:
             return entry["text"]
         return entry
@@ -173,8 +188,24 @@ def strip_helper_fields(entry):
     return entry
 
 
+def get_photo_for_variant(variant: str, env: dict[str, str]) -> str:
+    base_path = env.get("CV_PHOTO") or "../images/jesus_erro_2019.png"
+    base_stem = Path(base_path).stem
+    suffix = VARIANT_PHOTO_SUFFIXES.get(variant, "")
+    year = DEFAULT_PHOTO_YEAR
+
+    photo_name = f"jesus_erro_{year}{suffix}.png"
+    photo_path = f"../images/{photo_name}"
+
+    if (ROOT / "images" / photo_name).exists():
+        return photo_path
+
+    return base_path
+
+
 def build_variant(master: dict, variant: str) -> dict:
-    rendered = substitute_env(copy.deepcopy(master), build_dynamic_env())
+    env = build_dynamic_env()
+    rendered = substitute_env(copy.deepcopy(master), env)
     rendered = linkify_text_fields(rendered)
     variant_meta = rendered.get("meta", {}).get("variants", {}).get(variant, {})
     cv = rendered["cv"]
@@ -187,12 +218,19 @@ def build_variant(master: dict, variant: str) -> dict:
             filtered_sections[section_name] = entries
             continue
 
-        selected = [strip_helper_fields(item) for item in entries if include_entry(item, variant)]
+        selected = [
+            strip_helper_fields(item)
+            for item in entries
+            if include_entry(item, variant)
+        ]
         if selected:
             filtered_sections[section_name] = selected
 
     cv["sections"] = filtered_sections
-    cv["photo"] = resolve_relative_asset(cv.get("photo", ""), OUTPUT_FILES[variant].parent)
+    cv["photo"] = get_photo_for_variant(variant, env)
+    cv["photo"] = resolve_relative_asset(
+        cv.get("photo", ""), OUTPUT_FILES[variant].parent
+    )
     return {"cv": cv}
 
 
@@ -200,7 +238,9 @@ def write_variant(variant: str, payload: dict) -> None:
     path = OUTPUT_FILES[variant]
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8") as handle:
-        handle.write(f"# Generated from cv/master/jesus_erro_cv_master.yaml for variant: {variant}\n")
+        handle.write(
+            f"# Generated from cv/master/jesus_erro_cv_master.yaml for variant: {variant}\n"
+        )
         yaml.safe_dump(payload, handle, allow_unicode=True, sort_keys=False)
 
 

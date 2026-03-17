@@ -16,6 +16,5 @@ cv/generated/
 .venv/
 __pycache__/
 
-images/JesusErro_400_original.jpg
-images/JesusErro_400.jpg
-images/JesusErro.png
+images/jesus_erro*
+
