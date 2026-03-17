@@ -15,7 +15,7 @@ meta:
 
 cv:
   name: ${CV_NAME}
-  photo: ${CV_PHOTO}
+  photo: ${CV_PHOTO:default}
   headline: Senior Backend Developer | Machine Learning | Data Analytics
   location: ${CV_LOCATION}
   email: ${CV_EMAIL}
