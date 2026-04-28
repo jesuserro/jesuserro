@@ -47,6 +47,18 @@ cv:
         targets: [full, it, it_core, ita, mechanics]
 
     experience:
+      - company: "IXATU | [ixatu.com](https://www.ixatu.com/)"
+        position: _Administrative Data Operations Assistant_
+        start_date: 2026-04
+        location: Ansoáin, Navarre, Spain
+        targets: [full, it, it_core]
+        highlights:
+          - Supported administrative data operations by recording, updating, reviewing, and organizing business information in internal tools and structured documents.
+          - Assisted with digital documentation workflows, including file organization, templates, lists, tracking sheets, and basic procedure documentation.
+          - Helped maintain operational information related to customers, suppliers, contracts, offers, and internal business processes.
+          - Used Excel and digital tools to prepare, clean, structure, and review data for day-to-day administrative and operational needs.
+          - Contributed to reducing manual workload by supporting repetitive data tasks, improving information order, and following defined internal procedures.
+          - Applied a data-oriented mindset to administrative support, with attention to accuracy, traceability, consistency, and process reliability.
       - company: "DIFFERENT TRAVEL S.L.U. | [Centraldereservas.com](https://www.centraldereservas.com/)"
         position: _Former IT Developer_
         start_date: 2006-04

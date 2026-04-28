@@ -130,6 +130,26 @@
 <div align="center">
   <table style="border: 1px solid #ddd; border-collapse: collapse; width: 100%; margin: 1em 0; font-family: Arial, sans-serif;">
     <tbody>
+      <!-- 0) Apr 2026 -->
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
+          🔥 <b>Apr 2026</b><br>Profiling, Runtime & Workstation
+        </td>
+        <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
+          <a href="https://grafana.com/oss/pyroscope/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Pyroscope-Profiling-F46800?style=for-the-badge&logo=grafana&logoColor=white"
+                alt="Pyroscope profiling" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://en.wikipedia.org/wiki/Runtime_system" rel="nofollow">
+            <img src="https://img.shields.io/badge/runtime-repo%20separation-4ECDC4?style=for-the-badge&logo=code&logoColor=white"
+                alt="runtime repo separation" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://www.minisforum.com/products/minisforum-ms-a2" rel="nofollow">
+            <img src="https://img.shields.io/badge/MS--A2-workstation%20hardware-111827?style=for-the-badge&logo=amd&logoColor=white"
+                alt="MS-A2 workstation hardware" style="max-height: 24px; vertical-align: middle;">
+          </a>
+        </td>
+      </tr>
       <!-- 0) Nov 2025 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
