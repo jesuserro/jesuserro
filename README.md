@@ -133,20 +133,64 @@
       <!-- 0) Apr 2026 -->
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top; background-color: #f9f9f9; width: 220px;">
-          🔥 <b>Apr 2026</b><br>Profiling, Runtime & Workstation
+          🔥 <b>Apr 2026</b><br>Profiling, Runtime & Operational Control
         </td>
         <td style="border: 1px solid #ddd; padding: 8px; vertical-align: top;">
           <a href="https://grafana.com/oss/pyroscope/" rel="nofollow">
-            <img src="https://img.shields.io/badge/Pyroscope-Profiling-F46800?style=for-the-badge&logo=grafana&logoColor=white"
-                alt="Pyroscope profiling" style="max-height: 24px; vertical-align: middle;">
+            <img src="https://img.shields.io/badge/Pyroscope-flamegraphs-F46800?style=for-the-badge&logo=grafana&logoColor=white"
+                alt="Pyroscope flamegraphs" style="max-height: 24px; vertical-align: middle;">
           </a>
+          <img src="https://img.shields.io/badge/hotspot%20analysis-profiling-DC2626?style=for-the-badge&logo=speedtest&logoColor=white"
+              alt="hotspot analysis" style="max-height: 24px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/store--pg-CLI-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+              alt="store-pg CLI" style="max-height: 24px; vertical-align: middle;">
+          <a href="https://www.postgresql.org/docs/current/app-pgdump.html" rel="nofollow">
+            <img src="https://img.shields.io/badge/pg__dump-backups-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+                alt="pg_dump backups" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <a href="https://www.postgresql.org/docs/18/" rel="nofollow">
+            <img src="https://img.shields.io/badge/PostgreSQL%2018-operations-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+                alt="PostgreSQL 18 operations" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <img src="https://img.shields.io/badge/bulk%20runs-pipeline-0EA5E9?style=for-the-badge&logo=apacheairflow&logoColor=white"
+              alt="bulk runs pipeline" style="max-height: 24px; vertical-align: middle;">
+          <a href="https://www.soda.io/" rel="nofollow">
+            <img src="https://img.shields.io/badge/Soda-DQ%20reports-7C3AED?style=for-the-badge&logo=databricks&logoColor=white"
+                alt="Soda DQ reports" style="max-height: 24px; vertical-align: middle;">
+          </a>
+          <img src="https://img.shields.io/badge/acceptance%20targets-quality-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white"
+              alt="acceptance targets" style="max-height: 24px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/ARG__MAX-hardening-111827?style=for-the-badge&logo=gnubash&logoColor=white"
+              alt="ARG_MAX hardening" style="max-height: 24px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/scope%20by-run__id-111827?style=for-the-badge&logo=target&logoColor=white"
+              alt="scope by run_id" style="max-height: 24px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Goodreads-anchors-372213?style=for-the-badge&logo=goodreads&logoColor=white"
+              alt="Goodreads anchors" style="max-height: 24px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/exact%20matching-precedence-0F766E?style=for-the-badge&logo=semanticweb&logoColor=white"
+              alt="exact matching precedence" style="max-height: 24px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/person%2Fwork%2Fedition-resolution-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white"
+              alt="MDM person work edition resolution" style="max-height: 24px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/role%20semantics-MDM-8B5CF6?style=for-the-badge&logo=semanticweb&logoColor=white"
+              alt="MDM role semantics" style="max-height: 24px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Control%20Plane-facets-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white"
+              alt="Control Plane facets" style="max-height: 24px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/Big%20Pickle-analyst%20agents-795548?style=for-the-badge&logo=python&logoColor=white"
+              alt="Big Pickle analyst agents" style="max-height: 24px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/prompts-plan%2Fbuild-111827?style=for-the-badge&logo=openai&logoColor=white"
+              alt="prompts plan build" style="max-height: 24px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/agent%20knowledge-vaults-483699?style=for-the-badge&logo=markdown&logoColor=white"
+              alt="agent knowledge in Obsidian" style="max-height: 24px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/ADRs-decision%20records-0891B2?style=for-the-badge&logo=readthedocs&logoColor=white"
+              alt="ADRs decision records" style="max-height: 24px; vertical-align: middle;">
+          <img src="https://img.shields.io/badge/bit%C3%A1coras-agent%20logs-374151?style=for-the-badge&logo=markdown&logoColor=white"
+              alt="agent logs" style="max-height: 24px; vertical-align: middle;">
           <a href="https://en.wikipedia.org/wiki/Runtime_system" rel="nofollow">
-            <img src="https://img.shields.io/badge/runtime-repo%20separation-4ECDC4?style=for-the-badge&logo=code&logoColor=white"
-                alt="runtime repo separation" style="max-height: 24px; vertical-align: middle;">
+            <img src="https://img.shields.io/badge/runtime-isolation-4ECDC4?style=for-the-badge&logo=code&logoColor=white"
+                alt="runtime isolation" style="max-height: 24px; vertical-align: middle;">
           </a>
           <a href="https://www.minisforum.com/products/minisforum-ms-a2" rel="nofollow">
-            <img src="https://img.shields.io/badge/MS--A2-workstation%20hardware-111827?style=for-the-badge&logo=amd&logoColor=white"
-                alt="MS-A2 workstation hardware" style="max-height: 24px; vertical-align: middle;">
+            <img src="https://img.shields.io/badge/MS--A2-station-111827?style=for-the-badge&logo=amd&logoColor=white"
+                alt="MS-A2 station" style="max-height: 24px; vertical-align: middle;">
           </a>
         </td>
       </tr>
