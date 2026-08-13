@@ -13,6 +13,26 @@ meta:
     mechanics:
       headline: Machining & Workshop Operations | CAD/CAM, CNC & Quality
 
+  experience_evidence:
+    centraldereservas_systems_approx_2015:
+      confidence: partial-memory
+      timeframe: approximately 2015
+      duration: approximately two weeks
+      confirmed_facts:
+        - Temporarily supported the Systems team during a team member's absence.
+        - Worked directly under the Head of Systems.
+        - Used shell commands on company systems.
+        - Performed functional checks/testing to verify correct operation.
+        - A possible move to the Systems department was discussed afterwards, but the role remained in development.
+      uncertain_recollections:
+        - The work may have been related to payment gateways.
+        - Klarna is vaguely remembered but cannot be confirmed.
+      prohibited_claims:
+        - Do not claim Klarna experience as a fact.
+        - Do not claim payment gateway administration or specialist payment expertise.
+        - Do not expand the assignment beyond approximately two weeks.
+        - Do not invent specific payment operations or infrastructure tasks.
+
 cv:
   name: ${CV_NAME}
   photo: ${CV_PHOTO:default}
@@ -60,15 +80,17 @@ cv:
           - Contributed to reducing manual workload by supporting repetitive data tasks, improving information order, and following defined internal procedures.
           - Applied a data-oriented mindset to administrative support, with attention to accuracy, traceability, consistency, and process reliability.
       - company: "DIFFERENT TRAVEL S.L.U. | [Centraldereservas.com](https://www.centraldereservas.com/)"
-        position: _Former IT Developer_
+        position: _IT Developer_
         start_date: 2006-04
         end_date: 2024-08
         location: "📍 [Zaragoza, Spain](https://maps.app.goo.gl/JiFgP4i67NAjnnkT8)"
         targets: [full, it, it_core]
         highlights:
-          - Led the development and maintenance of core systems for a travel agency and booking platform.
-          - "Improved internal tools: wholesale offer mappings, hotel room and board mappings, locations and geographic entities, reservation management (NewGestion), customer reservation mailings, affiliate management, debt control, travel guides, and blogs."
-          - Strengthened the day-to-day operation of reservation workflows by improving the systems behind bookings, customer and supplier records, and automated communications.
+          - Developed and maintained core business applications for Centraldereservas.com, an online travel and booking platform, throughout an 18-year tenure.
+          - Worked across reservation management, wholesale offer mappings, hotel room and board mappings, geographic entities, customer communications, affiliate management, debt control, travel guides, blogs, and internal operational tooling.
+          - Improved and maintained the systems supporting day-to-day reservation workflows, customer and supplier information, automated communications, and other business-critical processes.
+          - Around 2015, temporarily supported the Systems team for approximately two weeks during a team member's absence, working directly under the Head of Systems.
+          - Used shell commands on company systems and performed functional checks/testing to verify correct operation after technical interventions.
           - "References: ${REFS_CENTRALDERESERVAS_COM}."
       
       - company: "Remember Me/Memory System | [Remem.me](https://www.remem.me/es/)"
