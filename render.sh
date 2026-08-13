@@ -12,13 +12,14 @@ if [[ ! -x "$RENDERCV_BIN" ]]; then
   RENDERCV_BIN="rendercv"
 fi
 
-variants=(full it it_core ita mechanics)
+variants=(full it it_core ecommerce_ai ita mechanics)
 all_output_dir="$ROOT_DIR/cv/rendercv_output/all"
 
 declare -A input_files=(
   [full]="$ROOT_DIR/cv/generated/jesus_erro_cv_full.yaml"
   [it]="$ROOT_DIR/cv/generated/jesus_erro_cv_it.yaml"
   [it_core]="$ROOT_DIR/cv/generated/jesus_erro_cv_it_core.yaml"
+  [ecommerce_ai]="$ROOT_DIR/cv/generated/jesus_erro_cv_ecommerce_ai.yaml"
   [ita]="$ROOT_DIR/cv/generated/jesus_erro_cv_ita.yaml"
   [mechanics]="$ROOT_DIR/cv/generated/jesus_erro_cv_mechanics.yaml"
 )
