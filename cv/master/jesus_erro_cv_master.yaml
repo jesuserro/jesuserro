@@ -43,6 +43,7 @@ cv:
   location: ${CV_LOCATION}
   email: ${CV_EMAIL}
   phone: ${CV_PHONE}
+  website: https://www.jesuserro.com/
   social_networks:
     - network: GitHub
       username: jesuserro
