@@ -23,6 +23,11 @@
 
 # 💻 Senior Developer | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python Icon" width="20px" style="vertical-align: middle;"/> Data Analyst | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT Icon" width="20px" style="vertical-align: middle;"/>  Machine Learning
 
+## 📄 CV
+
+- **Source of truth:** `cv/master/jesus_erro_cv_master.yaml`
+- **Render:** `./render.sh`
+
 ## 🌟 Featured Projects
 
 ### 🛢 **Data Engineering & ETL**
