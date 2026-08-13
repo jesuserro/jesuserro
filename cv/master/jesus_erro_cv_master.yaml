@@ -69,7 +69,7 @@ cv:
     experience:
       - company: "IXATU | [ixatu.com](https://www.ixatu.com/)"
         position: _Administrative Data Operations Assistant_
-        start_date: 2026-04
+        start_date: 2026-05
         location: Ansoáin, Navarre, Spain
         targets: [full, it, it_core]
         highlights:
@@ -283,17 +283,17 @@ cv:
         targets: [full, it, it_core, ita, mechanics]
 
     projects:
-      - name: "IXATU Platform"
-        start_date: 2026-04
+      - name: "IXATU Operations"
+        start_date: 2026-08
         targets: [full, it, it_core]
-        summary: Internal data-platform modernization initiative moving legacy energy-sector data from Azure SQL toward PostgreSQL.
+        summary: Python-based internal operations tooling designed to modernize legacy Microsoft Access interfaces.
         highlights:
-          - "**Action:** Worked on modernizing an existing Azure SQL data environment toward PostgreSQL."
-          - "**Context:** Designed separate PostgreSQL environments for production, sanitized AI-assisted analysis, and development scenarios with reusable fixtures."
-          - "**Result:** Defined a safer, more reproducible, and maintainable data foundation for modern operational and AI-assisted workflows."
+          - "**Action:** Developed new Python-based operational panels and forms over the existing business database."
+          - "**Context:** Focused on progressively replacing legacy Microsoft Access interfaces while preserving existing business data and workflows."
+          - "**Result:** Created a path toward more maintainable internal tools and incremental modernization of day-to-day operations."
 
       - name: "IXATU Billing"
-        start_date: 2026-04
+        start_date: 2026-07
         targets: [full, it, it_core]
         summary: Browser-automation tooling for recurring invoice retrieval workflows.
         highlights:
@@ -301,14 +301,14 @@ cv:
           - "**Context:** Worked with Chrome DevTools Protocol (CDP) and X11-based browser environments for invoice retrieval workflows."
           - "**Result:** Automated repetitive invoice-download steps and reduced manual operational work."
 
-      - name: "IXATU Operations"
-        start_date: 2026-04
+      - name: "IXATU Platform"
+        start_date: 2026-06
         targets: [full, it, it_core]
-        summary: Python-based internal operations tooling designed to modernize legacy Microsoft Access interfaces.
+        summary: Internal data-platform modernization initiative moving legacy energy-sector data from Azure SQL toward PostgreSQL.
         highlights:
-          - "**Action:** Developed new Python-based operational panels and forms over the existing business database."
-          - "**Context:** Focused on progressively replacing legacy Microsoft Access interfaces while preserving existing business data and workflows."
-          - "**Result:** Created a path toward more maintainable internal tools and incremental modernization of day-to-day operations."
+          - "**Action:** Worked on modernizing an existing Azure SQL data environment toward PostgreSQL."
+          - "**Context:** Designed separate PostgreSQL environments for production, sanitized AI-assisted analysis, and development scenarios with reusable fixtures."
+          - "**Result:** Defined a safer, more reproducible, and maintainable data foundation for modern operational and AI-assisted workflows."
 
       - name: "Energy Offer Comparison Engine"
         start_date: 2026-05
