@@ -26,14 +26,15 @@ meta:
         - Used shell commands on company systems.
         - Performed functional checks/testing to verify correct operation.
         - A possible move to the Systems department was discussed afterwards, but the role remained in development.
-      uncertain_recollections:
-        - The work may have been related to payment gateways.
-        - Klarna is vaguely remembered but cannot be confirmed.
+      user_recollection:
+        - The temporary Systems assignment is remembered as involving payment-gateway-related systems.
+        - The exact provider and detailed payment responsibilities cannot be confirmed.
       prohibited_claims:
-        - Do not claim Klarna experience as a fact.
-        - Do not claim payment gateway administration or specialist payment expertise.
+        - Do not claim a specific payment provider.
+        - Do not claim payment gateway configuration ownership.
+        - Do not claim payment gateway administration.
+        - Do not claim PSP expertise or specialist payment expertise.
         - Do not expand the assignment beyond approximately two weeks.
-        - Do not invent specific payment operations or infrastructure tasks.
 
 cv:
   name: ${CV_NAME}
@@ -91,8 +92,8 @@ cv:
           - Developed and maintained core business applications for Centraldereservas.com, an online travel and booking platform, throughout an 18-year tenure.
           - Worked across reservation management, wholesale offer mappings, hotel room and board mappings, geographic entities, customer communications, affiliate management, debt control, travel guides, blogs, and internal operational tooling.
           - Improved and maintained the systems supporting day-to-day reservation workflows, customer and supplier information, automated communications, and other business-critical processes.
-          - Around 2015, temporarily supported the Systems team for approximately two weeks during a team member's absence, working directly under the Head of Systems.
-          - Used shell commands on company systems and performed functional checks/testing to verify correct operation after technical interventions.
+          - Around 2015, temporarily supported the Systems team for approximately two weeks during a team member's absence, working directly under the Head of Systems and gaining limited exposure to payment-gateway-related systems in a business-critical eCommerce environment.
+          - Used shell commands and performed operational and functional checks/testing to verify correct system behaviour after technical interventions.
           - "References: ${REFS_CENTRALDERESERVAS_COM}."
       
       - company: "Remember Me/Memory System | [Remem.me](https://www.remem.me/es/)"
