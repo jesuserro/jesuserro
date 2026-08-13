@@ -8,6 +8,8 @@ meta:
       headline: Senior Backend Developer | Data Engineering | Machine Learning
     it_core:
       headline: Senior Backend Developer | Data Platforms | Developer Tooling
+    ecommerce_ai:
+      headline: Senior Software Engineer | eCommerce Systems, Automation & AI
     ita:
       headline: Agricultural Engineering | Horticulture, Irrigation & GIS
     mechanics:
@@ -24,14 +26,15 @@ meta:
         - Used shell commands on company systems.
         - Performed functional checks/testing to verify correct operation.
         - A possible move to the Systems department was discussed afterwards, but the role remained in development.
-      uncertain_recollections:
-        - The work may have been related to payment gateways.
-        - Klarna is vaguely remembered but cannot be confirmed.
+      user_recollection:
+        - The temporary Systems assignment is remembered as involving payment-gateway-related systems.
+        - The exact provider and detailed payment responsibilities cannot be confirmed.
       prohibited_claims:
-        - Do not claim Klarna experience as a fact.
-        - Do not claim payment gateway administration or specialist payment expertise.
+        - Do not claim a specific payment provider.
+        - Do not claim payment gateway configuration ownership.
+        - Do not claim payment gateway administration.
+        - Do not claim PSP expertise or specialist payment expertise.
         - Do not expand the assignment beyond approximately two weeks.
-        - Do not invent specific payment operations or infrastructure tasks.
 
 cv:
   name: ${CV_NAME}
@@ -52,11 +55,11 @@ cv:
   sections:
     summary:
       - text: Born on ${CV_BIRTH_DATE_WITH_AGE}, ${CV_LOCATION}.
-        targets: [full, it, it_core, ita, mechanics]
+        targets: [full, it, it_core, ecommerce_ai, ita, mechanics]
       - text: Full-stack and backend developer with 25+ years of experience building and maintaining business software systems, internal tools, and customer-facing platforms.
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
       - text: Currently focused on building product-oriented data and AI workflows, combining pipeline orchestration and automation with machine learning, MCP-enabled tools, and agent-based systems.
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
       - text: Agricultural engineering profile with training and hands-on experience in gardening, horticulture, greenhouse work, irrigation systems, garden maintenance, GIS, and watershed analysis with KINEROS.
         targets: [full, ita]
       - text: Technical profile in machining and workshop operations with hands-on experience in CAD/CAM, CNC, lathe, milling, grinding, and quality-focused industrial work.
@@ -71,7 +74,7 @@ cv:
         position: _Administrative Data Operations Assistant_
         start_date: 2026-05
         location: Ansoáin, Navarre, Spain
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
         highlights:
           - Supported administrative data operations by recording, updating, reviewing, and organizing business information in internal tools and structured documents.
           - Assisted with digital documentation workflows, including file organization, templates, lists, tracking sheets, and basic procedure documentation.
@@ -84,13 +87,13 @@ cv:
         start_date: 2006-04
         end_date: 2024-08
         location: "📍 [Zaragoza, Spain](https://maps.app.goo.gl/JiFgP4i67NAjnnkT8)"
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
         highlights:
           - Developed and maintained core business applications for Centraldereservas.com, an online travel and booking platform, throughout an 18-year tenure.
           - Worked across reservation management, wholesale offer mappings, hotel room and board mappings, geographic entities, customer communications, affiliate management, debt control, travel guides, blogs, and internal operational tooling.
           - Improved and maintained the systems supporting day-to-day reservation workflows, customer and supplier information, automated communications, and other business-critical processes.
-          - Around 2015, temporarily supported the Systems team for approximately two weeks during a team member's absence, working directly under the Head of Systems.
-          - Used shell commands on company systems and performed functional checks/testing to verify correct operation after technical interventions.
+          - Around 2015, temporarily supported the Systems team for approximately two weeks during a team member's absence, working directly under the Head of Systems and gaining limited exposure to payment-gateway-related systems in a business-critical eCommerce environment.
+          - Used shell commands and performed operational and functional checks/testing to verify correct system behaviour after technical interventions.
           - "References: ${REFS_CENTRALDERESERVAS_COM}."
       
       - company: "Remember Me/Memory System | [Remem.me](https://www.remem.me/es/)"
@@ -110,7 +113,7 @@ cv:
         start_date: 2020-04
         end_date: 2021-07
         location: Pamplona, Navarre, Spain
-        targets: [full, it]
+        targets: [full, it, ecommerce_ai]
         highlights:
           - Contributed to an online bookstore and content platform focused on Amazon book sales through literary reviews.
           - Helped curate engaging review content to connect readers with relevant books and improve discovery.
@@ -256,7 +259,7 @@ cv:
         location: 📍 [Madrid, Spain](https://maps.app.goo.gl/62fij2a5ttbirvfr8)
         start_date: 2025-01
         end_date: 2025-04
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
 
       - institution: "[Public University of Navarre (UPNA)](https://www.unavarra.es/)"
         area: Horticulture and Gardening
@@ -285,7 +288,7 @@ cv:
     projects:
       - name: "IXATU Operations"
         start_date: 2026-08
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
         summary: Python-based internal operations tooling designed to modernize legacy Microsoft Access interfaces.
         highlights:
           - "**Action:** Developed new Python-based operational panels and forms over the existing business database."
@@ -294,7 +297,7 @@ cv:
 
       - name: "IXATU Billing"
         start_date: 2026-07
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
         summary: Browser-automation tooling for recurring invoice retrieval workflows.
         highlights:
           - "**Action:** Developed browser-assisted invoice download automation using Playwright."
@@ -303,7 +306,7 @@ cv:
 
       - name: "IXATU Platform"
         start_date: 2026-06
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
         summary: Internal data-platform modernization initiative moving legacy energy-sector data from Azure SQL toward PostgreSQL.
         highlights:
           - "**Action:** Worked on modernizing an existing Azure SQL data environment toward PostgreSQL."
@@ -312,7 +315,7 @@ cv:
 
       - name: "Energy Offer Comparison Engine"
         start_date: 2026-05
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
         summary: Decision-support application for comparing electricity offers against customer consumption and existing contract conditions.
         highlights:
           - "**Action:** Built a comparison workflow to estimate and compare the cost of energy offers from different retailers."
@@ -321,7 +324,7 @@ cv:
 
       - name: "AI-Powered Dotfiles | [GitHub: jesuserro/dotfiles](https://github.com/jesuserro/dotfiles)"
         start_date: 2026-01
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
         summary: AI-augmented developer workstation built as code for reusable, secure, and production-oriented engineering workflows. Repository https://github.com/jesuserro/dotfiles
         highlights:
           - "**Action:** Designed and developed an AI-augmented developer workstation across OpenCode, Cursor, Codex, and Claude."
@@ -493,7 +496,7 @@ cv:
           - Enhanced user exploration through clearer location discovery workflows.
 
       - name: Proprietary and Wholesale Offers Management System
-        targets: [full, it]
+        targets: [full, it, ecommerce_ai]
         summary: Offers platform for creating proprietary hotel deals and mapping third-party offers to internal products.
         highlights:
           - Led analysis and design for offer creation, package management, and external offer mapping.
@@ -501,7 +504,7 @@ cv:
           - Expanded the company's ability to manage and present a wider range of commercial offers.
 
       - name: Affiliate Management System
-        targets: [full, it]
+        targets: [full, it, ecommerce_ai]
         summary: Partner operations and booking platform for managing affiliates and publishing affiliate offers.
         highlights:
           - Designed internal affiliate CRUD and performance management workflows.
@@ -562,7 +565,7 @@ cv:
         location: 📍 [Zaragoza, Spain](https://maps.app.goo.gl/mv8we3bfpy7VHVnT6)
         start_date: 2024-03
         end_date: 2024-04
-        targets: [full, it]
+        targets: [full, it, ecommerce_ai]
         highlights:
           - Professional course.
           - Applied generative AI to coding assistance, process automation, meeting transcription and summaries, and AI image workflows.
@@ -581,7 +584,7 @@ cv:
         area: Backend Automation, Concurrency and Testing
         location: "📍 [Zaragoza, Spain](https://maps.app.goo.gl/JiFgP4i67NAjnnkT8)"
         date: 2016-02
-        targets: [full, it]
+        targets: [full, it, ecommerce_ai]
         highlights:
           - Internal training.
           - Focused on AWS, Redis, threads, background jobs, workers, automation, and testing practices.
@@ -706,31 +709,31 @@ cv:
 
     skills:
       - label: AI, Machine Learning & Data Science
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
         details: Python, scikit-learn, TensorFlow, Keras, XGBoost, NLP, LLM Workflows, Prompt Engineering, Feature Engineering, ML Pipelines
 
       - label: Data Engineering, PostgreSQL & Analytics
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
         details: PostgreSQL, SQL, pandas, NumPy, ETL, Data Pipelines, Incremental Processing, Data Lineage, EDA, A/B Testing, Tableau, Matplotlib, Seaborn, Plotly, Dashboards
 
       - label: AI Infrastructure & Observability
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
         details: AI Agents, Model Context Protocol (MCP), AI Orchestration, OpenTelemetry, Grafana, Prometheus, Docker, CI/CD, Configuration as Code
 
       - label: React, TypeScript & Product Development
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
         details: React, TypeScript, JavaScript, Node.js, Streamlit, FastAPI
 
       - label: Architecture & Engineering Practices
-        targets: [full, it, it_core]
+        targets: [full, it, it_core, ecommerce_ai]
         details: Data Platform Architecture, Modular Systems, API Design, Observability, Configuration as Code, Developer Tooling, TDD, DDD, Git
 
       - label: Legacy Web Technologies
-        targets: [full, it]
+        targets: [full, it, ecommerce_ai]
         details: PHP, Zend Framework, Sencha/ExtJS, MySQL, WordPress
 
       - label: Operations, Documentation & Delivery
-        targets: [full, it]
+        targets: [full, it, ecommerce_ai]
         details: Technical Documentation, QoS Testing, Process Improvement, Cross-functional Delivery, Business-Critical Operations Support
 
       - label: Agricultural Operations & Field Systems
@@ -742,5 +745,5 @@ cv:
         details: CAD/CAM, CNC, Lathe, Milling Machines, Grinding Machines, Workshop Operations, Quality Control, Industrial Production Support
 
       - label: Languages
-        targets: [full, it, it_core, ita, mechanics]
+        targets: [full, it, it_core, ecommerce_ai, ita, mechanics]
         details: Spanish (Native), English (Full Professional)

@@ -16,11 +16,12 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 MASTER_PATH = ROOT / "cv" / "master" / "jesus_erro_cv_master.yaml"
 GENERATED_DIR = ROOT / "cv" / "generated"
-VARIANTS = ("full", "it", "it_core", "ita", "mechanics")
+VARIANTS = ("full", "it", "it_core", "ecommerce_ai", "ita", "mechanics")
 VARIANT_PHOTO_SUFFIXES = {
     "full": "",
     "it": "_it",
     "it_core": "_it",
+    "ecommerce_ai": "_it",
     "ita": "_ita",
     "mechanics": "_mechanics",
 }
@@ -29,6 +30,7 @@ OUTPUT_FILES = {
     "full": GENERATED_DIR / "jesus_erro_cv_full.yaml",
     "it": GENERATED_DIR / "jesus_erro_cv_it.yaml",
     "it_core": GENERATED_DIR / "jesus_erro_cv_it_core.yaml",
+    "ecommerce_ai": GENERATED_DIR / "jesus_erro_cv_ecommerce_ai.yaml",
     "ita": GENERATED_DIR / "jesus_erro_cv_ita.yaml",
     "mechanics": GENERATED_DIR / "jesus_erro_cv_mechanics.yaml",
 }
